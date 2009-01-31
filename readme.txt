@@ -1,5 +1,2 @@
-base -> chantra base directory
-desprog -> program description templates
-distree -> menu javascript
-programs -> oss programs category in dirs 
-utils -> utilities for bundle 
+* Initial Chantra 4.XX for 2009
+* Using structure and sample from OpenDisc 8.10
