@@ -1,0 +1,136 @@
+
+#logo_frame {
+	position: fixed;
+	top: 50px;
+	width: 180px;
+	right: 0px;
+	bottom: 50px;
+	border-left: dashed 3px #e3e3e3;
+	padding-left: 10px;
+} 
+
+#logo_frame .links {
+	position: fixed;
+	bottom: 50px;
+	padding-left: 3px;
+} 
+
+.logocell {
+	width: 70px;
+	padding-left: 20px;
+}
+
+.logocell a > img:first-child  {
+}
+
+.installcell {
+	width: 40px;
+	padding-left: 15px;
+}
+
+.categoryTable {
+	text-align: left;
+	width: 100%;
+}
+
+.categoryTable tbody {
+	display:none;
+}
+
+.bullet {
+	cursor: pointer;
+	background: url('../img/bullet_right.png') no-repeat;
+	padding-left: 40px;
+	padding-top: 22px;
+}
+
+#winfoss_block {
+	position: absolute;
+	overflow: auto;
+	top: 50px;
+	bottom: 30px;
+	right: 194px;
+	left: 0px;
+	padding: 5px 10px 0px 10px;
+}
+
+#winfoss_block h2 {
+	color: black;
+	margin-bottom: 10px;
+}
+
+#winfoss_block h3 {
+	margin-bottom: 10px;
+	padding: 0 0 0 0; 
+}
+
+#winfoss_block p {
+	font-size: 0.9em;
+	margin: -4px 0 25px 0;
+}
+
+#winfoss_block p.foot {
+	font-size: 0.8em;
+	margin: 0px 20px 4px 10px;
+}
+
+#winfoss_block table {
+	padding: 0 0 0px 20px;
+}
+
+#winfoss_block table tr {
+	border: 1px black solid;
+}
+
+img.front_shot {
+	position: absolute;
+	right: 10px;
+	top: 25px;
+	width: 225px;
+	height: 170px;
+	background-image: url(../img/shadow225.png);
+	padding: 5px 15px 15px 5px;
+	float: right;
+}
+
+a.ubuntu_info { position:absolute; text-decoration: none;}
+a.ubuntu_info span { display: none; text-decoration: none;}
+
+/*the span will display just on :hover state*/
+a.ubuntu_info:hover span { 
+    display:block;
+    position:absolute;
+	border: 2px solid #534d3f;
+	color: black;
+	background: #e5ebf3;
+	-moz-border-radius:8px; 
+	-moz-opacity: 0.80;
+    top: 165px; 
+	left: 130px; 
+	width: 280px;
+	padding: 5px;
+	letter-spacing: 0.1em;
+    text-align: left;
+	text-decoration: none;
+}
+
+#logo_frame a.ubuntu_info img.big_logo { 
+	position: absolute;
+	margin-left: 0px;
+}
+
+#logo_frame p { 
+	margin-top: 30px;
+}
+
+#extralinks {
+	font-weight: bold;
+	position: absolute;
+	top: -5px;
+	left: 450px;
+}
+
+#extralinks a:link, #extralinks a:visited, #extralinks a:active, #extralinks a:hover{
+	text-decoration: none;
+	color: blue;
+}
