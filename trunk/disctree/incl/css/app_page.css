@@ -14,7 +14,7 @@
 }
 
 #app_text_block p {
-  text-align: justify;
+  /*text-align: justify;*/
 }
 
 #app_title_text {
@@ -23,7 +23,7 @@
 	left: 20px;
 	text-align: left;
 	font-size: 28px;
-	letter-spacing: 3px;
+	font-weight: bold;
 	color: #303b4a;
 }
 
@@ -74,7 +74,6 @@ img.insticon {
 	right:100px;
 	text-align: right;
 	font-size: 16px;
-	letter-spacing: 2px;
 	color: #505050;
 }
 
