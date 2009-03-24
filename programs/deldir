@@ -1,0 +1,4 @@
+for((i=0;i<38;i++))
+do
+	rmdir NR==$i+1
+done
