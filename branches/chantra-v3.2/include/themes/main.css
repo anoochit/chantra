@@ -1,0 +1,173 @@
+@import "menu/menu.css"; /* draw menu */
+@import "side_icons.css"; /* draw buttons && info */
+
+body {
+	color: #3d3d3d;
+	font-family: "Angsana New", sans-serif;
+	margin-left: 0px;
+	margin-right: 0px;
+    margin-top: 0px;
+	margin-bottom: 0px;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.main {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+p, dt, dd, li, blockquote {
+	font-family: ,"Cordia New", sans-serif;
+	font-size: 14pt;
+	text-align: left;
+	color: #333333;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+
+.smalltext {
+	font-family: "Cordia New", sans-serif;
+	font-size: 11pt;
+	text-align: center;
+	color: black;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+blockquote {
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+a {
+	color:#000090;
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #000090;
+	background-color: #CECECE;
+	text-decoration: underline;
+}
+
+dt, h2, h3 {
+	font-family: "Browallia New", sans-serif;
+	color:#1551BD;
+	font-weight:bold;
+	text-align: left;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+h3 {
+	font-size: 13pt;
+	font-weight: normal;
+}
+
+h2 {
+	font-size: 14pt;
+}
+
+h1 {
+	color: black;
+	font-size: 28px;
+	font-family:  sans-serif;
+	text-align: left;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+thead.list, tbody.list {
+	font-family: ,"Cordia New", sans-serif;
+	font-size: 14pt;
+	color: #333333;
+	text-align: center;
+}
+
+thead.list {
+	font-weight:bold;
+}
+
+tr, td {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+thead {
+	font-weight: bold;
+}
+
+ol, ul {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+img { 
+	border: 0; 
+}
+
+.hide {  
+	display: none;
+}
+
+#main_block, #main_block_wide {
+	position: relative;
+	background-attachment: auto;
+	overflow: auto;
+	height: 324px;
+}
+
+#main_block_wide {
+    width: 100%;
+}
+
+#main_text_block p 
+{ 
+	text-indent: 1.5em;
+}
+
+.thumb_frame  { 
+}
+
+.side_bar, .side_bar2 {
+	float: right; 
+	font-size: 13pt;
+	position: relative;
+	width: 150px;
+	right: 0;
+	border: 1px dashed #808080;
+	padding: 3px 3px 3px 3px;
+	margin: 0px 3px 0px 3px;
+	background-color: #C6C6C6; 
+}
+
+.side_bar2 {
+	width: 100%;
+}
+
+#info_box {
+	font-family: "Cordia New";
+	font-size: 16px;
+	background-color: #FFFFAA;
+	padding: 10px;
+	border: 1px dotted #4444BB;
+	margin-left: 10px;
+}
+
+#setup_box {
+	margin-top: 15px;
+	text-align: center;
+}
+
+.info_text1,
+.info_text2 {
+	font-size: 16px;
+}
+
+.litecell {
+	padding: 0px;
+	margin: 0px;
+	text-align: left;
+}
