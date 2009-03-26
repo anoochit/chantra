@@ -1,2 +1,2 @@
 [Launch] 
-ExecuteFile=${cwd}\..\programs\7zip\setup.exe
+ExecuteFile=${cwd}\..\programs\7zip\7zip4.65-setup.exe
