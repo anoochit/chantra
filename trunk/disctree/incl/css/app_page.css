@@ -49,6 +49,14 @@
 	bottom: 15px;
 }
 
+#content_logo {
+	position: absolute;
+	padding: 0;
+	top: 90px;
+	left: 20px;
+	bottom: 15px;
+}
+
 #screen_shot_block img {
 	width: 200px;
 	height: 150px;
