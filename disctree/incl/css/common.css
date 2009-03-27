@@ -31,7 +31,7 @@ p a:hover {
     
 h1 {
 	font-size: 1.3em;
-	font-family: Verdana, Helvetica, Arial, sans-serif;
+/*	font-family: Verdana, Helvetica, Arial, sans-serif; */
 	font-weight: normal;
 	color: Sienna;
 	margin-top: 15px;
@@ -43,7 +43,7 @@ h1 {
 h2 {
 	font-size: 1.0em;
 	font-weight: normal;
-	font-family: Helvetica, Arial, sans-serif;
+/*	font-family: Helvetica, Arial, sans-serif; */
 	margin-top: 0.5em;
 	text-align: left;
 	margin-bottom: 0px;
