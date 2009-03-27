@@ -2,16 +2,16 @@
 #labels Phase-Implementation,Phase-QA
 = Delopment Process/Phase=
 
-  # SVN prepare
-  # Commit OpenDisc (trunk)
-  # Check s/w list, version (branches/doc-dev)
-  # Check s/w description, launcher file
+  # ~~SVN prepare~~
+  # ~~Commit OpenDisc (trunk)~~
+  # ~~Check s/w list, version (branches/doc-dev)~~
+  # ~~Check s/w description, launcher file~~
   # Prepare s/w (may be make installer for some software) *วุฒิดูอยู่*
-  # Cover design, CD Cover Design อาทิตย์หน้า 23/03/09 *มะระดูต่อ* (branch/cover_design)
-  # Translate (or copy the old one), s/w description *น้องนิวดูอยู่ ผมกับมะระจะมาช่วยดู* (branch/software_description)
-  # Check "home.html" for launcher main menu, some image file MUST change into Thai or branded color. (trunk)
+  # Cover design, CD Cover Design *มะระดูต่อ* (branch/cover_design)
+  # ~~Translate (or copy the old one), s/w description *น้องนิวดูอยู่ ผมกับมะระจะมาช่วยดู* (branch/software_description)~~
+  # ~~Check "home.html" for launcher main menu, some image file MUST change into Thai or branded color. (trunk)~~
   # Check s/w launcher file MUST match the setup file name, CHANGE all installation files to "setup.exe" *วุฒิดูอยู่*
-  # Merge (or copy for easy way) s/w description and lch files from branch to trunk
+  # ~~Merge (or copy for easy way) s/w description and lch files from branch to trunk~~
   # Copy installation files of each s/w to Chantra 4 Test Disc
   # Testing following *ช่วยกันดู*
     * CD Launcher --> Chantra branding, home menu, title, about, what new, register!
