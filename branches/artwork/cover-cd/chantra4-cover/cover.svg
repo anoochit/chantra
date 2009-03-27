@@ -20,7 +20,7 @@
    inkscape:version="0.46"
    sodipodi:docname="cover.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/gumara/chantra-artwork-svn/cover-cd/chantra4-cover/chantra4-cover-1.png"
+   inkscape:export-filename="/home/gumara/chantra-artwork/cover-cd/chantra4-cover/chantra4-cover-3.png"
    inkscape:export-xdpi="300.02539"
    inkscape:export-ydpi="300.02539">
   <metadata
@@ -38,12 +38,12 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="628.04455"
-     inkscape:cy="190.34104"
+     inkscape:zoom="2"
+     inkscape:cx="1566.6264"
+     inkscape:cy="178.05557"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:current-layer="g4616"
+     inkscape:current-layer="svg2"
      units="cm"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -10024,7 +10024,10 @@
        xlink:href="Photoshop_CS4.png" />
     <g
        id="g5025"
-       transform="matrix(1.5538132,0,0,1.5538132,4005.7192,-94.465271)">
+       transform="matrix(1.5538132,0,0,1.5538132,4005.7192,-94.465271)"
+       inkscape:export-filename="/home/gumara/chantra-artwork-svn/cover-cd/chantra4-cover/label-2.png"
+       inkscape:export-xdpi="300.02539"
+       inkscape:export-ydpi="300.02539">
       <path
          transform="matrix(1.8015332,0,0,1.8015332,-1219.4017,-124.56549)"
          d="M 2140,87.913368 A 117,117 0 1 1 1906,87.913368 A 117,117 0 1 1 2140,87.913368 z"
@@ -10049,7 +10052,10 @@
     <g
        style="display:inline"
        id="g13496"
-       transform="matrix(1.5538132,0,0,1.5538132,1737.152,-94.465271)">
+       transform="matrix(1.5538132,0,0,1.5538132,1737.152,-94.465271)"
+       inkscape:export-filename="/home/gumara/chantra-artwork-svn/cover-cd/chantra4-cover/label-1.png"
+       inkscape:export-xdpi="300.02539"
+       inkscape:export-ydpi="300.02539">
       <path
          transform="matrix(1.8015332,0,0,1.8015332,-1219.4017,-124.56549)"
          d="M 2140,87.913368 A 117,117 0 1 1 1906,87.913368 A 117,117 0 1 1 2140,87.913368 z"
@@ -10691,7 +10697,10 @@
     <g
        style="display:inline"
        id="g7980"
-       transform="matrix(1.5538132,0,0,1.5538132,5629.1368,-94.465271)">
+       transform="matrix(1.5538132,0,0,1.5538132,5629.1368,-94.465271)"
+       inkscape:export-filename="/home/gumara/chantra-artwork-svn/cover-cd/chantra4-cover/label-3.png"
+       inkscape:export-xdpi="300.02539"
+       inkscape:export-ydpi="300.02539">
       <path
          transform="matrix(1.8015332,0,0,1.8015332,-1219.4017,-124.56549)"
          d="M 2140,87.913368 A 117,117 0 1 1 1906,87.913368 A 117,117 0 1 1 2140,87.913368 z"
@@ -16845,7 +16854,7 @@
    style="font-size:27.63536072px;fill:#000000;fill-opacity:1" /></tspan></text>
   <g
      id="g8681"
-     transform="matrix(0.7085756,0,0,0.7085756,160.15733,5.6833596)"
+     transform="matrix(0.7085756,0,0,0.7085756,160.15733,125.68336)"
      style="fill:#ffffff;fill-opacity:1;filter:url(#filter8794)">
     <g
        transform="matrix(0.4159469,0,0,0.4159469,453.5948,34.72892)"
@@ -16971,7 +16980,7 @@
      xml:space="preserve"
      id="flowRoot8718"
      style="font-size:12px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter8870);font-family:Bitstream Vera Sans"
-     transform="matrix(1.1613127,0,0,1.1613127,-30.483473,-307.6563)"><flowRegion
+     transform="matrix(1.1613127,0,0,1.1613127,-30.483473,-187.6563)"><flowRegion
        id="flowRegion8720"><rect
          id="rect8722"
          width="252"
@@ -16984,7 +16993,7 @@
      xml:space="preserve"
      id="flowRoot8726"
      style="font-size:12px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter8790);font-family:Bitstream Vera Sans"
-     transform="matrix(5.4108134,0,0,5.4108134,-2161.1119,-1927.4224)"><flowRegion
+     transform="matrix(5.4108134,0,0,5.4108134,-2161.1119,-1807.4224)"><flowRegion
        id="flowRegion8728"><rect
          id="rect8730"
          width="252"
@@ -16994,7 +17003,7 @@
          style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
        id="flowPara8732">4</flowPara></flowRoot>  <g
      id="g8801"
-     transform="matrix(0.7085756,0,0,0.7085756,160.15733,5.6833596)">
+     transform="matrix(0.7085756,0,0,0.7085756,160.15733,125.68336)">
     <g
        transform="matrix(0.4159469,0,0,0.4159469,453.5948,34.72892)"
        i:extraneous="self"
@@ -17117,7 +17126,7 @@
      xml:space="preserve"
      id="flowRoot8838"
      style="font-size:12px;font-style:normal;font-weight:normal;fill:#20552a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-     transform="matrix(5.4108134,0,0,5.4108134,-2161.1119,-1927.4224)"><flowRegion
+     transform="matrix(5.4108134,0,0,5.4108134,-2161.1119,-1807.4224)"><flowRegion
        id="flowRegion8840"><rect
          id="rect8842"
          width="252"
@@ -17131,12 +17140,12 @@
      width="244.53125"
      height="1.743932"
      x="605.46875"
-     y="106.79443" />
+     y="226.79443" />
   <flowRoot
      xml:space="preserve"
      id="flowRoot8874"
      style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-     transform="matrix(1.1613127,0,0,1.1613127,-30.483473,-307.6563)"><flowRegion
+     transform="matrix(1.1613127,0,0,1.1613127,-30.483473,-187.6563)"><flowRegion
        id="flowRegion8876"><rect
          id="rect8878"
          width="252"
@@ -17407,7 +17416,7 @@
   </g>
   <g
      id="g6456"
-     transform="translate(-8.59375,3.90625)">
+     transform="translate(-0.1139029,5.3204636)">
     <g
        transform="matrix(0.1964678,0,0,0.1964678,1208.9805,35.27818)"
        i:extraneous="self"
@@ -17685,60 +17694,8 @@
      y="-187.19864"
      transform="matrix(0,1,-1,0,0,0)" />
   <g
-     id="g25652">
-    <path
-       transform="matrix(0.6484375,0,0,0.6484375,34.562715,354.92398)"
-       d="M 18.031223,48.701332 A 2.8284271,2.8284271 0 1 1 12.374369,48.701332 A 2.8284271,2.8284271 0 1 1 18.031223,48.701332 z"
-       sodipodi:ry="2.8284271"
-       sodipodi:rx="2.8284271"
-       sodipodi:cy="48.701332"
-       sodipodi:cx="15.202796"
-       id="path8272"
-       style="fill:#20552a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
-       sodipodi:type="arc" />
-    <path
-       transform="matrix(0.6484375,0,0,0.6484375,34.562715,365.02162)"
-       d="M 18.031223,48.701332 A 2.8284271,2.8284271 0 1 1 12.374369,48.701332 A 2.8284271,2.8284271 0 1 1 18.031223,48.701332 z"
-       sodipodi:ry="2.8284271"
-       sodipodi:rx="2.8284271"
-       sodipodi:cy="48.701332"
-       sodipodi:cx="15.202796"
-       id="path5793"
-       style="fill:#20552a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
-       sodipodi:type="arc" />
-    <path
-       transform="matrix(0.6484375,0,0,0.6484375,34.562715,375.0443)"
-       d="M 18.031223,48.701332 A 2.8284271,2.8284271 0 1 1 12.374369,48.701332 A 2.8284271,2.8284271 0 1 1 18.031223,48.701332 z"
-       sodipodi:ry="2.8284271"
-       sodipodi:rx="2.8284271"
-       sodipodi:cy="48.701332"
-       sodipodi:cx="15.202796"
-       id="path5795"
-       style="fill:#20552a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
-       sodipodi:type="arc" />
-    <flowRoot
-       transform="matrix(1.1750088,0,0,1.1750088,83.464842,64.38304)"
-       style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       id="flowRoot5005"
-       xml:space="preserve"><flowRegion
-         id="flowRegion5007"><rect
-           style="font-size:6.80845976px;fill:#000000;fill-opacity:1"
-           y="261.91336"
-           x="-37"
-           height="161.56361"
-           width="194.7332"
-           id="rect5009" /></flowRegion><flowPara
-         id="flowPara5011"
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold">ความต้องการของระบบ</flowPara><flowPara
-         id="flowPara5013"
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">   ระบบปฏิบัติการ Windows 98 หรือสูงกว่า</flowPara><flowPara
-         id="flowPara5017"
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">   หน่วยความจำ 128 MB</flowPara><flowPara
-         id="flowPara5015"
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">   เนื้อที่ว่างในฮาร์ดดิสก์ 200 MB</flowPara></flowRoot>  </g>
-  <g
      id="g6030"
-     transform="matrix(0.3773097,0,0,0.3773097,920.25847,170.74428)">
+     transform="matrix(0.3773097,0,0,0.3773097,927.51967,199.02855)">
     <path
        id="path6032"
        d="M 130.27832,2.5 C 85.599609,2.5 49.380371,38.719238 49.380371,83.398438 C 49.380371,118.07764 71.208008,147.6499 101.87061,159.15283 L 120.51318,109.43896 C 109.97314,105.48535 102.46973,95.319336 102.46973,83.398437 C 102.46973,68.040039 114.92041,55.589355 130.27832,55.589355 C 145.63672,55.589355 158.08789,68.040039 158.08789,83.398437 C 158.08789,95.319336 150.58398,105.48535 140.04395,109.43896 L 158.68652,159.15283 C 189.34863,147.6499 211.17676,118.07764 211.17676,83.398437 C 211.17676,38.719238 174.95801,2.5 130.27832,2.5 z"
@@ -17782,92 +17739,100 @@
        id="path6056"
        d="M 259.07324,191.26221 C 259.07324,191.73389 258.87207,191.93701 258.39941,191.93701 L 245.38965,191.93701 C 244.91699,191.93701 244.71582,191.73389 244.71582,191.26221 L 244.71582,190.31885 C 244.71582,186.34131 247.74902,183.17236 251.86035,183.17236 C 255.90625,183.17236 259.07324,186.47607 259.07324,190.31885 L 259.07324,191.26221 L 259.07324,191.26221 z M 263.6582,194.43115 L 263.6582,190.31885 C 263.6582,184.521 258.39941,179.32959 251.86035,179.32959 C 248.42285,179.32959 245.5918,180.54346 243.36621,182.90381 C 241.34473,185.06104 240.19824,187.82471 240.19824,190.31885 L 240.19824,199.41846 C 240.19824,206.09424 244.71582,210.4751 251.86035,210.4751 C 258.19824,210.4751 262.31055,206.69971 262.31055,204.54346 C 262.31055,204.27393 262.24316,204.13818 261.90625,204.00342 L 259.07324,202.58838 C 258.93945,202.521 258.80566,202.521 258.7373,202.521 C 258.33301,202.521 257.72656,203.46436 256.30957,204.81201 C 255.09766,205.95947 253.47852,206.6333 251.86035,206.6333 C 247.81641,206.6333 244.71582,203.32959 244.71582,199.41846 L 244.71582,195.77979 C 244.71582,195.30811 244.91699,195.10498 245.38965,195.10498 L 262.98437,195.10498 C 263.45605,195.10498 263.6582,194.90283 263.6582,194.43115 z" />
   </g>
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot5998"
-     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-     transform="matrix(1.1750088,0,0,1.1750088,969.5738,85.53218)"><flowRegion
-       id="flowRegion6000"><rect
-         id="rect6002"
-         width="326.38116"
-         height="87.760971"
-         x="-37"
-         y="261.91336"
-         style="font-size:6.80845976px;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
-       id="flowPara6004" /><flowPara
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-       id="flowPara6012">สำนักงานส่งเสริมอุตสาหกรรมซอฟต์แวร์แห่งชาติ หรือ SIPA เป็นองค์กรมหาชนในสังกัดกระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร ทำหน้าที่หลักคือส่งเสริมอุตสาหกรรมซอฟต์แวร์ และกำหนดนโยบายด้านซอฟต์แวร์ประเทศ</flowPara></flowRoot>  <flowRoot
-     xml:space="preserve"
-     id="flowRoot6100"
-     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-     transform="matrix(1.1750088,0,0,1.1750088,949.5738,85.53218)"><flowRegion
-       id="flowRegion6102"><rect
-         id="rect6104"
-         width="326.38116"
-         height="87.760971"
-         x="-37"
-         y="261.91336"
-         style="font-size:6.80845976px;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
-       id="flowPara6106">SIPA กับ Open Source Software</flowPara><flowPara
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-       id="flowPara6108" /></flowRoot>  <rect
-     style="fill:#20552a;fill-opacity:1;stroke:none"
-     id="rect6254"
-     width="14.746094"
-     height="1.743932"
-     x="405.36453"
-     y="-917.09448"
-     transform="matrix(0,1,-1,0,0,0)" />
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot5967"
-     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-     transform="matrix(1.1750088,0,0,1.1750088,949.5498,-1.53032)"><flowRegion
-       id="flowRegion5969"><rect
-         id="rect5971"
-         width="194.7332"
-         height="161.56361"
-         x="-37"
-         y="261.91336"
-         style="font-size:6.80845976px;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
-       id="flowPara5973">ข้อดีของ Open Source Software</flowPara><flowPara
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-       id="flowPara5979" /></flowRoot>  <flowRoot
-     xml:space="preserve"
-     id="flowRoot6114"
-     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-     transform="matrix(1.1750088,0,0,1.1750088,969.5498,-1.53032)"><flowRegion
-       id="flowRegion6116"><rect
-         id="rect6118"
-         width="194.7332"
-         height="161.56361"
-         x="-37"
-         y="261.91336"
-         style="font-size:6.80845976px;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
-       id="flowPara6120" /><flowPara
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-       id="flowPara6122">ลดค่าใช้จ่ายจากค่าลิขสิทธิ์ซอฟต์แวร์</flowPara><flowPara
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-       id="flowPara6124">ปรับเปลี่ยนได้ตามความต้องการของผู้ใช้</flowPara><flowPara
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-       id="flowPara6126">เพิ่ทางเลือกให้ผู้ใช้</flowPara><flowPara
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-       id="flowPara6128">เปิดโอกาสในการพัฒนาทักษะของโปรแกรมเมอร์ไทย</flowPara></flowRoot>  <rect
-     style="fill:#20552a;fill-opacity:1;stroke:none"
-     id="rect6342"
-     width="34.802921"
-     height="1.743932"
-     x="318.18762"
-     y="-917.09448"
-     transform="matrix(0,1,-1,0,0,0)" />
   <g
-     id="g8008">
+     id="g8217">
     <flowRoot
-       transform="matrix(1.1750088,0,0,1.1750088,1099.0763,-142.12407)"
+       transform="matrix(1.1750088,0,0,1.1750088,103.25684,59.763212)"
+       style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       id="flowRoot5998"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6000"><rect
+           style="font-size:6.80845976px;fill:#000000;fill-opacity:1"
+           y="261.91336"
+           x="-37"
+           height="79.33593"
+           width="206.62526"
+           id="rect6002" /></flowRegion><flowPara
+         id="flowPara6004"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold" /><flowPara
+         id="flowPara6012"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">สำนักงานส่งเสริมอุตสาหกรรมซอฟต์แวร์แห่งชาติ หรือ SIPA เป็นองค์กรมหาชนในสังกัดกระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร ทำหน้าที่หลักคือส่งเสริมอุตสาหกรรมซอฟต์แวร์ และกำหนดนโยบายด้านซอฟต์แวร์ประเทศ</flowPara></flowRoot>    <flowRoot
+       transform="matrix(1.1750088,0,0,1.1750088,83.25684,59.763212)"
+       style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       id="flowRoot6100"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6102"><rect
+           style="font-size:6.80845976px;fill:#000000;fill-opacity:1"
+           y="261.91336"
+           x="-37"
+           height="87.760971"
+           width="326.38116"
+           id="rect6104" /></flowRegion><flowPara
+         id="flowPara6106"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold">SIPA กับ Open Source Software</flowPara><flowPara
+         id="flowPara6108"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /></flowRoot>    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-50.777523"
+       x="379.59555"
+       height="1.743932"
+       width="34.679985"
+       id="rect6254"
+       style="fill:#20552a;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="g8230"
+     transform="translate(5.6568514,-1.541459)">
+    <flowRoot
+       transform="matrix(1.1750088,0,0,1.1750088,952.37823,53.624009)"
+       style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       id="flowRoot5967"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5969"><rect
+           style="font-size:6.80845976px;fill:#000000;fill-opacity:1"
+           y="261.91336"
+           x="-37"
+           height="161.56361"
+           width="194.7332"
+           id="rect5971" /></flowRegion><flowPara
+         id="flowPara5973"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold">ข้อดีของ Open Source Software</flowPara><flowPara
+         id="flowPara5979"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /></flowRoot>    <flowRoot
+       transform="matrix(1.1750088,0,0,1.1750088,972.37823,53.624009)"
+       style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       id="flowRoot6114"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6116"><rect
+           style="font-size:6.80845976px;fill:#000000;fill-opacity:1"
+           y="261.91336"
+           x="-37"
+           height="161.56361"
+           width="194.7332"
+           id="rect6118" /></flowRegion><flowPara
+         id="flowPara6120"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold" /><flowPara
+         id="flowPara6122"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">ลดค่าใช้จ่ายจากค่าลิขสิทธิ์ซอฟต์แวร์</flowPara><flowPara
+         id="flowPara6124"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">ปรับเปลี่ยนได้ตามความต้องการของผู้ใช้</flowPara><flowPara
+         id="flowPara6126"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">เพิ่ทางเลือกให้ผู้ใช้</flowPara><flowPara
+         id="flowPara6128"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">เปิดโอกาสในการพัฒนาทักษะของโปรแกรมเมอร์ไทย</flowPara></flowRoot>    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-919.92291"
+       x="373.34195"
+       height="1.743932"
+       width="34.802921"
+       id="rect6342"
+       style="fill:#20552a;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="g8259"
+     transform="translate(7.3192234,0)">
+    <flowRoot
+       transform="matrix(1.1750088,0,0,1.1750088,1095.0763,-113.8398)"
        style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
        id="flowRoot5837"
        xml:space="preserve"><flowRegion
@@ -17875,8 +17840,8 @@
            style="font-size:6.80845976px;fill:#000000;fill-opacity:1"
            y="261.91336"
            x="-37"
-           height="109.96149"
-           width="220.8414"
+           height="112.36864"
+           width="204.59311"
            id="rect5841" /></flowRegion><flowPara
          id="flowPara5843"
          style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold" /><flowPara
@@ -17886,7 +17851,7 @@
          style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /><flowPara
          id="flowPara5849"
          style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">มีซอฟต์แวร์โอเพนซอร์สที่มีคุณภาพไม่แพ้ซอฟต์แวร์เชิงพาณิชย์ที่จำหน่ายในท้องตลาด มีการใช้งาน และการพัฒนากันอย่างแพร่หลาย โดยนักพัฒนาโปรแกรมจากทั่วโลก ซึ่งทำให้มั่นใจได้ว่าจะได้รับการพัฒนาอย่างต่อเนื่องตลอดเวลา เช่น เว็บเซิร์ฟเวอร์ Apache ซึ่งมีส่วนแบ่งตลาดมากถึง 70% จากการใช้งานเว็บเซิร์ฟเวอร์ทั้งหมด</flowPara></flowRoot>    <flowRoot
-       transform="matrix(1.1750088,0,0,1.1750088,1079.0763,-142.12407)"
+       transform="matrix(1.1750088,0,0,1.1750088,1075.0763,-113.8398)"
        style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
        id="flowRoot6139"
        xml:space="preserve"><flowRegion
@@ -17902,8 +17867,8 @@
          id="flowPara6151"
          style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /></flowRoot>    <rect
        transform="matrix(0,1,-1,0,0,0)"
-       y="-1046.645"
-       x="177.74832"
+       y="-1042.645"
+       x="206.03259"
        height="1.743932"
        width="84.696289"
        id="rect6388"
@@ -17911,7 +17876,7 @@
   </g>
   <g
      id="g7995"
-     transform="translate(0,4)">
+     transform="translate(8.4852814,5.4142136)">
     <flowRoot
        transform="matrix(1.1750088,0,0,1.1750088,949.3738,-272.59282)"
        style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
@@ -18723,7 +18688,7 @@
        style="font-size:2.3499999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
        id="flowPara7817"> </flowPara><flowPara
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-       id="flowPara7819">-</flowPara><flowPara
+       id="flowPara7819">Soundforce</flowPara><flowPara
        style="font-size:2.3499999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
        id="flowPara7821"> </flowPara><flowPara
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
@@ -29384,5 +29349,69 @@
          style="fill:#000000;fill-opacity:1;font-family:Tahoma">Chantra<tspan
    style="font-size:27.63536072px;fill:#000000;fill-opacity:1"
    id="tspan14004" /></tspan></text>
+  </g>
+  <g
+     id="g8169"
+     transform="translate(1327.6529,-130.9327)">
+    <g
+       transform="translate(-1248.5964,358.4598)"
+       id="g8127"
+       style="fill:#ffffff;fill-opacity:1">
+      <g
+         id="g8129"
+         transform="translate(9.62954,445.29811)"
+         style="opacity:1;fill:#ffffff;fill-opacity:1">
+        <flowRoot
+           transform="matrix(1.1750088,0,0,1.1750088,1117.0532,-620.74266)"
+           style="font-size:6.80845976px;font-style:normal;font-weight:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+           id="flowRoot8131"
+           xml:space="preserve"><flowRegion
+             id="flowRegion8133"><rect
+               style="font-size:6.80845976px;fill:#000000;fill-opacity:1"
+               y="261.91336"
+               x="-37"
+               height="161.56361"
+               width="194.7332"
+               id="rect8135" /></flowRegion><flowPara
+             id="flowPara8137"
+             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold" /><flowPara
+             id="flowPara8139"
+             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">ระบบปฏิบัติการ Windows 98 หรือสูงกว่า</flowPara><flowPara
+             id="flowPara8161"
+             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">หน่วยความจำ 128 MB</flowPara><flowPara
+             id="flowPara8159"
+             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">เนื้อที่ว่างในฮาร์ดดิสก์ 200 MB</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       transform="translate(-1268.5964,358.4598)"
+       id="g8141"
+       style="fill:#ffffff;fill-opacity:1">
+      <g
+         id="g8143"
+         transform="translate(9.62954,445.29811)"
+         style="opacity:1;fill:#ffffff;fill-opacity:1">
+        <flowRoot
+           transform="matrix(1.1750088,0,0,1.1750088,1117.0532,-620.74266)"
+           style="font-size:6.80845976px;font-style:normal;font-weight:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+           id="flowRoot8145"
+           xml:space="preserve"><flowRegion
+             id="flowRegion8147"><rect
+               style="font-size:6.80845976px;fill:#000000;fill-opacity:1"
+               y="261.91336"
+               x="-37"
+               height="161.56361"
+               width="194.7332"
+               id="rect8149" /></flowRegion><flowPara
+             id="flowPara8153"
+             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold">ความต้องการของระบบ</flowPara></flowRoot>      </g>
+    </g>
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="173.64267"
+       x="502.7738"
+       height="1.743932"
+       width="24.827057"
+       id="rect8155"
+       style="fill:#20552a;fill-opacity:1;stroke:none" />
   </g>
 </svg>
