@@ -1,0 +1,21 @@
+Audacity==Adobe Audition
+Celestia==Orbiter, WorldWide Telescope,XEphem,Starry Night
+Drupal== RedDot CMS
+Joomla== RedDot CMS
+Lbreakout2==Akanoid, Breakout
+Moodle==Blackboard
+Notepad2==Notepad, Editplus
+Openclipart==
+OpenOffice.Org==Microsoft Office
+PDFCreator==Adobe Distiller
+Pidgin==Live Messenger
+Putty==SecureCRT
+Simple Machine Forum==Invision Power Board
+Subversion==Visual SourceSafe,Vault
+SuperTux==Mario
+Thunderbird==Microsoft Outlook
+TuxMath==??
+TuxPaint==??
+TuxTyping2==Typing Master
+VLC==Microsoft Media Player, Cyberlink Power DVD
+XAMPP==Internet Information Server
