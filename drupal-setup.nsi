@@ -590,13 +590,13 @@ Section -AdditionalIcons
   WriteIniStr "$INSTDIR\${PRODUCT_NAME}.url" "InternetShortcut" "URL" "${PRODUCT_WEB_SITE}"
   CreateDirectory "$SMPROGRAMS\Drupal"
   CreateShortCut "$SMPROGRAMS\Drupal\Website.lnk" "$INSTDIR\${PRODUCT_NAME}.url"
-  CreateShortCut "$SMPROGRAMS\Drupal\Uninstall.lnk" "$INSTDIR\drupl-addon-uninst.exe"
+  CreateShortCut "$SMPROGRAMS\Drupal\Uninstall.lnk" "$INSTDIR\drupal-addon-uninst.exe"
 SectionEnd
 
 Section -Post
   WriteUninstaller "$INSTDIR\drupl-addon-uninst.exe"
   WriteRegStr ${PRODUCT_UNINST_ROOT_KEY} "${PRODUCT_UNINST_KEY}" "DisplayName" "$(^Name)"
-  WriteRegStr ${PRODUCT_UNINST_ROOT_KEY} "${PRODUCT_UNINST_KEY}" "UninstallString" "$INSTDIR\drupl-addon-uninst.exe"
+  WriteRegStr ${PRODUCT_UNINST_ROOT_KEY} "${PRODUCT_UNINST_KEY}" "UninstallString" "$INSTDIR\drupal-addon-uninst.exe"
   WriteRegStr ${PRODUCT_UNINST_ROOT_KEY} "${PRODUCT_UNINST_KEY}" "DisplayVersion" "${PRODUCT_VERSION}"
   WriteRegStr ${PRODUCT_UNINST_ROOT_KEY} "${PRODUCT_UNINST_KEY}" "URLInfoAbout" "${PRODUCT_WEB_SITE}"
   WriteRegStr ${PRODUCT_UNINST_ROOT_KEY} "${PRODUCT_UNINST_KEY}" "Publisher" "${PRODUCT_PUBLISHER}"
