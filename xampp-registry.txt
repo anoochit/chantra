@@ -1,0 +1,5 @@
+HKEY_CURRENT_USER\Software\AppServ\AppServDir		C:\AppServ
+HKEY_CURRENT_USER\Software\AppServ\AppServVersion		2.5.10
+
+HKEY_LOCAL_MACHINE\SOFTWARE\xampp\Install_Dir		c:\xampp
+
