@@ -1,2 +1,2 @@
 [Launch] 
-ExecuteFile=${cwd}\..\programs\infrarecorder\setup.exe
+ExecuteFile=${cwd}\..\programs\kompozer\setup.exe
