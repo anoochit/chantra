@@ -20,7 +20,7 @@
    inkscape:version="0.46"
    sodipodi:docname="cover.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/gumara/chantra-artwork/cover-cd/chantra4-cover/chantra4-cover-6.png"
+   inkscape:export-filename="/home/gumara/chantra-artwork/cover-cd/chantra4-cover/chantra4-cover-7.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -38,12 +38,12 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="1475.0213"
-     inkscape:cy="232.20933"
+     inkscape:zoom="1"
+     inkscape:cx="4874.8294"
+     inkscape:cy="270.60618"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="g4616"
      units="cm"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -10699,12 +10699,12 @@
          style="fill:#aeaeae;fill-opacity:1" />
     </g>
     <g
-       style="display:inline"
+       style="display:inline;opacity:0"
        id="g7980"
        transform="matrix(1.5538132,0,0,1.5538132,5629.1368,-94.465271)"
-       inkscape:export-filename="/home/gumara/chantra-artwork-svn/cover-cd/chantra4-cover/label-3.png"
-       inkscape:export-xdpi="300.02539"
-       inkscape:export-ydpi="300.02539">
+       inkscape:export-filename="/home/gumara/chantra-artwork/cover-cd/chantra4-cover/label-4.png"
+       inkscape:export-xdpi="300.02942"
+       inkscape:export-ydpi="300.02942">
       <path
          transform="matrix(1.8015332,0,0,1.8015332,-1219.4017,-124.56549)"
          d="M 2140,87.913368 A 117,117 0 1 1 1906,87.913368 A 117,117 0 1 1 2140,87.913368 z"
@@ -10713,7 +10713,7 @@
          sodipodi:cy="87.913368"
          sodipodi:cx="2023"
          id="path7982"
-         style="opacity:0.7;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.27754137;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.69999999999999996;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.27754137000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:type="arc" />
       <path
          transform="matrix(0.2798507,0,0,0.2798507,1812.2269,-81.740731)"
@@ -10723,7 +10723,7 @@
          sodipodi:cy="412.91336"
          sodipodi:cx="2190"
          id="path7984"
-         style="opacity:0.7;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.78666699;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.69999999999999996;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.78666699000000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:type="arc" />
     </g>
     <g
@@ -13333,34 +13333,30 @@
      id="path5473"
      d="M 225.17418,-154.99958 C 225.17418,-161.24736 226.88266,-164.4685 230.64131,-164.4685 C 234.39996,-164.4685 236.10779,-161.24736 236.10779,-154.99958 C 236.10779,-148.75244 234.39931,-145.53065 230.64066,-145.53065 C 226.88201,-145.53065 225.17418,-148.75309 225.17418,-154.99958 z M 240.20685,-162.90721 C 240.20685,-164.42052 240.35403,-165.98182 240.4033,-167.44586 L 236.44819,-167.44586 L 236.30231,-163.83439 L 236.20375,-163.83439 C 234.83892,-166.22626 232.59358,-167.7882 230.1038,-167.7882 C 224.53941,-167.7882 221.07448,-163.5906 221.07448,-155.00022 C 221.07448,-146.4105 224.53941,-142.21225 229.6642,-142.21225 C 232.39842,-142.21225 234.59448,-143.57903 236.20375,-146.4105 L 236.30231,-146.4105 L 236.30231,-142.50531 C 236.30231,-138.2111 234.34939,-135.23374 229.32186,-135.23374 C 227.07782,-135.23374 224.24635,-136.20955 222.48859,-137.38182 L 222.29343,-133.23285 C 224.09917,-132.50083 227.46749,-131.72018 229.5663,-131.72018 C 235.03343,-131.72018 240.2062,-134.59963 240.2062,-141.48152 L 240.2062,-162.90721 L 240.20685,-162.90721 z"
      i:knockout="Off" />
-  <g
-     id="g7971"
-     transform="translate(0,-2.4359682)">
-    <flowRoot
-       transform="translate(188.70564,41.936107)"
-       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       id="flowRoot6073"
-       xml:space="preserve"><flowRegion
-         id="flowRegion6075"><rect
-           y="362.91336"
-           x="550"
-           height="80"
-           width="252"
-           id="rect6077" /></flowRegion><flowPara
-         id="flowPara6079">Open Source Software</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.4910639,0,0,0.4910639,390.88693,247.2669)"
-       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       id="flowRoot6081"
-       xml:space="preserve"><flowRegion
-         id="flowRegion6083"><rect
-           y="362.91336"
-           x="550"
-           height="74"
-           width="484"
-           id="rect6085" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garuda;-inkscape-font-specification:Garuda"
-         id="flowPara6087">สามารถติดตามรายละเอียดโครงการโอเพนซอร์สของ SIPA ได้จาก thaiopensource.org</flowPara></flowRoot>  </g>
-  <switch
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot6073"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     transform="translate(188.70564,39.500139)"><flowRegion
+       id="flowRegion6075"><rect
+         id="rect6077"
+         width="252"
+         height="80"
+         x="550"
+         y="362.91336" /></flowRegion><flowPara
+       id="flowPara6079">Open Source Software</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot6081"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     transform="matrix(0.4910639,0,0,0.4910639,396.33084,244.83093)"><flowRegion
+       id="flowRegion6083"><rect
+         id="rect6085"
+         width="484"
+         height="74"
+         x="550"
+         y="362.91336" /></flowRegion><flowPara
+       id="flowPara6087"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garuda;-inkscape-font-specification:Garuda">สามารถติดตามรายละเอียดโครงการโอเพนซอร์สของ SIPA ได้ที่ thaiopensource.org</flowPara></flowRoot>  <switch
      id="switch6095"
      transform="translate(-116.9745,475.65415)">
     <foreignObject
@@ -17577,11 +17573,11 @@
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
            id="flowPara4730" /><flowPara
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-           id="flowPara4732">เพราะความที่เป็นโอเพนซอร์ส คุณจึงสามารถใช้งานซอฟต์แวร์ในชุด Chantra ได้โดยไม่ต้องเสียค่าลิขสิทธิ์ ไม่มีการปิดกั้น ไม่จำกัดขีดความสามารถของโปรแกรม ไม่กำหนดอายุการใช้งาน หรือข้อกำหนดอื่นใดที่จะเป็นอุปสรรค์ต่อการใช้งานซอฟต์แวร์ทั้งสิ้น</flowPara><flowPara
+           id="flowPara4732">เพราะความที่เป็นโอเพนซอร์ส คุณจึงสามารถใช้งานซอฟต์แวร์ในชุด Chantra ได้โดยไม่ต้องเสียค่าลิขสิทธิ์ ไม่มีการปิดกั้น ไม่จำกัดขีดความสามารถของโปรแกรม ไม่กำหนดอายุการใช้งาน หรือข้อกำหนดอื่นใดที่จะเป็นอุปสรรคต่อการใช้งานซอฟต์แวร์ทั้งสิ้น</flowPara><flowPara
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
            id="flowPara4734" /><flowPara
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-           id="flowPara4736">คุณสามารถติดตั้ง Chantra กี่ครั้ง หรือจะกี่เครื่องก็ได้ หรือจะคัดลอกเพื่อแจกจ่ายต่อๆกันไป ก็ไม่เป็นการผิดกฏหมายแต่อย่างใด คุณสามารถใช้งาน Chantra ได้อย่างเสรี ไม่ว่าจะเป็นการใช้งานตามบ้าน สำนักงาน ใช้ส่วนตัว ใช้เพื่อการศึกษา หรือแม้จะใช้ในการประกอบธุรกิจก็ตาม</flowPara></flowRoot>    </g>
+           id="flowPara4736">คุณสามารถติดตั้ง Chantra กี่ครั้ง หรือจะกี่เครื่องก็ได้ หรือจะคัดลอกเพื่อแจกจ่ายต่อๆกันไป ก็ไม่เป็นการผิดกฏหมายแต่อย่างใด คุณสามารถใช้งาน Chantra ได้อย่างเสรี ไม่ว่าจะเป็นการใช้งานที่บ้าน สำนักงาน ใช้ส่วนตัว ใช้เพื่อการศึกษา หรือแม้จะใช้ในการประกอบธุรกิจก็ตาม</flowPara></flowRoot>    </g>
   </g>
   <g
      style="fill:#ffffff;fill-opacity:1"
@@ -17629,7 +17625,7 @@
          y="261.91336"
          style="font-size:6.80845976px;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
-       id="flowPara4815">ได้หลาย Platform</flowPara><flowPara
+       id="flowPara4815">มีในหลาย Platform</flowPara><flowPara
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
        id="flowPara4817" /></flowRoot>  <g
      style="fill:#ffffff;fill-opacity:1"
@@ -17652,7 +17648,7 @@
              y="261.91336"
              style="font-size:6.80845976px;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
-           id="flowPara4829">อย่างเสรี</flowPara><flowPara
+           id="flowPara4829">ใช้งานได้อย่างอิสระ</flowPara><flowPara
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
            id="flowPara4835" /></flowRoot>    </g>
   </g>
@@ -17677,7 +17673,7 @@
              y="261.91336"
              style="font-size:6.80845976px;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
-           id="flowPara4847">อยู่ร่วมกันได้</flowPara><flowPara
+           id="flowPara4847">ติดตั้งร่วมกันได้</flowPara><flowPara
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
            id="flowPara4849" /></flowRoot>    </g>
   </g>
@@ -17772,10 +17768,8 @@
            height="87.760971"
            width="326.38116"
            id="rect6104" /></flowRegion><flowPara
-         id="flowPara6106"
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold">SIPA กับ Open Source Software</flowPara><flowPara
          id="flowPara6108"
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /></flowRoot>    <rect
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold">เกี่ยวกับ SIPA</flowPara></flowRoot>    <rect
        transform="matrix(0,1,-1,0,0,0)"
        y="-50.777523"
        x="379.59555"
@@ -18413,7 +18407,7 @@
          id="flowPara7885"
          style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold" /><flowPara
          id="flowPara7887"
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">ซอฟต์แวร์ภายในชุดซีดี Chantra เป็นซอฟต์แวร์โอเพนซอร์สหลากหลายประเภท ซึ่งเหมาะกับการใช้งานแต่ละอย่างแตกต่างกันไป ซึ่งพอจะอธิบายได้โดยง่าย ว่าซอฟต์แวร์ตัวใดใช้สำหรับงานอะไร ด้วยการเปรียบเทียบซอฟต์แวร์ในชุด Chantra กับซอฟต์แวร์เชิงพานิชตามรายการด้ายล่างดังนี้</flowPara><flowPara
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">ซอฟต์แวร์ภายในชุดซีดี Chantra เป็นซอฟต์แวร์โอเพนซอร์สหลากหลายประเภท ซึ่งเหมาะกับการใช้งานแต่ละอย่างแตกต่างกันไป ซึ่งพอจะอธิบายได้โดยง่าย ว่าซอฟต์แวร์ตัวใดใช้สำหรับงานอะไร ด้วยการเปรียบเทียบซอฟต์แวร์ในชุด Chantra กับซอฟต์แวร์เชิงพาณิชย์ตามรายการด้านล่างดังนี้</flowPara><flowPara
          id="flowPara7901"
          style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /></flowRoot>    <flowRoot
        transform="matrix(1.1750088,0,0,1.1750088,1388.7555,-268.39672)"
@@ -18428,7 +18422,7 @@
            width="326.38116"
            id="rect7893" /></flowRegion><flowPara
          id="flowPara7895"
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold">รายการซอฟต์แวร์ในชุด Chantra เทียบกับซอฟต์แวร์เชิงพานิช</flowPara><flowPara
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold">รายการซอฟต์แวร์ในชุด Chantra เทียบกับซอฟต์แวร์เชิงพาณิชย์</flowPara><flowPara
          id="flowPara7897"
          style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /></flowRoot>    <rect
        transform="matrix(0,1,-1,0,0,0)"
@@ -29945,12 +29939,12 @@
              style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /><flowPara
              id="flowPara9613"
              style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /><flowPara
-             id="flowPara9615"
-             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Reddot CMS</flowPara><flowPara
              id="flowPara9617"
-             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Win FTP</flowPara><flowPara
+             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Microsoft CMS Server</flowPara><flowPara
+             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+             id="flowPara8356">WinFTP</flowPara><flowPara
              id="flowPara9619"
-             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Reddot CMS</flowPara><flowPara
+             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Microsoft CMS Server</flowPara><flowPara
              id="flowPara9621"
              style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Adobe Dreamweaver</flowPara><flowPara
              id="flowPara9623"
@@ -30013,7 +30007,7 @@
              id="flowPara9742"
              style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /><flowPara
              id="flowPara9744"
-             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Internet Exploror</flowPara><flowPara
+             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Internet Explorer</flowPara><flowPara
              id="flowPara9746"
              style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Microsoft Outlook</flowPara><flowPara
              id="flowPara9748"
@@ -30136,7 +30130,7 @@
              id="flowPara9796"
              style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">WinZip</flowPara><flowPara
              id="flowPara9788"
-             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">-</flowPara><flowPara
+             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">AVG Antivirus</flowPara><flowPara
              id="flowPara9812"
              style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Nero Burning ROM</flowPara><flowPara
              id="flowPara9814"
@@ -30200,7 +30194,7 @@
              id="flowPara9689"
              style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /><flowPara
              id="flowPara9697"
-             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">3Ds Max</flowPara><flowPara
+             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Autodesk 3ds Max</flowPara><flowPara
              id="flowPara9708"
              style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Adobe Photoshop</flowPara><flowPara
              id="flowPara9710"
