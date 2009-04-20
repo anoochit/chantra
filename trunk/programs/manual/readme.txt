@@ -1,1 +1,1 @@
-place the chantra manual here -- > chnatra-doc.pdf
+place the chantra manual here -- > chantra-doc.pdf
