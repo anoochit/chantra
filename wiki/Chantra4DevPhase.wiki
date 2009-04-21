@@ -7,7 +7,7 @@
   # ~~Check s/w list, version (branches/doc-dev)~~
   # ~~Check s/w description, launcher file~~
   # Prepare s/w (may be make installer for some software) *วุฒิดูอยู่*
-  # Cover design, CD Cover Design *มะระดูต่อ* (branch/cover_design)
+  # ~~Cover design, CD Cover Design *มะระดูต่อ* (branch/cover_design)~~
   # ~~Translate (or copy the old one), s/w description *น้องนิวดูอยู่ ผมกับมะระจะมาช่วยดู* (branch/software_description)~~
   # ~~Check "home.html" for launcher main menu, some image file MUST change into Thai or branded color. (trunk)~~
   # Check s/w launcher file MUST match the setup file name, CHANGE all installation files to "setup.exe" *วุฒิดูอยู่*
