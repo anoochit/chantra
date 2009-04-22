@@ -75,7 +75,14 @@ img.insticon {
 	right: 45px;
 	padding: 0;
   } 
-  
+
+img.insticon2 {
+	position: fixed;
+	top: 4px;
+	right: 85px;
+	padding: 0;
+  } 
+
 #inst_text {
 	position: fixed;
 	top: 24px;
