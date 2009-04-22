@@ -1,4 +1,4 @@
-[autorun]
+[AutoRun]
 OPEN=start.exe
 ICON=logo.ico
 LABEL=Chantra 4.0
