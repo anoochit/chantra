@@ -1,4 +1,3 @@
-[AutoRun]
-OPEN=start.exe
-ICON=logo.ico
-LABEL=Chantra 4.0
+[autorun]
+open=autorun.exe webpages\index.htm
+icon=ttcs.ico
