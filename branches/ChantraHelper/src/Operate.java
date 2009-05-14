@@ -13,9 +13,12 @@ import javax.swing.JButton;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JRadioButton;
 import javax.swing.JTextField;
+import javax.swing.UIManager;
+import javax.swing.UnsupportedLookAndFeelException;
 
 public class Operate extends JFrame implements ActionListener,ItemListener{
 
@@ -52,6 +55,21 @@ public class Operate extends JFrame implements ActionListener,ItemListener{
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Operate frame = new Operate();	
+		try {
+			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (InstantiationException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IllegalAccessException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (UnsupportedLookAndFeelException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		frame.setTitle("Chantra Helper");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setSize(610, 377);
@@ -156,12 +174,14 @@ public class Operate extends JFrame implements ActionListener,ItemListener{
 			add(updateProjectPanel);
 		}
 		if(e.getSource()==updateProj){
-			
-				projectDirectory = projectDirField.getText();
-				chantraVersion = version.getText();
 				config = configDirField.getText();
-				projectFolder = projectDirectory+"/Chantra"+chantraVersion;
-				
+				projectFolder = projectDirField.getText();
+				try {
+					Function.update2(projectFolder,config);
+				} catch (IOException e1) {
+					// TODO Auto-generated catch block
+					JOptionPane.showMessageDialog(this, "invalid url","error",JOptionPane.ERROR_MESSAGE);
+				}
 				updateProjectPanel.setVisible(false);
 				mainPanel.setVisible(true);
 			
@@ -184,7 +204,7 @@ public class Operate extends JFrame implements ActionListener,ItemListener{
 		if(e.getSource()==browseConfigDir){
 			fc = new JFileChooser();
 			fc.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
-			fc.setCurrentDirectory(new File("/home/krapok/Desktop"));
+			fc.setCurrentDirectory(new File("/home/krapok/Desktop/Chantra script/config"));
 			int returnVal = fc.showDialog(browseConfigDir,"Choose Config Directory");
 			if (returnVal == JFileChooser.APPROVE_OPTION) {
 	            File file = fc.getSelectedFile();

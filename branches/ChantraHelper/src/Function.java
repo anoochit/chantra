@@ -74,27 +74,36 @@ public class Function {
 			editWhatsnew(en, programname, newversion);
 
 			// edit version in program.html
-			editHTML(en, programname, newversion);
+			editHTML(en, programname, newversion,configdir);
 
 		} else
 			System.out.println("no update required");
 	}
 
-	private static void editHTML(String en, String programname, String version)
+	private static void editHTML(String en, String programname, String version,String config)
 			throws IOException {
 		// TODO Auto-generated method stub
 
 		String desc = en + "/" + programname + ".html";
 		BufferedReader inputStream = null;
+		BufferedReader desctxt = null;
 		PrintWriter outputStream = null;
 		try {
 			inputStream = getNewBufferedReader(desc);
+			desctxt = getNewBufferedReader(config + "/desc_file/" + programname + ".txt");
 			outputStream = new PrintWriter(new FileWriter(getParent(en) + "/"
 					+ programname + ".html"));
 
 			String l;
 			while ((l = inputStream.readLine()) != null) {
-				if (l.indexOf("เวอร์ชัน") != -1) {// find line that contains
+				if (l.indexOf("<p>") != -1) {
+					l = "<p>";
+					outputStream.print(l);
+					while ((l = desctxt.readLine()) != null) {
+						outputStream.print(l);
+					}
+					l = "</p>";
+				}else if (l.indexOf("เวอร์ชัน") != -1) {// find line that contains
 					// program version
 					l = "<td>เวอร์ชัน:&nbsp;<span style=\"font-weight: bold;\">"
 							+ version + "</span></td>";
@@ -116,6 +125,30 @@ public class Function {
 			System.out.println("cannot move " + programname + ".html");
 		}
 		temp.delete();
+	}
+
+	public static void update2(String projectFolder, String configdir) throws IOException {
+		BufferedReader configfile;
+		
+			configfile = getNewBufferedReader(configdir
+					+ "/config.txt");
+			BufferedReader programlist = getNewBufferedReader(configdir
+					+ "/programlist.txt");
+			String en = projectFolder + "/svn/trunk/disctree/en";
+			String programname;
+			String version;
+			String link;
+			String programfolder;
+			while ((programname=configfile.readLine())!=null) {
+				version = configfile.readLine();
+				link = configfile.readLine();
+				editHTML(en, programname, version,configdir);
+				programfolder = projectFolder+"/svn/trunk/programs/"+programname;
+				download(link,programfolder+"setup.exe");
+				programname=configfile.readLine();
+			}
+		
+
 	}
 
 	private static void editWhatsnew(String en, String programname,
@@ -300,6 +333,9 @@ public class Function {
 			BufferedReader br = new BufferedReader(new InputStreamReader(in));
 
 			String desc;
+			if(!new File(config + "/desc_file").exists()){
+				new File(config + "/desc_file").mkdir();
+			}
 			while ((desc = br.readLine()) != null) {
 				new File(config + "/desc_file/" + desc + ".txt")
 						.createNewFile();
@@ -311,7 +347,8 @@ public class Function {
 
 	}
 
-	public static void createHTML(String config, String projectFolder) throws IOException {
+	public static void createHTML(String config, String projectFolder)
+			throws IOException {
 		// TODO Auto-generated method stub
 		String template = config + "/template/programname.html";
 		String en = projectFolder + "/svn/trunk/disctree/en";
@@ -331,15 +368,9 @@ public class Function {
 				String l;
 				while ((l = htmlstr.readLine()) != null) {
 					if (l.indexOf("programname") != -1) {
-						l=l.replaceAll("programname", p);
-					} else if (l.indexOf("description") != -1) {
-						l = "<p>";
-						outStr.println(l);
-						while ((l = desc.readLine()) != null) {
-							outStr.println(l);
-						}
-						l = "</p>";
-						outStr.println(l);
+						l = l.replaceAll("programname", p);
+					} else if (l.indexOf("versionnumber") != 1) {
+						l = l.replaceFirst("versionnumber", "0.0");
 					}
 					outStr.println(l);
 				}
@@ -352,7 +383,6 @@ public class Function {
 				}
 			}
 		}
-	
 
 	}
 }
