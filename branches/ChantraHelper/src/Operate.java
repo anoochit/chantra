@@ -6,7 +6,6 @@ import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
 import java.io.File;
 import java.io.IOException;
-
 import javax.swing.BoxLayout;
 import javax.swing.ButtonGroup;
 import javax.swing.JButton;
@@ -105,6 +104,8 @@ public class Operate extends JFrame implements ActionListener,ItemListener{
 		Function.createProgramFolder(config, projectFolder);
 		Function.createDescription(config);
 		Function.createHTML(config,projectFolder);
+		Function.createlch(config, projectFolder);
+		Function.createWhatsnew(config, projectFolder);
 		
 	}
 	@Override
@@ -178,9 +179,11 @@ public class Operate extends JFrame implements ActionListener,ItemListener{
 				projectFolder = projectDirField.getText();
 				try {
 					Function.update2(projectFolder,config);
+					Function.createWhatsnew(config, projectFolder);
 				} catch (IOException e1) {
 					// TODO Auto-generated catch block
-					JOptionPane.showMessageDialog(this, "invalid url","error",JOptionPane.ERROR_MESSAGE);
+				//	JOptionPane.showMessageDialog(this, "invalid url","error",JOptionPane.ERROR_MESSAGE);
+					JOptionPane.showMessageDialog(this, e1.getMessage());
 				}
 				updateProjectPanel.setVisible(false);
 				mainPanel.setVisible(true);

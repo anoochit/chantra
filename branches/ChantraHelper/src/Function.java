@@ -12,6 +12,7 @@ import java.io.PrintWriter;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
+import java.util.Calendar;
 
 public class Function {
 
@@ -48,40 +49,8 @@ public class Function {
 		}
 	}
 
-	public static void update(String programdir, String configdir)
-			throws IOException {
-		String oldconfig = getOldConfig(programdir);
-		String programname = getProgramname(programdir);
-		BufferedReader newbr = getNewBufferedReader(configdir);
-
-		String newconfig = newbr.readLine();
-		hasConfig(newconfig, programname, newbr);
-
-		newconfig = newbr.readLine();// this will be current version
-		String newversion = newconfig;
-		System.out.println("old version is : " + oldconfig);
-		System.out.println("new version is : " + newconfig);
-		if (greaterThan(newconfig, oldconfig)) {
-			System.out.println("update required");
-			newconfig = newbr.readLine();// this should be a download link
-			System.out.println("download setup.exe from \"" + newconfig
-					+ "\" to \"" + programdir + "\"");
-			download(newconfig, programdir + "/setup.exe");
-
-			String trunk = getParent(getParent(programdir));
-			String en = trunk + "/disctree/en";
-			// edit version in what's new
-			editWhatsnew(en, programname, newversion);
-
-			// edit version in program.html
-			editHTML(en, programname, newversion,configdir);
-
-		} else
-			System.out.println("no update required");
-	}
-
-	private static void editHTML(String en, String programname, String version,String config)
-			throws IOException {
+	private static void editHTML(String en, String programname, String version,
+			String config) throws IOException {
 		// TODO Auto-generated method stub
 
 		String desc = en + "/" + programname + ".html";
@@ -90,7 +59,8 @@ public class Function {
 		PrintWriter outputStream = null;
 		try {
 			inputStream = getNewBufferedReader(desc);
-			desctxt = getNewBufferedReader(config + "/desc_file/" + programname + ".txt");
+			desctxt = getNewBufferedReader(config + "/desc_file/" + programname
+					+ ".txt");
 			outputStream = new PrintWriter(new FileWriter(getParent(en) + "/"
 					+ programname + ".html"));
 
@@ -103,8 +73,7 @@ public class Function {
 						outputStream.print(l);
 					}
 					l = "</p>";
-				}else if (l.indexOf("เวอร์ชัน") != -1) {// find line that contains
-					// program version
+				} else if (l.indexOf("เวอร์ชัน") != -1) {
 					l = "<td>เวอร์ชัน:&nbsp;<span style=\"font-weight: bold;\">"
 							+ version + "</span></td>";
 				}
@@ -127,70 +96,28 @@ public class Function {
 		temp.delete();
 	}
 
-	public static void update2(String projectFolder, String configdir) throws IOException {
+	public static void update2(String projectFolder, String configdir)
+			throws IOException {
 		BufferedReader configfile;
-		
-			configfile = getNewBufferedReader(configdir
-					+ "/config.txt");
-			BufferedReader programlist = getNewBufferedReader(configdir
-					+ "/programlist.txt");
-			String en = projectFolder + "/svn/trunk/disctree/en";
-			String programname;
-			String version;
-			String link;
-			String programfolder;
-			while ((programname=configfile.readLine())!=null) {
-				version = configfile.readLine();
-				link = configfile.readLine();
-				editHTML(en, programname, version,configdir);
-				programfolder = projectFolder+"/svn/trunk/programs/"+programname;
-				download(link,programfolder+"setup.exe");
-				programname=configfile.readLine();
-			}
-		
 
-	}
-
-	private static void editWhatsnew(String en, String programname,
-			String version) throws IOException {
-		// TODO Auto-generated method stub
-		BufferedReader inputStream = null;
-		PrintWriter outputStream = null;
-
-		String whatsnew = en + "/whatsnews.html";
-		try {
-			inputStream = getNewBufferedReader(whatsnew);
-			outputStream = new PrintWriter(new FileWriter(getParent(en)
-					+ "/whatsnews.html"));
-
-			String newprogramname = Character
-					.toUpperCase(programname.charAt(0))
-					+ programname.substring(1);
-			String l;
-			while ((l = inputStream.readLine()) != null) {
-				if (l.indexOf(newprogramname) != -1) {// find line that contains
-					// program version
-					l = "<td>" + newprogramname + "</td><td>" + version
-							+ "</td>";
-				}
-				outputStream.println(l);
-			}
-		} finally {
-			if (inputStream != null) {
-				inputStream.close();
-			}
-			if (outputStream != null) {
-				outputStream.close();
-			}
+		configfile = getNewBufferedReader(configdir + "/config.txt");
+		String en = projectFolder + "/svn/trunk/disctree/en";
+		String programname;
+		String version;
+		String link;
+		String programfolder;
+		while ((programname = configfile.readLine()) != null) {
+			System.out.print("\tprogramname:"+programname);
+			version = configfile.readLine();
+			System.out.print("\tversion:"+version);
+			link = configfile.readLine();
+			System.out.println("\tlink:"+link);
+			editHTML(en, programname, version, configdir);
+			programfolder = projectFolder + "/svn/trunk/programs/"
+					+ programname;
+			//download(link, programfolder + "setup.exe");
+			programname = configfile.readLine();
 		}
-		File temp = new File(getParent(en) + "/whatsnews.html");
-		File dir = new File(getParent(whatsnew));
-
-		boolean success = temp.renameTo(new File(dir, temp.getName()));
-		if (!success) {
-			System.out.println("cannot move whatsnews.html");
-		}
-		temp.delete();
 
 	}
 
@@ -203,16 +130,6 @@ public class Function {
 		return programdir.substring(0, l);
 	}
 
-	private static void hasConfig(String newconfig, String programname,
-			BufferedReader newbr) throws IOException {
-		// TODO Auto-generated method stub
-		while (!newconfig.equalsIgnoreCase(programname)) {
-			// this will search for field of that program
-			newconfig = newbr.readLine();
-		}
-		System.out.println("found config!!!");
-	}
-
 	private static BufferedReader getNewBufferedReader(String configdir)
 			throws IOException {
 		// TODO Auto-generated method stub
@@ -220,75 +137,6 @@ public class Function {
 		DataInputStream in = new DataInputStream(fstream);
 		BufferedReader br = new BufferedReader(new InputStreamReader(in));
 		return br;
-	}
-
-	private static String getOldConfig(String programdir) throws IOException {
-		// TODO Auto-generated method stub
-		FileInputStream fstream = new FileInputStream(programdir
-				+ "/config.txt");
-		DataInputStream in = new DataInputStream(fstream);
-		BufferedReader br = new BufferedReader(new InputStreamReader(in));
-		String config = br.readLine();// this will be program name
-		config = br.readLine();// this will be current version
-		return config;
-	}
-
-	private static String getProgramname(String programdir) {
-		// TODO Auto-generated method stub
-		int l = programdir.length() - 1;
-		while (programdir.charAt(l) != '/') {
-			l--;
-		}
-		String programname = programdir.substring(l + 1, programdir.length());
-		System.out.println("this program is " + programname);
-		return programname;
-	}
-
-	private static boolean greaterThan(String newconfig, String oldconfig) {
-		// TODO Auto-generated method stub
-		int[] oldver = new int[5];
-		int[] newver = new int[5];
-
-		System.out.println("checking...");
-
-		int o = 0;
-		int n = 0;
-		for (int i = 0; i < newconfig.length(); i++) {
-			for (int j = 0; j < newconfig.length(); j++) {
-				if (j == newconfig.length() - 1) {
-					newver[n] = Integer.parseInt(newconfig.substring(i, j + 1));
-					System.out.println(newver[n]);
-					n++;
-					i = j + 1;
-				} else if (newconfig.charAt(j) == '.') {
-					newver[n] = Integer.parseInt(newconfig.substring(i, j));
-					System.out.print(newver[n]);
-					n++;
-					i = j + 1;
-				}
-			}
-		}
-		for (int i = 0; i < oldconfig.length(); i++) {
-			for (int j = 0; j < oldconfig.length(); j++) {
-				if (j == oldconfig.length() - 1) {
-					oldver[o] = Integer.parseInt(oldconfig.substring(i, j + 1));
-					System.out.println(oldver[o]);
-					o++;
-					i = j + 1;
-				} else if (oldconfig.charAt(j) == '.') {
-					oldver[o] = Integer.parseInt(oldconfig.substring(i, j));
-					System.out.print(newver[o]);
-					o++;
-					i = j + 1;
-				}
-			}
-		}
-
-		for (int i = 0; i < 5; i++) {
-			if (newver[i] > oldver[i])
-				return true;
-		}
-		return false;
 	}
 
 	public static void download(String httpServer, String destination)
@@ -328,23 +176,92 @@ public class Function {
 		// TODO Auto-generated method stub
 		String programlist = config + "/programlist.txt";
 		try {
-			FileInputStream fstream = new FileInputStream(programlist);
-			DataInputStream in = new DataInputStream(fstream);
-			BufferedReader br = new BufferedReader(new InputStreamReader(in));
+			BufferedReader br = getNewBufferedReader(programlist);
 
 			String desc;
-			if(!new File(config + "/desc_file").exists()){
+			if (!new File(config + "/desc_file").exists()) {
 				new File(config + "/desc_file").mkdir();
 			}
 			while ((desc = br.readLine()) != null) {
 				new File(config + "/desc_file/" + desc + ".txt")
 						.createNewFile();
 			}
-			in.close();
+			br.close();
 		} catch (Exception e) {// Catch exception if any
 			System.err.println("Error: " + e.getMessage());
 		}
 
+	}
+
+	public static void createWhatsnew(String config, String projectFolder)
+			throws IOException {
+		String template = config + "/template/whatsnews.html";
+		String en = projectFolder + "/svn/trunk/disctree/en";
+
+		BufferedReader whatsnewstr = null;
+		BufferedReader plist = null;
+		PrintWriter outwhatsnew = null;
+
+		String p;
+		plist = getNewBufferedReader(config + "/config.txt");
+		outwhatsnew = new PrintWriter(new FileWriter(en + "/whatsnew.html"));
+
+		try {
+			whatsnewstr = getNewBufferedReader(template);
+			String programname;
+			String version;
+			String l;
+			while ((l = whatsnewstr.readLine()) != null) {
+				if (l.indexOf("<tr bgcolor=\"#ffffff\">") != -1) {
+					while ((p = plist.readLine()) != null) {
+						programname = p;
+						version = plist.readLine();
+						outwhatsnew.println("<tr bgcolor=\"#ffffff\">");
+						outwhatsnew.println("<td>" + programname + "</td><td>"+version+"</td>");
+						outwhatsnew.println("</tr>");
+						p=plist.readLine();
+						p=plist.readLine();
+					}
+				}
+				outwhatsnew.println(l);
+			}
+		} finally {
+			if (whatsnewstr != null) {
+				whatsnewstr.close();
+			}
+			if (outwhatsnew != null) {
+				outwhatsnew.close();
+			}
+		}
+
+	}
+
+	public static void createlch(String config, String projectFolder)
+			throws IOException {
+
+		String en = projectFolder + "/svn/trunk/disctree/en";
+
+		BufferedReader plist = null;
+		PrintWriter outlch = null;
+
+		String p;
+		plist = getNewBufferedReader(config + "/programlist.txt");
+		while ((p = plist.readLine()) != null) {
+			try {
+
+				outlch = new PrintWriter(new FileWriter(en + "/" + p
+						+ "_install.lch"));
+
+				outlch.println("[Launch]");
+				outlch.println("ExecuteFile=${cwd}\\..\\programs\\" + p
+						+ "\\setup.exe");
+
+			} finally {
+				if (outlch != null) {
+					outlch.close();
+				}
+			}
+		}
 	}
 
 	public static void createHTML(String config, String projectFolder)
@@ -355,31 +272,35 @@ public class Function {
 
 		BufferedReader htmlstr = null;
 		BufferedReader plist = null;
-		BufferedReader desc = null;
-		PrintWriter outStr = null;
+		PrintWriter outHtml = null;
+
 		String p;
 		plist = getNewBufferedReader(config + "/programlist.txt");
 		while ((p = plist.readLine()) != null) {
 			try {
 				htmlstr = getNewBufferedReader(template);
-				desc = getNewBufferedReader(config + "/desc_file/" + p + ".txt");
-				outStr = new PrintWriter(new FileWriter(en + "/" + p + ".html"));
+				outHtml = new PrintWriter(
+						new FileWriter(en + "/" + p + ".html"));
 
 				String l;
 				while ((l = htmlstr.readLine()) != null) {
 					if (l.indexOf("programname") != -1) {
 						l = l.replaceAll("programname", p);
-					} else if (l.indexOf("versionnumber") != 1) {
+					} else if (l.indexOf("versionnumber") != -1) {
 						l = l.replaceFirst("versionnumber", "0.0");
+					} else if (l.indexOf("year") != -1) {
+						l = l.replaceFirst("year", Integer.toString(Calendar
+								.getInstance().get(Calendar.YEAR)));
 					}
-					outStr.println(l);
+					outHtml.println(l);
 				}
+
 			} finally {
 				if (htmlstr != null) {
 					htmlstr.close();
 				}
-				if (outStr != null) {
-					outStr.close();
+				if (outHtml != null) {
+					outHtml.close();
 				}
 			}
 		}
