@@ -1,12 +1,12 @@
-#summary One-sentence summary of this page.
+
 
 = Introduction =
 
 โปรแกรมผู้ช่วย ในโปรเจกต์ จันทรา จุดประสงค์คือ มาช่วยทำงานบางขั้นตอน เพื่อลดความผิดพลาด เผลดไผล หลงลืม หละหลวม ของคน คือ ขั้นตอนเมื่อมีการเปลี่ยนเลขเวอร์ชันของโปรแกรมที่อยู่ในชุด จันทรา มอบหมายโดยพี่อ๋อง โอเพ่นซอร์ส พัฒนาโดยใช้ภาษา JAVA ทั้งหมด เนื่องข้อจำกัดของผู้พัฒนา (คือเขียนได้แต่ JAVA นั่นเอง)
 
 = Details =
-*ความสามารถ*
-_ส่วนการสร้างโปรเจกต์ใหม่_
+==*ความสามารถ*==
+===_ส่วนการสร้างโปรเจกต์ใหม่_===
 สร้างโครงของแฟ้ม สำหรับ เก็บไฟล์ต่างๆในโปรเจกต์ดังนี้ โดยสามารถเลือก directory และใส่เวอร์ชัน ได้เอง ดังนี้
 directory/Chantra version/svn/trunk
 ใน trunk จะมี bin disctree/en programs
@@ -28,19 +28,19 @@ directory/Chantra version/svn/trunk
 สร้างแฟ้มชื่อ desc_txt ซึ่งจะเก็บไฟล์ txt ตามชื่อโปรแกรม ซึ่งไฟล์นี้จะใช้เขียน คำอธิบายโปรแกรม เมื่อมีการ update project คำอธิบายจะเข้าไปอยู่ใน ไฟล์ html ของโปรแกรมนั้น
 
 
-_ส่วนการ update project_
+===_ส่วนการ update project_===
 แก้ไขเลขเวอร์ันของโปรแกรมในชุด จันทรา ของไฟล์ html และ whatsnew.html
 ดึงข้อมูลจาก config.txt
 
 ดึงคำอธิบายโปรแกรม ใน ไฟล์ desc_txt/ชื่อโปรแกรม.txt มาใส่ใน ส่วนคำอธิบายของไฟล์ html
 
-*ความต้องการของโปรแกรม*
+==*ความต้องการของโปรแกรม*==
 ต้องมี แฟ้มที่เก็บพวก ไฟล์ config โดยมีโครงสร้างแฟ้มดังนี้ สมมติให้แฟ้มที่เก็บชื่อ folder
 folder/config.txt
 folder/programlist.txt
 folder/template
 
-_config.txt_
+===_config.txt_===
 ใช้สำหรับการ update project
 มี format แยกเป็นส่วนๆ 1 ส่วนต่อ 1 โปรแกรมดังนี้
 
@@ -51,15 +51,15 @@ _config.txt_
 
 ดังนั้น 1 ส่วน ของโปรแกรมจะใช้ 4 บรรทัด n โปรแกรม ก็ใช้ 4n บรรทัด 
 
-_programlist.txt_
+===_programlist.txt_===
 เก็บรายชื่อโปรแกรมที่จะใส่ในชุด จันทรา ใส่ื่ชื่อโปรแกรม 1 บรรทัด ต่อ 1 โปรแกรม
 
-_template_
+===_template_===
 เป็นแฟ้มที่เก็บไฟล์ โครงร่างที่จะใช้สร้างไฟล์อื่นต่อดังนี้
 programname.html ใช้สร้างไฟล์ html ของแต่ละโปรแกรม
 whatsnew.html ใช้สร้างไฟล์ whatsnew.html
 
-*การใช้งานโปรแกรม*
+==*การใช้งานโปรแกรม*==
 ตอนนี้ยังไม่ได้ export ออกมาเป็น runnable jar file เนื่องจากโปรแกรมยังไม่สมบูรณ์ดีพร้อม การรันคงจะต้องเอา source code ไปใส่โปรแกรมจำพวก eclipse เพื่อทำงาน โปรแกรมนี้พัฒนา บน ubuntu อาจจะมีปัญหาเรื่องการอ้างอิง path ในระบบปฏิบัติการอื่นได้
 
 เมื่อสั่งรันโปรแกรม จะขึ้นหน้าต่างให้กดเลือก มี 2 ตัวเลือกเป็น JRadioButton คือ
@@ -67,7 +67,7 @@ create new project
 ีupdate project
 จากนั้นกดปุ่ม "next >>" ที่บริเวณขวาล่างของหน้าต่าง
 
-_กรณีกด create new project_
+===_กรณีกด create new project_===
 
 โปรแกรมจะให้ระบุ directory ที่จะสร้าง แฟ้มของ project โดยให้กดปุ่ม browse (ค่าเริ่มต้นของ directory จะเป็น /home/krapok/Desktop) และเลือก dictory กด choose Chantra project directory 
 
@@ -81,8 +81,7 @@ _กรณีกด create new project_
 สร้าง ไฟล์ html และ lch และ whatsnew.html
 สร้าง desc_txt ใน config folder
 
-_กรณีกด update project_
-
+===_กรณีกด update project_===
 โปรแกรมจะให้ระบุ directory ที่เก็บ แฟ้มของ project โดยให้กดปุ่ม browse และเลือก dictory กด choose Chantra project directory 
 
 โปรแกรมจะให้ระบุ directory ที่เก็บ แฟ้มของ ไฟล์ config โดยให้กดปุ่ม browse และเลือก dictory กด choose config directory
@@ -92,7 +91,7 @@ _กรณีกด update project_
 แก้เลขเวอร์ชันใน html และ whatsnew โดยเป็นเลยที่ระบุใน config.txt
 ใส่คำอธิบาย โปรแกรม ตามที่ระบุใน ไฟล์ txt ในแฟ้ม desc_txt ซึ่งอยู่ที่ config folder
 
-*ความสามารถ ที่จะเพิ่มเติม*
+==*ความสามารถ ที่จะเพิ่มเติม*==
 ทำให้ใช้ได้หลาย platform
 สามารถ download ตัวติดตั้ง จาก link ที่ระบุใน config.txt มาใส่ลงใน trunk/programs/ชื่อโปรแกรม/setup.exe ได้
 ทำให้โปรแกรม รันแบบ multithread จะได้ไม่ต้องรอ กรณีที่ต้องมีการ download ไฟล์
@@ -100,9 +99,7 @@ _กรณีกด update project_
 ค่าเริ่มต้นของปุ่ม browse ยืดหยุ่นขึ้น (ปัจจุบันเป็นการระบุ path ของเครื่องที่ใช้พัฒนา ไปตรงๆ)
 สร้างไฟล์ log บันทึกการเปลี่ยนแปลงของ project ลงใน logfile 
 
-*ปัญหาที่พบ*
+==*ปัญหาที่พบ*==
 ยังไม่สามารถเขียน JAVA ให้สามารถ download ตัวติดตั้งได้
 Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+ 
