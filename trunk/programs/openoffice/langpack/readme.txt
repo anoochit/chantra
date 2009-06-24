@@ -1,1 +1,0 @@
-place language pack file 'setup.exe' here
