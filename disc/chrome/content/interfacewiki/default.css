@@ -71,6 +71,15 @@
 
 vbox {
   -moz-appearance: none; 
-  background-color: white;
+  /*background-color: white;*/
   cursor: none;
+}
+
+label {
+  padding-top:10px;
+  font-size: 16px;
+}
+
+label #footer  {
+  font-size: 10px;
 }

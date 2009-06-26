@@ -30,7 +30,7 @@
 	id      = "mybrowser"
 	title   = "&mybrowser.title;"
 	width   = "1024"
-	height  = "768"
+	height  = "700"
 	screenX ="10"
 	screenY ="10"
         context="clipmenu"
@@ -72,22 +72,22 @@
 	<spacer flex="1"  />
 	<image id="wk-imageWikipedia" />
 	<spacer flex="1"  />
-
 </hbox>
 
 <hbox id="menu">
 <spacer flex="1"  />	
-<vbox><label id="menu_ho" value="Home" onclick="goTo('en/home.html')" /></vbox>
-	<vbox><label id="menu_de" value="Design" onclick="goTo('en/design.html')" /> </vbox>
-	<vbox><label id="menu_ga" value="Games" onclick="goTo('en/games.html')" /> </vbox>
-	<vbox><label id="menu_in" value="Internet" onclick="goTo('en/internet.html')" /> </vbox>
-	<vbox><label id="menu_mu" value="Multimedia" onclick="goTo('en/multimedia.html')" /> </vbox>
-	<vbox><label id="menu_pr" value="Productivity" onclick="goTo('en/productivity.html')" /> </vbox>
-	<vbox><label id="menu_ut" value="Utilities" onclick="goTo('en/utilities.html')"/> </vbox>
-	
+<vbox><label id="menu_ho" value="หน้าหลัก" onclick="goTo('en/home.html')" /></vbox>
+	<vbox><label id="menu_of" value="สำนักงาน" onclick="goTo('en/office.html')" /> </vbox>
+	<vbox><label id="menu_in" value="อินเทอร์เน็ต" onclick="goTo('en/internet.html')" /> </vbox>
+	<vbox><label id="menu_ut" value="อรรถประโยชน์" onclick="goTo('en/utilities.html')" /> </vbox>
+	<vbox><label id="menu_ed" value="การศึกษา" onclick="goTo('en/education.html')" /> </vbox>
+	<vbox><label id="menu_we" value="พัฒนาเว็บไซต์" onclick="goTo('en/webdevelopment.html')" /> </vbox>
+	<vbox><label id="menu_ga" value="กราฟิก" onclick="goTo('en/graphic.html')"/> </vbox>
+	<vbox><label id="menu_en" value="บันเทิง" onclick="goTo('en/entertainment.html')"/> </vbox>
+	<vbox><label id="menu_en" value="เกี่ยวกับ" onclick="goTo('en/about.html')"/> </vbox>
+	<vbox><label id="menu_en" value="คู่มือ" onclick="goTo('en/manual.html')"/> </vbox>
 <spacer flex="1"  />
 </hbox>
-
 
 <grid id="wk-gridApplication" flex="1">
 	<columns>
@@ -152,7 +152,7 @@
 	
 <hbox id="wk-statusbar">
 	<spacer flex="1"/>
-	<label value="All original content is licensed under GPL. Visit www.theopendisc.com for updates and more information!" style="margin-top: 3px;" onclick="opendiscweb();"/>
+	<label value="All original content is licensed under GPL. Visit www.chantra.in.th for updates and more information!" style="margin-top: 3px; " onclick="opendiscweb();"/>
 	<spacer flex="1"/>
 </hbox>
 
