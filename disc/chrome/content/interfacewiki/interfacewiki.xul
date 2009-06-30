@@ -152,7 +152,7 @@
 	
 <hbox id="wk-statusbar">
 	<spacer flex="1"/>
-	<label value="All original content is licensed under GPL. Visit www.chantra.in.th for updates and more information!" style="margin-top: 3px; " onclick="opendiscweb();"/>
+	<label value="All original content is licensed under GPL. Visit www.chantra.in.th for updates and more information!" style="margin-top: 3px; "/>
 	<spacer flex="1"/>
 </hbox>
 
