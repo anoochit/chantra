@@ -6,6 +6,19 @@ $cwdir = substr($cwdir,0,(strlen($cwdir))-5);
 
 $version=getResName();
 
+function getResName() {
+    global $cwdir;
+    $res="";
+    $fname=$cwdir."releasename";
+    $farr=file($fname);
+    foreach ($farr as $item) {
+        $res.=$item;
+    }
+    $res=trim($res);
+    return $res;
+}
+
+
 /** Initial Dir **/
 $revpath="../release/rev-".$version;
 $despath="../release/rev-".$version."/html/en/";
