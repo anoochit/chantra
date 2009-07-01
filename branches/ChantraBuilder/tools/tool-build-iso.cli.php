@@ -13,7 +13,7 @@ $despath="../release/rev-".$version."/html/en/";
 // copy disc dir
 // mkisofs -r -J -l -d -allow-multidot -allow-leading-dots -no-bak -V "Chantra Dev" -o chantra-releasename.iso rev-releasename/
 
-$cmd="mkisofs -r -J -l -d -allow-multidot -allow-leading-dots -no-bak -V \"Chantra\" -o ../release/chantra-".$version.".iso ../release/rev-".$version."/"
+$cmd="mkisofs -r -J -l -d -allow-multidot -allow-leading-dots -no-bak -V \"Chantra\" -o ../release/chantra-".$version.".iso ../release/rev-".$version."/";
 system($cmd);
 
 ?>
