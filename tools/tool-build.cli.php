@@ -107,13 +107,15 @@ foreach ($category_arr as $catitem) {
         // open short description
         $desitem=file("../short-desc/".trim($item));
         // replace string for item in each category
-        $catloop=str_replace("%NAME%",ucwords(trim($item)),$catebodystr);
+        $catloop=str_replace("%NAME%",(trim($item)),$catebodystr);
+        $catloop=str_replace("%CAPNAME%",ucwords(trim($item)),$catloop);
         $catloop=str_replace("%DESCRIPTION%",trim($desitem[0]),$catloop);
         $catstr.=$catloop;
         // replace for s/w desc
         $swver=getVer($item);
         $swdes=getDesc($item);
-        $swloop=str_replace("%NAME%",ucwords(trim($item)),$swstr);
+        $swloop=str_replace("%NAME%",(trim($item)),$swstr);
+        $swloop=str_replace("%CAPNAME%",ucwords(trim($item)),$swloop);
         $swloop=str_replace("%VERSION%",trim($swver['version']),$swloop);
         $swloop=str_replace("%ONELINE%",trim($desitem[0]),$swloop);
         $swloop=str_replace("%DESCRIPTION%",trim($swdes),$swloop);
@@ -129,7 +131,8 @@ foreach ($category_arr as $catitem) {
 	}
     }
     echo "Create category description ".ucwords(trim($catitem))."...\n";
-    $catebodycontent=str_replace("%CATEGORY%",ucwords(trim($catitem)),$cateheaderstr);
+    $catebodycontent=str_replace("%CATEGORY%",(trim($catitem)),$cateheaderstr);
+    $catebodycontent=str_replace("%CAPCATEGORY%",(trim($catitem)),$catebodycontent);
     $catebodycontent=str_replace("%BODY%",trim($catstr),$catebodycontent);
     $fp=fopen($despath.$catitem.".html","w");
     fwrite($fp,$catebodycontent);
