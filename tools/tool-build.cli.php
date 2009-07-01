@@ -3,9 +3,6 @@
 
 /** the software.list.txt is prepare for build program directories, description files and etc.**/
 
-
-
-
 $cwdir = getcwd();
 $cwdir = substr($cwdir,0,(strlen($cwdir))-5);
 
@@ -166,6 +163,9 @@ foreach ($category_arr as $catitem) {
 
 // clean .svn
 // find ../release/rev-graymatter/ -name .svn
+echo "Clan SVN config files";
+$cmd="find ../release/rev-".$version."/ -name .svn | xargs rm -rf";
+system($cmd);
 
 // copy disc dir
 // mkisofs -r -J -l -d -allow-multidot -allow-leading-dots -no-bak -V "Chantra Dev" -o chantra-releasename.iso rev-releasename/
