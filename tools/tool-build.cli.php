@@ -22,11 +22,16 @@ mkdir($despath,0777,true);
 
 function downloadSetupFile($prgname,$url){
     global $cwdir,$revpath;
-    $cmd="mkdir ".$revpath."/html/programs/".$prgname;
-    system($cmd);
+    $setupfile=$revpath."/html/programs/".$prgname."/setup.exe";
+    if (!file_exists($setupfile)) {
+	if (!file_exists($revpath."/html/programs/".$prgname)) {
+	    $cmd="mkdir ".$revpath."/html/programs/".$prgname;
+	    system($cmd);
+	}
     // wget setup file and fall back to background mode
     $cmd="wget -b ".$url." -O ".$revpath."/html/programs/".$prgname."/setup.exe";
     system($cmd);    
+    }
 }
 
 function getDesc($filename) {
@@ -108,8 +113,14 @@ foreach ($swarr as $item) {
 
 // copy disc structure
 echo "Copy disc structure ...\n";
-$cmd="cp -rf ../disc/* ../release/rev-".$version."/";
+$cmd="cp -rvf ../disc/* ../release/rev-".$version."/";
 system($cmd);
+
+// copy exist programs
+echo "Copy disc structure ...\n";
+$cmd="cp -rvf ../programs ../release/rev-".$version."/html/";
+system($cmd);
+
 
 // build category file
 foreach ($category_arr as $catitem) {
@@ -157,7 +168,7 @@ foreach ($category_arr as $catitem) {
 // find ../release/rev-graymatter/ -name .svn
 
 // copy disc dir
-// mkisofs -r -J -l -d -allow-multidot -allow-leading-dots -no-bak -o chantra-releasename.iso rev-releasename/
+// mkisofs -r -J -l -d -allow-multidot -allow-leading-dots -no-bak -V "Chantra Dev" -o chantra-releasename.iso rev-releasename/
 
 
 
