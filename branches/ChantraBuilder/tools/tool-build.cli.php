@@ -3,10 +3,13 @@
 
 /** the software.list.txt is prepare for build program directories, description files and etc.**/
 
-$version="4.1";
+
+
 
 $cwdir = getcwd();
 $cwdir = substr($cwdir,0,(strlen($cwdir))-5);
+
+$version=getResName();
 
 /** Initial Dir **/
 $revpath="../release/rev-".$version;
@@ -37,6 +40,17 @@ function getDesc($filename) {
     return $res;
 }
 
+function getResName() {
+    global $cwdir;
+    $res="";
+    $fname=$cwdir."releasename";
+    $farr=file($fname);
+    foreach ($farr as $item) {
+        $res.=$item;
+    }
+    $res=trim($res);
+    return $res;
+}
 
 function getVer($filename) {
     global $cwdir;
@@ -139,7 +153,13 @@ foreach ($category_arr as $catitem) {
     fclose($fp);
 }
 
-// copy disc dir 
+// clean .svn
+// find ../release/rev-graymatter/ -name .svn
+
+// copy disc dir
+// mkisofs -r -J -l -d -allow-multidot -allow-leading-dots -no-bak -o chantra-releasename.iso rev-releasename/
+
+
 
 
 
