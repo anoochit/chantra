@@ -224,9 +224,9 @@ const listener = {
 // listener for catching external links
 function initRoot() {
 
-  var wikisearch = Components.classes["@linterweb.com/wikicomponent"].getService();
+  /*var wikisearch = Components.classes["@linterweb.com/wikicomponent"].getService();
   wikisearch = wikisearch.QueryInterface(Components.interfaces.iWikiSearch);
-  rootPath = wikisearch.getRootPath();
+  rootPath = wikisearch.getRootPath(); */
   var dls = Components.classes["@mozilla.org/docloaderservice;1"].
   getService(Components.interfaces.nsIWebProgress);
   dls.addProgressListener(listener,
@@ -234,6 +234,12 @@ function initRoot() {
                           nsIWebProgress.NOTIFY_STATE |
                           nsIWebProgress.NOTIFY_STATE_DOCUMENT);
   searchPopupClose();
+  
+  var file = Components.classes["@mozilla.org/file/directory_service;1"].
+                     getService(Components.interfaces.nsIProperties).
+                     get("CurProcD", Components.interfaces.nsIFile);
+  rootPath=file.path+"/html/";
+  //  alert( "file://"+file.path+'/'+homeUrl);
   getBrowser().setAttribute( "homepage", "file://"+rootPath+'/'+homeUrl );
 }
 
