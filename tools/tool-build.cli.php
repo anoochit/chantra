@@ -149,7 +149,7 @@ foreach ($category_arr as $catitem) {
         // download signal
         echo "Send download signal description ".ucwords(trim($item))."...\n";
 	if ($swver['url']!="") {
-		downloadSetupFile(trim($item),$swver['url']);
+	//	downloadSetupFile(trim($item),$swver['url']);
 	}
     }
     echo "Create category description ".ucwords(trim($catitem))."...\n";
@@ -163,7 +163,7 @@ foreach ($category_arr as $catitem) {
 
 // clean .svn
 // find ../release/rev-graymatter/ -name .svn
-echo "Clan SVN config files";
+echo "Clan SVN config files\n";
 $cmd="find ../release/rev-".$version."/ -name .svn | xargs rm -rf";
 system($cmd);
 
