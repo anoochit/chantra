@@ -40,10 +40,14 @@ SetCompressor lzma
 ; MUI end ------
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
-OutFile "Ooo-w-langpack-setup.exe"
+OutFile "Ooo-w-langpack-3.0.1setup.exe"
 InstallDir "$TEMP"
 ShowInstDetails show
 ShowUnInstDetails show
+
+; Request application privileges for Windows Vista
+RequestExecutionLevel admin
+
 
 Section "OpenOffice.Org 3.0.1 " SEC01
   SetOutPath "$TEMP"

@@ -41,6 +41,9 @@ InstallDir "c:\xampp"
 ShowInstDetails show
 ShowUnInstDetails show
 
+; Request application privileges for Windows Vista
+RequestExecutionLevel admin
+
 Function .onInit
    ; read registry
    ReadRegStr $INSTDIR HKLM Software\xampp "Install_Dir"
