@@ -238,8 +238,8 @@ function initRoot() {
   var file = Components.classes["@mozilla.org/file/directory_service;1"].
                      getService(Components.interfaces.nsIProperties).
                      get("CurProcD", Components.interfaces.nsIFile);
-  rootPath=file.path+"/html/";
-  //  alert( "file://"+file.path+'/'+homeUrl);
+  rootPath=file.path+"/html";
+  // alert( "file://"+file.path+'/'+homeUrl);
   getBrowser().setAttribute( "homepage", "file://"+rootPath+'/'+homeUrl );
 }
 
