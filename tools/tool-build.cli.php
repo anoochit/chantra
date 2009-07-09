@@ -149,7 +149,7 @@ foreach ($category_arr as $catitem) {
         // download signal
         echo "Send download signal description ".ucwords(trim($item))."...\n";
 	if ($swver['url']!="") {
-	//	downloadSetupFile(trim($item),$swver['url']);
+		downloadSetupFile(trim($item),$swver['url']);
 	}
     }
     echo "Create category description ".ucwords(trim($catitem))."...\n";
