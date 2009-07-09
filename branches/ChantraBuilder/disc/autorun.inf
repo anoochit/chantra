@@ -1,3 +1,4 @@
 [autorun]
-open=kiwix.exe
-label=OpenDisc 09.07
+open=autorun.exe
+label=Chantra 4
+ICON=logo.ico
