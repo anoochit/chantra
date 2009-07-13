@@ -86,7 +86,6 @@
 	<vbox><label id="menu_ga" value="กราฟิก" onclick="goTo('en/graphic.html')"/> </vbox>
 	<vbox><label id="menu_en" value="บันเทิง" onclick="goTo('en/entertainment.html')"/> </vbox>
 	<vbox><label id="menu_en" value="เกี่ยวกับ" onclick="goTo('en/about.html')"/> </vbox>
-	<vbox><label id="menu_en" value="คู่มือ" onclick="goTo('en/manual.html')"/> </vbox>
 <spacer flex="1"  />
 </hbox>
 
