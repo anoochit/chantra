@@ -99,6 +99,20 @@ $cateheaderstr="";
 foreach ($cateheader as $item) {
     $cateheaderstr.=$item;
 }
+
+echo "Load what is new template...\n";
+$wnheader=file("../template/whatnew.html");
+$wnbody=file("../template/whatnew-body.html");
+$wnbodystr="";
+foreach ($wnbody as $item) {
+    $wnbodystr.=$item;
+}
+$wnheaderstr="";
+foreach ($wnheader as $item) {
+    $wnheaderstr.=$item;
+}
+
+
 echo "Load program template ...\n";
 $swstr="";
 $swarr=file("../template/program.html");
@@ -114,10 +128,12 @@ $cmd="cp -rvf ../disc/* ../release/rev-".$version."/";
 system($cmd);
 
 // copy exist programs
-echo "Copy disc structure ...\n";
+echo "Copy exist programs ...\n";
 $cmd="cp -rvf ../programs ../release/rev-".$version."/html/";
 system($cmd);
 
+$wnloop="";
+$wnstr="";
 
 // build category file
 foreach ($category_arr as $catitem) {
@@ -133,6 +149,7 @@ foreach ($category_arr as $catitem) {
         $catloop=str_replace("%CAPNAME%",ucwords(trim($item)),$catloop);
         $catloop=str_replace("%DESCRIPTION%",trim($desitem[0]),$catloop);
         $catstr.=$catloop;
+
         // replace for s/w desc
         $swver=getVer($item);
         $swdes=getDesc($item);
@@ -141,6 +158,13 @@ foreach ($category_arr as $catitem) {
         $swloop=str_replace("%VERSION%",trim($swver['version']),$swloop);
         $swloop=str_replace("%ONELINE%",trim($desitem[0]),$swloop);
         $swloop=str_replace("%DESCRIPTION%",trim($swdes),$swloop);
+
+	// replace string for what is new
+	$swver=getVer($item);
+	$wnloop=str_replace("%CAPNAME%",ucwords(trim($item)),$wnbodystr);
+	$wnloop=str_replace("%VERSION%",trim($swver['version']),$wnloop);
+	$wnstr.=$wnloop;
+
         // build program list and send signal to download setup file
         echo "Create item description ".ucwords(trim($item))."...\n";
         $fp=fopen($despath.trim($item).".html","w");
@@ -152,6 +176,7 @@ foreach ($category_arr as $catitem) {
 		downloadSetupFile(trim($item),$swver['url']);
 	}
     }
+    // create category desciption
     echo "Create category description ".ucwords(trim($catitem))."...\n";
     $catebodycontent=str_replace("%CATEGORY%",(trim($catitem)),$cateheaderstr);
     $catebodycontent=str_replace("%CAPCATEGORY%",(trim($catitem)),$catebodycontent);
@@ -160,6 +185,12 @@ foreach ($category_arr as $catitem) {
     fwrite($fp,$catebodycontent);
     fclose($fp);
 }
+
+// create what is new 
+$wnbodycontent=str_replace("%BODY%",trim($wnstr),$wnheaderstr);
+$fp=fopen($despath."whatnew.html","w");
+fwrite($fp,$wnbodycontent);
+fclose($fp);
 
 // clean .svn
 // find ../release/rev-graymatter/ -name .svn

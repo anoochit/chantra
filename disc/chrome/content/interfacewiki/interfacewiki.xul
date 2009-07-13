@@ -77,6 +77,7 @@
 <hbox id="menu">
 <spacer flex="1"  />	
 <vbox><label id="menu_ho" value="หน้าหลัก" onclick="goTo('en/home.html')" /></vbox>
+<vbox><label id="menu_ho" value="มีอะไรใหม่" onclick="goTo('en/whatnew.html')" /></vbox>
 	<vbox><label id="menu_of" value="สำนักงาน" onclick="goTo('en/office.html')" /> </vbox>
 	<vbox><label id="menu_in" value="อินเทอร์เน็ต" onclick="goTo('en/internet.html')" /> </vbox>
 	<vbox><label id="menu_ut" value="อรรถประโยชน์" onclick="goTo('en/utilities.html')" /> </vbox>
