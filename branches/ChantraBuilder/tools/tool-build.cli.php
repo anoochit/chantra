@@ -132,6 +132,11 @@ echo "Copy exist programs ...\n";
 $cmd="cp -rvf ../programs ../release/rev-".$version."/html/";
 system($cmd);
 
+// copy exist manual
+echo "Copy exist manual ...\n";
+$cmd="cp -rvf ../manuals ../release/rev-".$version."/html/";
+system($cmd);
+
 $wnloop="";
 $wnstr="";
 
