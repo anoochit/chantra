@@ -72,3 +72,4 @@ The category of the disc include:
      * Enigma 
      * Neverball 
      * Sokoban YASC 
+     * SuperTux
