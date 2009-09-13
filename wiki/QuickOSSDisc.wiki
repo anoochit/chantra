@@ -9,74 +9,74 @@ Quick Open Source is derivative project, get an idea from Chantra and another op
 The category of the disc include:
 
   * *Internet*
-     * FireFox
-     * FireFox Add-on
-     * Flock
-     * Thunderbird
-     * Pidgin
-     * Azureus 
-     * FileZilla 
-     * RSSOwl
+   * FireFox
+    * FireFox Add-on
+    * Flock
+    * Thunderbird
+    * Pidgin
+    * Azureus 
+    * FileZilla 
+    * RSSOwl
 
   * *Graphics*
-     * GIMP
-     * Inkscape
-     * Scribus
-     * GIMP
-     * Blender 
+    * GIMP
+    * Inkscape
+    * Scribus
+    * GIMP
+    * Blender 
 
   * *Multimedia*
-     * SongBird
-     * VLC
-     * Audacity 
+    * SongBird
+    * VLC
+    * Audacity 
 
   * *Tools*
-     * Infrarecorder
-     * HTTrack 
-     * TightVNC 
-     * PUTTY
-     * WinSCP 
-     * Really Slick Screensavers 
-     * Notepad2 
-     * Abakt 
-     * 7-Zip
-     * Clamwin 
-     * HealthMonitor 
-     * TrueCrypt 
-     * Workrave 
+    * Infrarecorder
+    * HTTrack 
+    * TightVNC 
+    * PUTTY
+    * WinSCP 
+    * Really Slick Screensavers 
+    * Notepad2 
+    * Abakt 
+    * 7-Zip
+    * Clamwin 
+    * HealthMonitor 
+    * TrueCrypt 
+    * Workrave 
 
   * *Office*
-     * OpenOffice.org
-     * Dia
-     * PDFCreator
-     * Sumatra PDF
-     * FreeMind
-     * Gantt Project
-     * GnuCash 
+    * OpenOffice.org
+    * Dia
+    * PDFCreator
+    * Sumatra PDF
+    * FreeMind
+    * Gantt Project
+    * GnuCash 
 
   * *Development*
-     * Eclipse PDT
-     * GTK+
-     * Python
-     * Python GTK
-     * XAMPP
-     * Glade
+    * Eclipse PDT
+    * GTK+
+    * Python
+    * Python GTK
+    * XAMPP
+    * Glade
 
   * *Eduation*
-     * Moodle
-     * A-Tutor
-     * Celestia 
-     * Stellarium 
+    * Moodle
+    * A-Tutor
+    * Celestia 
+    * Stellarium 
 
   * *Web*
-     * MoinMoin
-     * WikiMedia
-     * Twiki
-     * Doku Wiki
+    * MoinMoin
+    * WikiMedia
+    * Twiki
+    * Doku Wiki
 
   * *Game*
-     * The Battle for Wesnoth
-     * Enigma 
-     * Neverball 
-     * Sokoban YASC 
-     * SuperTux
+    * The Battle for Wesnoth
+    * Enigma 
+    * Neverball 
+    * Sokoban YASC 
+    * SuperTux
