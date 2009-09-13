@@ -1,3 +1,5 @@
+#summary ChantraHelper the tool for create chantra disc layout
+#labels Phase-Implementation
 
 = Introduction =
 
