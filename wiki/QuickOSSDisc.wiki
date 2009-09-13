@@ -10,13 +10,13 @@ The category of the disc include:
 
   * *Internet*
    * FireFox
-    * FireFox Add-on
-    * Flock
-    * Thunderbird
-    * Pidgin
-    * Azureus 
-    * FileZilla 
-    * RSSOwl
+   * FireFox Add-on
+   * Flock
+   * Thunderbird
+   * Pidgin
+   * Azureus 
+   * FileZilla 
+   * RSSOwl
 
   * *Graphics*
     * GIMP
