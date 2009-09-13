@@ -4,10 +4,10 @@
 
 Quick Open Source is derivative project, get an idea from Chantra and another open source disc to make an open source disc for suitable for everyone. The Chantra project is linmited with size of medium and software category then we construct the plain layout of the disc and make a new version branded with the familiar name call "Quick Open Source : The best open source software for the humanity"
 
-
 = Disc Category =
 
 The category of the disc include:
+
   * Internet
      * FireFox
      * FireFox Add-on
@@ -17,16 +17,19 @@ The category of the disc include:
      * Azureus 
      * FileZilla 
      * RSSOwl
+
   * Graphics
      * GIMP
      * Inkscape
      * Scribus
      * GIMP
      * Blender 
+
   * Multimedia
      * SongBird
      * VLC
      * Audacity 
+
   * Tools
      * Infrarecorder
      * HTTrack 
@@ -41,6 +44,7 @@ The category of the disc include:
      * HealthMonitor 
      * TrueCrypt 
      * Workrave 
+
   * Office
      * OpenOffice.org
      * Dia
@@ -49,6 +53,7 @@ The category of the disc include:
      * FreeMind
      * Gantt Project
      * GnuCash 
+
   * Development
      * Eclipse PDT
      * GTK+
@@ -62,11 +67,13 @@ The category of the disc include:
      * A-Tutor
      * Celestia 
      * Stellarium 
+
   * Web
      * MoinMoin
      * WikiMedia
      * Twiki
      * Doku Wiki
+
   * Game
      * The Battle for Wesnoth
      * Enigma 
