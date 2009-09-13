@@ -1,4 +1,4 @@
-#summary Quick Open Source is derivative project, get an idea from Chantra and another open source disc to make an open source disc for suitable for everyone :)
+#summary Quick Open Source is derivative project, get an idea from Chantra and another open source disc to make an open source disc suitable for everyone :)
 
 = Introduction =
 
@@ -29,6 +29,9 @@ The category of the disc include:
     * SongBird
     * VLC
     * Audacity 
+    * LMM
+    * Icecast 
+    * SHOUTcast 
 
   * *Tools*
     * Infrarecorder
@@ -44,6 +47,7 @@ The category of the disc include:
     * HealthMonitor 
     * TrueCrypt 
     * Workrave 
+    * Weka
 
   * *Office*
     * OpenOffice.org
@@ -71,8 +75,15 @@ The category of the disc include:
   * *Web*
     * MoinMoin
     * WikiMedia
-    * Twiki
+    * TikiWiki
+    * TWiki
     * Doku Wiki
+    * WordPress
+    * Drupal
+    * Joomla
+    * Concrete5
+    * Zikula
+
 
   * *Game*
     * The Battle for Wesnoth
