@@ -1,0 +1,90 @@
+Introduction
+
+Quick Open Source is derivative project, get an idea from Chantra and another open source disc to make an open source disc for suitable for everyone. The Chantra project is linmited with size of medium and software category then we construct the plain layout of the disc and make a new version branded with the familiar name call "Quick Open Source : The best open source software for the humanity"
+Disc Category
+
+The category of the disc include:
+
+    * Internet
+          o FireFox?
+          o FireFox? Add-on
+          o Flock
+          o Thunderbird
+          o Pidgin
+          o Azureus
+          o FileZilla?
+          o RSSOwl 
+
+    * Graphics
+          o GIMP
+          o Inkscape
+          o Scribus
+          o GIMP
+          o Blender 
+
+    * Multimedia
+          o SongBird?
+          o VLC
+          o Audacity
+          o LMM
+          o Icecast
+          o SHOUTcast 
+
+    * Tools
+          o Infrarecorder
+          o HTTrack
+          o TightVNC
+          o PUTTY
+          o WinSCP
+          o Really Slick Screensavers
+          o Notepad2
+          o Abakt
+          o 7-Zip
+          o Clamwin
+          o HealthMonitor?
+          o TrueCrypt?
+          o Workrave
+          o Weka 
+
+    * Office
+          o OpenOffice?.org
+          o Dia
+          o PDFCreator
+          o Sumatra PDF
+          o FreeMind?
+          o Gantt Project
+          o GnuCash? 
+
+    * Development
+          o Eclipse PDT
+          o GTK+
+          o Python
+          o Python GTK
+          o XAMPP
+          o Glade 
+
+    * Education
+          o Moodle
+          o A-Tutor
+          o Celestia
+          o Stellarium 
+
+    * Web
+          o MoinMoin?
+          o WikiMedia?
+          o TikiWiki?
+          o TWiki
+          o Doku Wiki
+          o WordPress?
+          o Drupal
+          o Joomla
+          o Concrete5
+          o Zikula 
+
+    * Game
+          o The Battle for Wesnoth
+          o Enigma
+          o Neverball
+          o Sokoban YASC
+          o SuperTux? 
+
