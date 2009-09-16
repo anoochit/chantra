@@ -22,7 +22,6 @@ The category of the disc include:
     * GIMP
     * Inkscape
     * Scribus
-    * GIMP
     * Blender 
 
   * *Multimedia*
@@ -56,19 +55,24 @@ The category of the disc include:
     * Sumatra PDF
     * FreeMind
     * Gantt Project
+    * OpenProj
     * GnuCash 
 
   * *Development*
+    * Eclipse JDT
     * Eclipse PDT
     * GTK+
     * Python
     * Python GTK
     * XAMPP
     * Glade
+    * Netbean
+    * Java SDK
 
   * *Education*
     * Moodle
     * A-Tutor
+    * Claroline
     * Celestia 
     * Stellarium 
 
@@ -91,4 +95,5 @@ The category of the disc include:
     * Enigma 
     * Neverball 
     * Sokoban YASC 
-    * SuperTux
+    * SuperTux BETA
+    * Secret of Mayo
