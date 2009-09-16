@@ -81,6 +81,7 @@ The category of the disc include:
     * WordPress
     * Drupal
     * Joomla
+    * MoveableType
     * Concrete5
     * Zikula
 
