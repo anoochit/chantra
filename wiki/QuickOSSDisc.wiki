@@ -73,7 +73,7 @@ The category of the disc include:
     * Stellarium 
 
   * *Web*
-    * MoinMoin
+    * ~~MoinMoin~~
     * WikiMedia
     * TikiWiki
     * TWiki
