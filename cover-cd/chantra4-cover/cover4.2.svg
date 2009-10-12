@@ -20,7 +20,7 @@
    inkscape:version="0.46"
    sodipodi:docname="cover4.2.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/Users/gumara/chantra-artwork/cover-cd/chantra4-cover/chantra42-cover-2.png"
+   inkscape:export-filename="/Users/gumara/chantra-artwork/cover-cd/chantra4-cover/chantra42-cover-4.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -38,9 +38,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="1.9863272"
-     inkscape:cx="1569.987"
-     inkscape:cy="190.72054"
+     inkscape:zoom="0.3971885"
+     inkscape:cx="619.59043"
+     inkscape:cy="133.0482"
      inkscape:window-x="0"
      inkscape:window-y="22"
      inkscape:current-layer="svg2"
@@ -9830,13 +9830,6 @@
        fx="183.53534"
        fy="352.44836"
        r="165.38348" />
-    <inkscape:perspective
-       id="perspective8494"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       sodipodi:type="inkscape:persp3d" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -30155,10 +30148,10 @@
                id="rect9609" /></flowRegion><flowPara
              id="flowPara9611"
              style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /><flowPara
+             id="flowPara9613"
+             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /><flowPara
              id="flowPara9617"
-             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"></flowPara><flowPara
-             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-             id="flowPara8388">Adobe Contribute CS4</flowPara><flowPara
+             style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Adobe Contribute CS4</flowPara><flowPara
              style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
              id="flowPara8356">WinFTP</flowPara><flowPara
              id="flowPara9619"
@@ -30552,12 +30545,4 @@
          transform="matrix(0,1,-1,0,0,0)" />
     </g>
   </g>
-  <image
-     y="-486.30719"
-     x="-1383.0131"
-     id="image8496"
-     height="1477"
-     width="5906"
-     sodipodi:absref="/Users/gumara/chantra-artwork/cover-cd/chantra4-cover/chantra42-cover.png"
-     xlink:href="chantra42-cover.png" />
 </svg>
