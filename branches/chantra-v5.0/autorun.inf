@@ -1,0 +1,70 @@
+[AutoRun]
+open=AutoRun.exe 
+icon=AutoRun.exe, 0
+;The ", 0 " above, tells Windows to use the icon embedded in AutoRun.exe.
+;If you do not want any icon in My Computer, put a semicolon in front of the icon line.
+;If using your own icon file, use this line instead-
+;icon=icon.ico
+
+[CUSTOM CD MENU]
+titletext=OpenOffice.org Migration Toolkit Menu
+buttonqty= 2
+buttoncolor=clInfoBk
+menucolor= clWhite
+;A semicolon at the begining of the line means the line is ignored by the program.
+;Text inside brackets is case sensitive, use Uppercase.
+;Text on left side of "=" is case sensitive, use lowercase.
+;Your text can be mixed case.
+;See the readme.htm file for a list of color codes.
+;Path names do NOT need quotes around them if they contain spaces.
+;To pass parameters to exe files, use optionalcommandlineparams= , otherwise leave blank.
+
+
+[BUTTON1]
+buttontext=OpenOffice.org Migration Toolkit
+relativepathandfilename=default.html
+optionalcommandlineparams= 
+closemenuonclick=0
+
+[BUTTON2]
+buttontext= OpenOffice.org Training
+relativepathandfilename=OOo_Training\start.exe
+optionalcommandlineparams= 
+closemenuonclick=0
+
+[BUTTON3]
+buttontext=Click to launch a file in a subfolder
+relativepathandfilename=Sub Folder Example\popup.txt
+optionalcommandlineparams= 
+closemenuonclick=1
+
+[BUTTON4]
+buttontext=Start Migration to OO.o 2.2.1
+relativepathandfilename=readme.htm
+optionalcommandlineparams= 
+closemenuonclick=0
+
+[BUTTON5]
+buttontext=Learning OO.o 2.2.1
+relativepathandfilename=exe\start.exe
+optionalcommandlineparams= 
+closemenuonclick=0
+
+[BUTTON6]
+buttontext=
+relativepathandfilename=
+optionalcommandlineparams= 
+closemenuonclick=0
+
+[BUTTON7]
+buttontext=
+relativepathandfilename=
+optionalcommandlineparams= 
+closemenuonclick=0
+
+[BUTTON8]
+buttontext=
+relativepathandfilename=
+optionalcommandlineparams= 
+closemenuonclick=0
+
