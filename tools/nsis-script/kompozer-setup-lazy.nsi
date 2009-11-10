@@ -2,7 +2,7 @@
 
 ; HM NIS Edit Wizard helper defines
 !define PRODUCT_NAME "KompoZer"
-!define PRODUCT_VERSION "0.8a4"
+!define PRODUCT_VERSION "0.8b1"
 !define PRODUCT_PUBLISHER "KompoZer"
 !define PRODUCT_WEB_SITE "http://www.kompozer.net"
 !define PRODUCT_DIR_REGKEY "Software\Microsoft\Windows\CurrentVersion\App Paths\kompozer.exe"
@@ -20,7 +20,7 @@
 ; Welcome page
 !insertmacro MUI_PAGE_WELCOME
 ; License page
-!insertmacro MUI_PAGE_LICENSE "C:\tmp\KompoZer\LICENSE"
+!insertmacro MUI_PAGE_LICENSE "C:\temp\KompoZer\LICENSE"
 ; Directory page
 !insertmacro MUI_PAGE_DIRECTORY
 ; Instfiles page
@@ -38,7 +38,7 @@
 ; MUI end ------
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
-OutFile "kompozer-0.8.4a-setup.exe"
+OutFile "kompozer-0.8b1-setup.exe"
 InstallDir "$PROGRAMFILES\KompoZer"
 InstallDirRegKey HKLM "${PRODUCT_DIR_REGKEY}" ""
 ShowInstDetails show
@@ -50,10 +50,10 @@ RequestExecutionLevel admin
 Section "MainSection" SEC01
   SetOutPath "$INSTDIR"
   SetOverwrite try
-  File /r "C:\tmp\KompoZer\"
+  File /r "C:\temp\KompoZer\"
   CreateDirectory "$SMPROGRAMS\KompoZer"
-  CreateShortCut "$SMPROGRAMS\KompoZer\KompoZer.lnk" "$INSTDIR\kompozer.exe.exe"
-  CreateShortCut "$DESKTOP\KompoZer.lnk" "$INSTDIR\kompozer.exe.exe"
+  CreateShortCut "$SMPROGRAMS\KompoZer\KompoZer.lnk" "$INSTDIR\kompozer.exe"
+  CreateShortCut "$DESKTOP\KompoZer.lnk" "$INSTDIR\kompozer.exe"
 SectionEnd
 
 Section -AdditionalIcons
@@ -91,7 +91,7 @@ Section Uninstall
   Delete "$DESKTOP\KompoZer.lnk"
   Delete "$SMPROGRAMS\KompoZer\KompoZer.lnk"
 
-  RMDir "$SMPROGRAMS\KompoZer"
+  RMDir /r "$SMPROGRAMS\KompoZer"
 
   RMDir /r "$INSTDIR"
 

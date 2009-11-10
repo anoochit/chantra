@@ -19,7 +19,7 @@
 ; Welcome page
 !insertmacro MUI_PAGE_WELCOME
 ; License page
-!insertmacro MUI_PAGE_LICENSE "C:\tmp\TortoiseSVN License.txt"
+!insertmacro MUI_PAGE_LICENSE "C:\temp\gpl2.txt"
 ; Directory page
 ;!insertmacro MUI_PAGE_DIRECTORY
 ; Instfiles page
@@ -47,8 +47,8 @@ RequestExecutionLevel admin
 Section "MainSection" SEC01
   SetOutPath "$TEMP"
   SetOverwrite ifnewer
-  File "C:\Documents and Settings\Administrator\Desktop\TortoiseSVN-1.6.2.16344-win32-svn-1.6.2.msi"
-  ExecWait '"msiexec" /i "$TEMP\TortoiseSVN-1.6.2.16344-win32-svn-1.6.2.msi"  /passive'
+  File "C:\temp\TortoiseSVN-1.6.6.17493-win32-svn-1.6.6.msi"
+  ExecWait '"msiexec" /i "$TEMP\TortoiseSVN-1.6.6.17493-win32-svn-1.6.6.msi"  /passive'
 SectionEnd
 
 /*

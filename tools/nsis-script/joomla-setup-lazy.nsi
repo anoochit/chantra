@@ -2,7 +2,7 @@
 
 ; HM NIS Edit Wizard helper defines
 !define PRODUCT_NAME "Joomla"
-!define PRODUCT_VERSION "1.5.12"
+!define PRODUCT_VERSION "1.5.15"
 !define PRODUCT_PUBLISHER "Joomla"
 !define PRODUCT_WEB_SITE "http://www.joomla.org"
 !define PRODUCT_UNINST_KEY "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_NAME}"
@@ -19,7 +19,7 @@
 ; Welcome page
 !insertmacro MUI_PAGE_WELCOME
 ; License page
-!insertmacro MUI_PAGE_LICENSE "C:\tmp\TortoiseSVN License.txt"
+!insertmacro MUI_PAGE_LICENSE "C:\temp\gpl2.txt"
 ; Components page
 !insertmacro MUI_PAGE_COMPONENTS
 ; Instfiles page
@@ -36,7 +36,7 @@
 ; MUI end ------
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
-OutFile "xampp-addon-joomla-1.5.12-setup.exe"
+OutFile "xampp-addon-joomla-1.5.15-setup.exe"
 InstallDir "c:\xampp"
 ShowInstDetails show
 ShowUnInstDetails show
@@ -109,9 +109,7 @@ Section Uninstall
   ReadRegStr $INSTDIR HKLM Software\xampp "Install_Dir"
   RMDir /r "$INSTDIR\htdocs\joomla"
   RMDir /r "$INSTDIR\mysql\data\joomla"
-  
-  RMDir "$SMPROGRAMS\Joomla\Website.lnk"
-  RMDir "$SMPROGRAMS\Joomla\Uninstall.lnk"
+  RMDir /r "$SMPROGRAMS\Joomla"
 
   DeleteRegKey ${PRODUCT_UNINST_ROOT_KEY} "${PRODUCT_UNINST_KEY}"
   SetAutoClose true
