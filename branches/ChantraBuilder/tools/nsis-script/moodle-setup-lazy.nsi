@@ -2,7 +2,7 @@
 
 ; HM NIS Edit Wizard helper defines
 !define PRODUCT_NAME "Moodle"
-!define PRODUCT_VERSION "1.9.5"
+!define PRODUCT_VERSION "1.9.6"
 !define PRODUCT_PUBLISHER "Moodle"
 !define PRODUCT_WEB_SITE "http://www.moodle.org"
 ;!define PRODUCT_DIR_REGKEY "Software\Microsoft\Windows\CurrentVersion\App Paths\mimetex.exe"
@@ -35,7 +35,7 @@
 ; MUI end ------
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
-OutFile "xampp-addon-moodle-1.9.5-setup.exe"
+OutFile "xampp-addon-moodle-1.9.6-setup.exe"
 InstallDir "$PROGRAMFILES\Moodle"
 InstallDirRegKey HKLM "${PRODUCT_DIR_REGKEY}" ""
 ShowInstDetails show
@@ -102,10 +102,7 @@ Section Uninstall
   ReadRegStr $INSTDIR HKLM Software\xampp "Install_Dir"
   RMDir /r "$INSTDIR\htdocs\moodle"
   RMDir /r "$INSTDIR\mysql\data\moodle"
-  
- 
   RMDir /r "$SMPROGRAMS\Moodle"
-
 
   DeleteRegKey ${PRODUCT_UNINST_ROOT_KEY} "${PRODUCT_UNINST_KEY}"
 ;  DeleteRegKey HKLM "${PRODUCT_DIR_REGKEY}"
