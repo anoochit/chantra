@@ -1,0 +1,14 @@
+Infrarecorder
+HTTrack
+TightVNC
+PUTTY
+WinSCP
+Really-Slick-Screensavers
+Notepad2
+Abakt
+7-Zip
+Clamwin
+HealthMonitor
+TrueCrypt
+Workrave
+Weka
