@@ -1,0 +1,6 @@
+TheBattleforWesnoth
+Enigma
+Neverball
+SokobanYASC
+SuperTux
+SecretOfMayo

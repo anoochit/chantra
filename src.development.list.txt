@@ -1,0 +1,7 @@
+EclipseJDT
+EclipsePDT
+GTK+
+Python
+PythonGTK
+XAMPP
+Glade
