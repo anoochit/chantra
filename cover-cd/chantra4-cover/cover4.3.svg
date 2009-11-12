@@ -26,8 +26,8 @@
   <metadata
      id="metadata63" />
   <sodipodi:namedview
-     inkscape:window-height="692"
-     inkscape:window-width="1018"
+     inkscape:window-height="950"
+     inkscape:window-width="1280"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -38,16 +38,16 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.56170936"
-     inkscape:cx="4888.3418"
-     inkscape:cy="338.42591"
+     inkscape:zoom="1.1234187"
+     inkscape:cx="2605.7579"
+     inkscape:cy="174.15307"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:current-layer="g4616"
      units="cm"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="1,0"
        position="885.82813,297.07813"
@@ -140,6 +140,14 @@
        orientation="1,0"
        position="4327.8609,97.915405"
        id="guide8850" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="2442.5443,-24.923922"
+       id="guide8821" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="2865.3608,217.19417"
+       id="guide8823" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -9845,48 +9853,48 @@
     <image
        sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/could-3.jpg"
        xlink:href="could-3.jpg"
-       width="3872"
-       height="2592"
-       id="image14023"
-       x="2917.4297"
+       style="opacity:1;display:inline"
        y="-281.87234"
-       style="opacity:1;display:inline" />
+       x="2917.4297"
+       id="image14023"
+       height="2592"
+       width="3872" />
     <image
        sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/could-3.jpg"
        xlink:href="could-3.jpg"
-       width="3872"
-       height="2592"
-       id="image12666"
-       x="1797.4298"
+       style="opacity:1;display:inline"
        y="-281.87234"
-       style="opacity:1;display:inline" />
+       x="1797.4298"
+       id="image12666"
+       height="2592"
+       width="3872" />
     <image
        sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/could-4.jpg"
        xlink:href="could-4.jpg"
-       width="3872"
-       height="2592"
-       id="image7164"
+       y="-256.46521"
        x="-1458.703"
-       y="-256.46521" />
+       id="image7164"
+       height="2592"
+       width="3872" />
     <image
        sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/could-3.jpg"
        xlink:href="could-3.jpg"
-       width="3872"
-       height="2592"
-       id="image8653"
-       x="-709.70557"
+       style="display:inline"
        y="-281.87234"
-       style="display:inline" />
+       x="-709.70557"
+       id="image8653"
+       height="2592"
+       width="3872" />
   </g>
   <image
      sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/could-2.jpg"
      xlink:href="could-2.jpg"
-     style="opacity:0.80912865"
-     width="3264"
-     height="2448"
-     id="image8622"
+     y="2632.9758"
      x="-6357.7812"
-     y="2632.9758" />
+     id="image8622"
+     height="2448"
+     width="3264"
+     style="opacity:0.80912865" />
   <path
      id="path42"
      style="fill:#000000;fill-opacity:1"
@@ -10148,7 +10156,7 @@
     <g
        style="display:inline"
        id="g13496"
-       transform="matrix(1.5538132,0,0,1.5538132,1737.152,-94.465271)"
+       transform="matrix(1.5538132,0,0,1.5538132,2420.8303,-94.465271)"
        inkscape:export-filename="/home/gumara/chantra-artwork-svn/cover-cd/chantra4-cover/label-1.png"
        inkscape:export-xdpi="300.02539"
        inkscape:export-ydpi="300.02539">
@@ -10160,7 +10168,7 @@
          sodipodi:cy="87.913368"
          sodipodi:cx="2023"
          id="path13498"
-         style="opacity:0.7;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.27754137;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.7;fill:none;stroke:#ff0000;stroke-width:0.27754137;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
          sodipodi:type="arc" />
       <path
          transform="matrix(0.2798507,0,0,0.2798507,1812.2269,-81.740731)"
@@ -10170,7 +10178,7 @@
          sodipodi:cy="412.91336"
          sodipodi:cx="2190"
          id="path13500"
-         style="opacity:0.7;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.78666699;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.7;fill:none;stroke:#ff0000;stroke-width:1.78666699;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
          sodipodi:type="arc" />
     </g>
     <g
@@ -10582,14 +10590,14 @@
          y="16.603121">4.0</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:35.35100937px;font-style:normal;font-weight:normal;fill:#aeaeae;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+       style="font-size:35.35100937px;font-style:normal;font-weight:normal;fill:#aeaeae;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
        x="5600.188"
        y="171.07182"
        id="text13804"><tspan
          sodipodi:role="line"
          id="tspan13806"
          x="5600.188"
-         y="171.07182">4.1</tspan></text>
+         y="171.07182">4.3</tspan></text>
     <g
        id="g13808"
        i:extraneous="self"
@@ -11152,6 +11160,16 @@
        height="661.12732"
        x="9068.9111"
        y="-371.77853"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="opacity:0.83333332999999998;fill:none;stroke:#000000;stroke-width:1.00105249999999990;stroke-opacity:1"
+       id="rect8825"
+       width="656.97668"
+       height="656.97668"
+       x="5176.3203"
+       y="-370.73605"
+       inkscape:export-filename="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/chantra43-cover-disc-1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
   </g>
@@ -16515,21 +16533,21 @@
   <image
      sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
      xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
-     style="fill:#ffffff;fill-opacity:1;filter:url(#filter6460)"
-     width="28.750004"
-     height="28.750004"
-     id="image4532"
+     y="919.91339"
      x="52.75"
-     y="919.91339" />
+     id="image4532"
+     height="28.750004"
+     width="28.750004"
+     style="fill:#ffffff;fill-opacity:1;filter:url(#filter6460)" />
   <image
      sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
      xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
-     style="fill:#ffffff;fill-opacity:1"
-     width="28.750004"
-     height="28.750004"
-     id="image4534"
+     y="919.91339"
      x="52.75"
-     y="919.91339" />
+     id="image4534"
+     height="28.750004"
+     width="28.750004"
+     style="fill:#ffffff;fill-opacity:1" />
   <flowRoot
      xml:space="preserve"
      id="flowRoot4536"
@@ -16654,71 +16672,71 @@
     <image
        sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
-       y="261.00479"
-       x="1011.0925"
-       id="image4588"
+       width="17.818172"
        height="17.818172"
-       width="17.818172" />
+       id="image4588"
+       x="1011.0925"
+       y="261.00479" />
     <image
        sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
-       y="261.00479"
-       x="971.45801"
-       id="image4590"
+       width="17.818172"
        height="17.818172"
-       width="17.818172" />
+       id="image4590"
+       x="971.45801"
+       y="261.00479" />
     <image
        sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
-       y="261.00479"
-       x="991.27521"
-       id="image4592"
+       width="17.818172"
        height="17.818172"
-       width="17.818172" />
+       id="image4592"
+       x="991.27521"
+       y="261.00479" />
     <image
        sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
-       y="261.00479"
-       x="1011.0925"
-       id="image4594"
-       height="17.818172"
+       style="filter:url(#filter6622)"
        width="17.818172"
-       style="filter:url(#filter6622)" />
+       height="17.818172"
+       id="image4594"
+       x="1011.0925"
+       y="261.00479" />
     <image
        sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
-       y="261.00479"
-       x="951.64069"
-       id="image4596"
+       width="17.818172"
        height="17.818172"
-       width="17.818172" />
+       id="image4596"
+       x="951.64069"
+       y="261.00479" />
     <image
        sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
-       y="261.00479"
-       x="971.45801"
-       id="image4598"
-       height="17.818172"
+       style="filter:url(#filter6626)"
        width="17.818172"
-       style="filter:url(#filter6626)" />
+       height="17.818172"
+       id="image4598"
+       x="971.45801"
+       y="261.00479" />
     <image
        sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
-       y="261.00479"
-       x="991.27521"
-       id="image4600"
-       height="17.818172"
+       style="filter:url(#filter6630)"
        width="17.818172"
-       style="filter:url(#filter6630)" />
+       height="17.818172"
+       id="image4600"
+       x="991.27521"
+       y="261.00479" />
     <image
        sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
-       y="261.00479"
-       x="951.64069"
-       id="image4602"
-       height="17.818172"
+       style="filter:url(#filter6634)"
        width="17.818172"
-       style="filter:url(#filter6634)" />
+       height="17.818172"
+       id="image4602"
+       x="951.64069"
+       y="261.00479" />
   </g>
   <g
      id="g7473"
@@ -18805,12 +18823,12 @@
         <image
            sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/osx-leopard.png"
            xlink:href="osx-leopard.png"
-           y="122.76277"
-           x="110.35871"
-           id="image11826"
-           height="23.40901"
+           style="fill:#000000;fill-opacity:1"
            width="19.576561"
-           style="fill:#000000;fill-opacity:1" />
+           height="23.40901"
+           id="image11826"
+           x="110.35871"
+           y="122.76277" />
       </g>
       <g
          id="g14397"
@@ -28478,23 +28496,23 @@
       <image
          sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/Internet_Explorer_7_Logo.png"
          xlink:href="Internet_Explorer_7_Logo.png"
-         width="41.123989"
-         height="41.123989"
-         id="image30682"
-         x="1535.1897"
-         y="21.268778"
+         transform="matrix(0.643578,0,0,0.643578,-888.82112,244.45262)"
          style="display:inline"
-         transform="matrix(0.643578,0,0,0.643578,-888.82112,244.45262)" />
+         y="21.268778"
+         x="1535.1897"
+         id="image30682"
+         height="41.123989"
+         width="41.123989" />
       <image
          sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/Photoshop_CS4.png"
          xlink:href="Photoshop_CS4.png"
-         width="34.094509"
-         height="34.094509"
-         id="image12662"
-         x="1538.7045"
-         y="-14.077701"
+         transform="matrix(0.643578,0,0,0.643578,-888.82112,244.45262)"
          style="display:inline"
-         transform="matrix(0.643578,0,0,0.643578,-888.82112,244.45262)" />
+         y="-14.077701"
+         x="1538.7045"
+         id="image12662"
+         height="34.094509"
+         width="34.094509" />
       <g
          id="g26851"
          transform="matrix(0.6442215,0,0,0.6442215,58.610847,230.03632)">
@@ -28601,11 +28619,11 @@
       <image
          sodipodi:absref="/home/pirate/project/chantra/branches/artwork/cover-cd/chantra4-cover/Firefox_logo.png"
          xlink:href="Firefox_logo.png"
-         width="26.870668"
-         height="25.776388"
-         id="image12639"
+         y="258.48578"
          x="60.375584"
-         y="258.48578" />
+         id="image12639"
+         height="25.776388"
+         width="26.870668" />
     </g>
   </g>
   <g
