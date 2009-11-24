@@ -97,3 +97,4 @@ The category of the disc include:
     * Sokoban YASC 
     * SuperTux BETA
     * Secret of Mayo
+    * Open Sonic
