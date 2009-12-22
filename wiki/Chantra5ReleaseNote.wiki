@@ -1,12 +1,44 @@
 #summary release note for Chantra 5.0
 = Introduction =
 
-Add your content here.
+Release note for Chantra 5.0, we have a little problems with the size of software and the amount of software. Chantra should has more than a normal software and distribution media should be 2 CDs or 1 DVD. 
 
 
-= Alpha 1 =
+= Release Candidate 3: Testing/Acceptant Test =
 
-List software update for Chantra 5.0 waiting for freeze packages.
+_nodata_
+
+= Release Candidate 2: Testing/Acceptant Test =
+
+_nodata_
+
+= Release Candidate 1: Testing/Acceptant Test =
+
+_nodata_
+
+= Beta 3 : Feature Testing/Review/Artwork =
+
+_nodata_
+
+= Beta 2 : Feature Testing/Review =
+
+_nodata_
+
+= Beta 1 : Feature Testing/Review =
+
+_nodata_
+
+= Alpha 3 : Collection Freeze =
+
+_nodata_
+
+= Alpha 2 : Collection Additional/Bug review =
+
+_nodata_
+
+= Alpha 1 : Collection =
+
+List software update for Chantra 5.0 waiting for freeze packages and the new software 'll be add in alpha 2.
 
  * Avindemux 2.5.1
  * Thunderbird 3.0
