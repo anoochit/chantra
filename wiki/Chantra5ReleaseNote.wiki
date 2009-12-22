@@ -43,6 +43,7 @@ List software update for Chantra 5.0 waiting for freeze packages and the new sof
 
  * Avindemux 2.5.1
  * Thunderbird 3.0
+ * FileFox 3.5.6
  * FileZilla 3.3.0.1
  * Inkscape 0.47-3
  * Joomla 1.5.15 
