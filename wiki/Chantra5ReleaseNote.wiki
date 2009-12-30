@@ -36,6 +36,7 @@ _nodata_
 = Alpha 2 : Collection Additional/Bug review =
 
  * Grant Project change to OpenProj
+ * Putty change to WinSCP
 
 = Alpha 1 : Collection =
 
