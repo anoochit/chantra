@@ -37,6 +37,8 @@ _nodata_
 
  * Grant Project change to OpenProj
  * Putty change to WinSCP
+ * add Secret of Mayo 
+ * add Wordpress
 
 = Alpha 1 : Collection =
 
