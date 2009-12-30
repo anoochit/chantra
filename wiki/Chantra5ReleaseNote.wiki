@@ -35,7 +35,7 @@ _nodata_
 
 = Alpha 2 : Collection Additional/Bug review =
 
-_nodata_
+ * Grant Project change to OpenProj
 
 = Alpha 1 : Collection =
 
