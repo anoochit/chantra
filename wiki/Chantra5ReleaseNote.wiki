@@ -50,12 +50,12 @@ List software update for Chantra 5.0 waiting for freeze packages and the new sof
  * FileZilla 3.3.0.1
  * Inkscape 0.47-3
  * Joomla 1.5.15 
- * ~~Lbreakout2 2.5.1 *no installation package*~~
+ * ~~Lbreakout2 2.5.1~~ *not update*
  * Moodle 1.9.7 *no installation package*
  * Notepad++ 5.6.2
  * PDFCreator 0.9.8
  * PDFSam 2.0
  * Pidgin 2.6.4
- * Putty 0.6
+ * ~~Putty 0.6~~ *replace with winscp*
  * SMF 1.1.11 *no installation package*
  * XAMPP 1.7.2 *no installation package*
