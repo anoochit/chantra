@@ -2,7 +2,7 @@
 #labels releasenotes
 = Introduction =
 
-Release note for Chantra 5.0, we have a little problems with the size of software and the amount of software. Chantra should has more than a normal software and distribution media should be 2 CDs or 1 DVD. 
+Release note for Chantra 5.0, we have a little problems with the size of software and the amount of software. Chantra should has more than a normal software and distribution media should be 2 CDs ~~or 1 DVD~~.
 
 
 = Release Candidate 3: Testing/Acceptant Test =
