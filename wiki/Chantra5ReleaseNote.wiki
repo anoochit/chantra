@@ -40,6 +40,7 @@ _nodata_
  * add Secret of Mayo --> move to BloodMoon
  * add Wordpress
  * all Entertainment -->  move to BloodMoon
+ * add PDFSam
 
 = Alpha 1 : Collection =
 
