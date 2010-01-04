@@ -37,8 +37,9 @@ _nodata_
 
  * Grant Project change to OpenProj
  * Putty change to WinSCP
- * add Secret of Mayo 
+ * add Secret of Mayo --> move to BloodMoon
  * add Wordpress
+ * all Entertainment -->  move to BloodMoon
 
 = Alpha 1 : Collection =
 
