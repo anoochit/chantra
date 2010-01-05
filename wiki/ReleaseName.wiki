@@ -1,4 +1,5 @@
 #summary chantra release name
+#labels releasename
 
 = Release Name =
 
