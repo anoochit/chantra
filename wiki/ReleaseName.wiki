@@ -1,0 +1,10 @@
+#summary chantra release name
+
+= Release Name =
+
+|| *Version* || *Release Name* ||
+||4.0||Blue Sky||
+||4.1||Silver Bridge||
+||4.2||Scarlet Litchi||
+||4.3||Levender Bubble||
+||5.0||HeatBlast||
