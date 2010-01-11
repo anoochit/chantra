@@ -32,7 +32,7 @@ _nodata_
 = Alpha 3 : Collection Freeze =
 
  * Firefox 3.5.7 update!
- * add Sun JRE
+ * add Sun JRE6update17
 
 = Alpha 2 : Collection Additional/Bug review =
 
