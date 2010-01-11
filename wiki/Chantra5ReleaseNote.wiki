@@ -33,6 +33,14 @@ _nodata_
 
  * Firefox 3.5.7 update!
  * add Sun JRE6update17
+ * No rebuild package use original
+  * Kompozer
+  * TortoiseSVN
+  * XAMPP
+  * Drupal
+  * Joomla
+  * Moodle
+  * WordPress 
 
 = Alpha 2 : Collection Additional/Bug review =
 
