@@ -31,15 +31,15 @@ _nodata_
 
 = Alpha 3 : Collection Freeze =
 
-_nodata_
+ * Firefox 3.5.7 update!
 
 = Alpha 2 : Collection Additional/Bug review =
 
  * Grant Project change to OpenProj
  * Putty change to WinSCP
- * add Secret of Mayo --> move to BloodMoon
+ * add Secret of Mayo (may be move to BloodMoon)
  * add Wordpress
- * all Entertainment -->  move to BloodMoon
+ * all Entertainment (may be move to BloodMoon)
  * add PDFSam
 
 = Alpha 1 : Collection =
