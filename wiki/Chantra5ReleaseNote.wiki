@@ -41,6 +41,7 @@ _nodata_
   * Joomla
   * Moodle
   * WordPress 
+ * Pidgin 2.6.5 security update
 
 = Alpha 2 : Collection Additional/Bug review =
 
