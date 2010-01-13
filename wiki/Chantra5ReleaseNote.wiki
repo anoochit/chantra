@@ -30,6 +30,10 @@ _nodata_
 == Release Name ==
  * [http://ben10.wikia.com/wiki/Wildvine Wildvine]
 
+== Fixed ==
+ * update description at whatnews.html
+
+
 ==Testing & Reviewe==
 
 _nodata_
