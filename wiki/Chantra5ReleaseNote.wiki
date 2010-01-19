@@ -36,7 +36,8 @@ _nodata_
 
 ==Testing & Reviewe==
 
-_nodata_
+ * Putty added
+
 
 
 = Alpha 3 : Collection Freeze =
