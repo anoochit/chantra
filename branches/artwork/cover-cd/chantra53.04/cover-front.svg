@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
    xmlns:ns2="http://ns.adobe.com/Extensibility/1.0/"
    xmlns:ns1="http://ns.adobe.com/Flows/1.0/"
+   xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
    xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -17,7 +17,7 @@
    version="1.0"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="0.47 r22583"
    sodipodi:docname="cover-front.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/gumara/pub/artwork/gimp-cd/cover-front-rc4.png"
@@ -26,8 +26,8 @@
   <metadata
      id="metadata63" />
   <sodipodi:namedview
-     inkscape:window-height="721"
-     inkscape:window-width="1358"
+     inkscape:window-height="839"
+     inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -39,8 +39,8 @@
      id="base"
      showgrid="false"
      inkscape:zoom="0.96352336"
-     inkscape:cx="439.99025"
-     inkscape:cy="239.33643"
+     inkscape:cx="528.72707"
+     inkscape:cy="168.76212"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -299,19 +299,6 @@
          id="pgfRef3160"
          xlink:href="#adobe_illustrator_pgf" />
     </foreignObject>
-    <filter
-       inkscape:collect="always"
-       id="filter5613"
-       x="-0.081699096"
-       width="1.1633981"
-       y="-0.25994825"
-       height="1.5198965"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="17.075963"
-         id="feGaussianBlur5615" />
-    </filter>
     <inkscape:perspective
        id="perspective6366"
        inkscape:persp3d-origin="135.35899 : 97.217 : 1"
@@ -445,32 +432,6 @@
          inkscape:collect="always"
          stdDeviation="2.6755957"
          id="feGaussianBlur7878" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter7940"
-       x="-0.019100662"
-       width="1.0382013"
-       y="-0.31236809"
-       height="1.6247362"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.8645996"
-         id="feGaussianBlur7942" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter7956"
-       x="-0.021534929"
-       width="1.04307"
-       y="-0.10965671"
-       height="1.2193134"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.3098312"
-         id="feGaussianBlur7958" />
     </filter>
     <filter
        inkscape:collect="always"
@@ -1687,19 +1648,6 @@
     </filter>
     <filter
        inkscape:collect="always"
-       id="filter5211"
-       x="-0.021683531"
-       width="1.0433671"
-       y="-0.1059591"
-       height="1.2119182"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.0765493"
-         id="feGaussianBlur5213" />
-    </filter>
-    <filter
-       inkscape:collect="always"
        id="filter5273"
        x="-0.020943437"
        width="1.0418869"
@@ -1883,50 +1831,6 @@
        y1="5.0996137"
        x2="20.156862"
        y2="26.039215" />
-    <filter
-       inkscape:collect="always"
-       id="filter5428"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.47622565"
-         id="feGaussianBlur5430" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5441"
-       x="-0.019827791"
-       width="1.0396556"
-       y="-0.19526321"
-       height="1.3905264"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.2008496"
-         id="feGaussianBlur5443" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5501"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.6988672"
-         id="feGaussianBlur5503" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5539"
-       x="-0.019245517"
-       width="1.038491"
-       y="-0.27813321"
-       height="1.5562664"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.2573486"
-         id="feGaussianBlur5541" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5433"
@@ -1947,67 +1851,6 @@
        y1="14.406658"
        x2="-11.313708"
        y2="422.59802" />
-    <filter
-       inkscape:collect="always"
-       id="filter6932"
-       x="-0.090460919"
-       width="1.1809218"
-       y="-0.17818421"
-       height="1.3563684"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.4796143"
-         id="feGaussianBlur6934" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5530"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.19397461"
-         id="feGaussianBlur5532" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5659"
-       x="-0.033422258"
-       width="1.0668445"
-       y="-0.10634215"
-       height="1.2126843"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.7704375"
-         id="feGaussianBlur5661" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5663"
-       x="-0.085548259"
-       width="1.1710964"
-       y="-0.10041703"
-       height="1.2008342"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="9.43377"
-         id="feGaussianBlur5665" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5629"
-       x="-0.021920871"
-       width="1.0438417"
-       y="-0.10063471"
-       height="1.2012694"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.0955024"
-         id="feGaussianBlur5631" />
-    </filter>
     <linearGradient
        y2="126.03937"
        x2="154.99997"
@@ -3577,119 +3420,6 @@
       <i:pgfRef
          xlink:href="#adobe_illustrator_pgf" />
     </foreignObject>
-    <filter
-       inkscape:collect="always"
-       id="filter6913"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.88511655"
-         id="feGaussianBlur6915" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter6982"
-       x="-0.32241401"
-       width="1.644828"
-       y="-0.32241401"
-       height="1.644828"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.8896492"
-         id="feGaussianBlur6984" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter6986"
-       x="-0.32241401"
-       width="1.644828"
-       y="-0.32241401"
-       height="1.644828"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.8896492"
-         id="feGaussianBlur6988" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter6990"
-       x="-0.32241401"
-       width="1.644828"
-       y="-0.32241401"
-       height="1.644828"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.8896492"
-         id="feGaussianBlur6992" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter6994"
-       x="-0.32241401"
-       width="1.644828"
-       y="-0.32241401"
-       height="1.644828"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.8896492"
-         id="feGaussianBlur6996" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter7116"
-       x="-0.080002844"
-       width="1.1600057"
-       y="-0.39094329"
-       height="1.7818866"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="8.9788526"
-         id="feGaussianBlur7118" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter7244"
-       x="-0.026547721"
-       width="1.0530953"
-       y="-0.10049211"
-       height="1.2009842"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.740293"
-         id="feGaussianBlur7246" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter7310"
-       x="-0.022453101"
-       width="1.0449063"
-       y="-0.32448876"
-       height="1.6489775"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.4669067"
-         id="feGaussianBlur7312" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter7374"
-       x="-0.023132421"
-       width="1.0462648"
-       y="-0.22780707"
-       height="1.4556141"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.4009912"
-         id="feGaussianBlur7376" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3791"
@@ -3909,19 +3639,6 @@
        y1="498.87473"
        x2="1152.3612"
        y2="504.16129" />
-    <filter
-       inkscape:collect="always"
-       id="filter7693"
-       x="-0.038391296"
-       width="1.0767826"
-       y="-0.13725401"
-       height="1.274508"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="6.2041475"
-         id="feGaussianBlur7695" />
-    </filter>
     <inkscape:perspective
        id="perspective7606"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
@@ -13346,7 +13063,7 @@
     </filter>
   </defs>
   <path
-     style="color:#000000;fill:#41cd4d;fill-opacity:1;fill-rule:nonzero;stroke:#28a33b;stroke-width:31.60000000000000142;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     style="color:#000000;fill:#f360af;fill-opacity:1;fill-rule:nonzero;stroke:#d9166f;stroke-width:31.60000000000000142;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
      d="M -57.288508,313.44133 939.53148,87.724614 l 0,425.080676 -996.819988,0 0,-199.36396 z"
      id="rect7556"
      sodipodi:nodetypes="ccccc" />
@@ -14255,7 +13972,7 @@
   <flowRoot
      xml:space="preserve"
      id="flowRoot8164"
-     style="font-size:12px;font-style:normal;font-weight:normal;fill:#28a33b;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#d9166f;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
      transform="matrix(0.6646459,0,0,0.6646459,407.36732,-227.00583)"><flowRegion
        id="flowRegion8166"><rect
          id="rect8168"
@@ -14263,9 +13980,9 @@
          height="80"
          x="550"
          y="362.91336"
-         style="fill:#28a33b;fill-opacity:1" /></flowRegion><flowPara
+         style="fill:#d9166f;fill-opacity:1" /></flowRegion><flowPara
        id="flowPara8170"
-       style="font-size:12.03648439000000003;fill:#28a33b;fill-opacity:1">อนุญาตให้คัดลอกได้ไม่จำกัด</flowPara></flowRoot>  <g
+       style="font-size:12.03648439000000003;fill:#d9166f;fill-opacity:1">อนุญาตให้คัดลอกได้ไม่จำกัด</flowPara></flowRoot>  <g
      style="fill:#000000;fill-opacity:1"
      i:knockout="Off"
      id="g11505"
@@ -14384,85 +14101,70 @@
        x="17.736357"
        y="33.578766" />
   </g>
-  <g
-     id="g7179"
-     transform="translate(5.7082168,-3.6949387)">
-    <g
-       transform="translate(0,-7.6293945e-6)"
-       id="g7158">
-      <rect
-         style="opacity:0.81404952;color:#000000;fill:#000000;fill-opacity:0.22352941;fill-rule:nonzero;stroke:none;stroke-width:2.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect6322"
-         width="254.2751"
-         height="73.687889"
-         x="170.98703"
-         y="64.095352"
-         ry="8.3028603" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot9172"
-         style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         transform="translate(-3188.7747,2270.8332)"><flowRegion
-           id="flowRegion9174"><rect
-             id="rect9176"
-             width="240.68622"
-             height="414.68594"
-             x="3370.3564"
-             y="-2201.5203"
-             style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-           style="font-size:10px;fill:#ffffff;fill-opacity:1"
-           id="flowPara24141">Chantra เป็นซีดีรวมซอฟต์แวร์โอเพนซอร์สที่น่าใช้ สำหรับ Windows โดย SIPA ได้คัดเลือกซอฟต์แวร์โอเพนซอร์สที่มีการใช้งานแพร่หลายและได้รับการยอมรับจากนานาชาติ รวบรวมไว้ในซีดีเพื่อให้เกิดความสะดวกในการเลือกใช้</flowPara></flowRoot>    </g>
-    <g
-       transform="translate(0,-0.76732635)"
-       id="g7165">
-      <rect
-         style="opacity:0.81404952;color:#000000;fill:#000000;fill-opacity:0.22352941;fill-rule:nonzero;stroke:none;stroke-width:2.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect6322-6"
-         width="254.2751"
-         height="73.687889"
-         x="170.98703"
-         y="175.13504"
-         ry="8.3028603" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot9172-9"
-         style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         transform="translate(-3189.3069,2382.9621)"><flowRegion
-           id="flowRegion9174-2"><rect
-             id="rect9176-8"
-             width="240.12961"
-             height="338.92233"
-             x="3370.3564"
-             y="-2201.5203"
-             style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-           style="font-size:10px;fill:#ffffff;fill-opacity:1"
-           id="flowPara23998">ซอฟต์แวร์ในชุด Chantra ทั้งหมด สามารถนำไปใช้ได้อย่างเสรี คุณมีสิทธิ์ที่จะคัดลอก แจกจ่าย ติดตั้ง และใช้งาน ไม่ว่าจะเป็นการใช้งานตามบ้าน เพื่อการศึกษา หรือใช้ในทางธุรกิจก็ตาม โดยไม่มีหมดอายุ หรือจำกัดความสามารถต่างๆ ของโปรแกรม</flowPara></flowRoot>    </g>
-    <g
-       id="g7172">
-      <rect
-         style="opacity:0.81404952;color:#000000;fill:#000000;fill-opacity:0.22352941;fill-rule:nonzero;stroke:none;stroke-width:2.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect6322-6-6"
-         width="254.2751"
-         height="99.634331"
-         x="170.98703"
-         y="284.64008"
-         ry="8.3028603" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot9180"
-         style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         transform="translate(452.53199,-21.651642)"><flowRegion
-           id="flowRegion9182"><rect
-             id="rect9184"
-             width="232.98801"
-             height="226.87045"
-             x="-270.40176"
-             y="312.29556"
-             style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-           style="font-size:10px;fill:#ffffff;fill-opacity:1"
-           id="flowPara24004">ซอฟต์แวร์ที่คัดสรรมารวมไว้ในชุด Chantra โดยส่วนมาก จะเป็นซอฟต์แวร์ที่สามารถใช้งานได้บนระบบปฏิบัติการอื่นๆ ด้วย นอกจาก Windows เพียงอย่างเดียว เพื่อให้การใช้งานคอมพิวเตอร์ จะไม่ถูกยึดติดอยู่กับระบบใดระบบหนึ่ง และเป็นการง่ายในการปรับไปใช้ระบบปฏิบัติการ Linux ในอนาคต เพื่อเป็นใช้งานซอฟต์แวร์โอเพนซอร์สอย่างเต็มตัว</flowPara></flowRoot>    </g>
-  </g>
-  <g
+  <rect
+     style="opacity:0.81404951999999997;color:#000000;fill:#000000;fill-opacity:0.46666667;fill-rule:nonzero;stroke:none;stroke-width:2.20000004999999987;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect6322"
+     width="254.2751"
+     height="73.687889"
+     x="176.69525"
+     y="60.400406"
+     ry="8.3028603" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot9172"
+     style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="translate(-3183.0665,2267.1383)"><flowRegion
+       id="flowRegion9174"><rect
+         id="rect9176"
+         width="240.68622"
+         height="414.68594"
+         x="3370.3564"
+         y="-2201.5203"
+         style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+       style="font-size:10px;fill:#ffffff;fill-opacity:1"
+       id="flowPara24141">Chantra เป็นซีดีรวมซอฟต์แวร์โอเพนซอร์สที่น่าใช้ สำหรับ Windows โดย SIPA ได้คัดเลือกซอฟต์แวร์โอเพนซอร์สที่มีการใช้งานแพร่หลายและได้รับการยอมรับจากนานาชาติ รวบรวมไว้ในซีดีเพื่อให้เกิดความสะดวกในการเลือกใช้</flowPara></flowRoot>  <rect
+     style="opacity:0.81404951999999997;color:#000000;fill:#000000;fill-opacity:0.46666667;fill-rule:nonzero;stroke:none;stroke-width:2.20000004999999987;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect6322-6"
+     width="254.2751"
+     height="73.687889"
+     x="176.69525"
+     y="170.67278"
+     ry="8.3028603" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot9172-9"
+     style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="translate(-3183.5987,2378.4998)"><flowRegion
+       id="flowRegion9174-2"><rect
+         id="rect9176-8"
+         width="240.12961"
+         height="338.92233"
+         x="3370.3564"
+         y="-2201.5203"
+         style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+       style="font-size:10px;fill:#ffffff;fill-opacity:1"
+       id="flowPara23998">ซอฟต์แวร์ในชุด Chantra ทั้งหมด สามารถนำไปใช้ได้อย่างเสรี คุณมีสิทธิ์ที่จะคัดลอก แจกจ่าย ติดตั้ง และใช้งาน ไม่ว่าจะเป็นการใช้งานตามบ้าน เพื่อการศึกษา หรือใช้ในทางธุรกิจก็ตาม โดยไม่มีหมดอายุ หรือจำกัดความสามารถต่างๆ ของโปรแกรม</flowPara></flowRoot>  <rect
+     style="opacity:0.81404951999999997;color:#000000;fill:#000000;fill-opacity:0.46666667;fill-rule:nonzero;stroke:none;stroke-width:2.20000004999999987;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect6322-6-6"
+     width="254.2751"
+     height="99.634331"
+     x="176.69525"
+     y="280.94513"
+     ry="8.3028603" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot9180"
+     style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="translate(458.24021,-25.346581)"><flowRegion
+       id="flowRegion9182"><rect
+         id="rect9184"
+         width="232.98801"
+         height="226.87045"
+         x="-270.40176"
+         y="312.29556"
+         style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+       style="font-size:10px;fill:#ffffff;fill-opacity:1"
+       id="flowPara24004">ซอฟต์แวร์ที่คัดสรรมารวมไว้ในชุด Chantra โดยส่วนมาก จะเป็นซอฟต์แวร์ที่สามารถใช้งานได้บนระบบปฏิบัติการอื่นๆ ด้วย นอกจาก Windows เพียงอย่างเดียว เพื่อให้การใช้งานคอมพิวเตอร์ จะไม่ถูกยึดติดอยู่กับระบบใดระบบหนึ่ง และเป็นการง่ายในการปรับไปใช้ระบบปฏิบัติการ Linux ในอนาคต เพื่อเป็นใช้งานซอฟต์แวร์โอเพนซอร์สอย่างเต็มตัว</flowPara></flowRoot>  <g
      style="display:none"
      inkscape:label="Extras"
      id="g14242"
@@ -15688,7 +15390,7 @@
          style="font-size:8px;fill:#000000;fill-opacity:1"
          id="flowPara7187">Blender</flowPara></flowRoot>    <path
        transform="matrix(0.7619197,0,0,0.7619197,626.86472,268.93268)"
-       d="M 18.031223,48.701332 A 2.8284271,2.8284271 0 1 1 12.374369,48.701332 A 2.8284271,2.8284271 0 1 1 18.031223,48.701332 z"
+       d="m 18.031223,48.701332 c 0,1.562097 -1.26633,2.828427 -2.828427,2.828427 -1.562097,0 -2.828427,-1.26633 -2.828427,-2.828427 0,-1.562097 1.26633,-2.828427 2.828427,-2.828427 1.562097,0 2.828427,1.26633 2.828427,2.828427 z"
        sodipodi:ry="2.8284271"
        sodipodi:rx="2.8284271"
        sodipodi:cy="48.701332"
@@ -15698,7 +15400,7 @@
        sodipodi:type="arc" />
     <path
        transform="matrix(0.7619197,0,0,0.7619197,626.86472,268.93268)"
-       d="M 18.031223,48.701332 A 2.8284271,2.8284271 0 1 1 12.374369,48.701332 A 2.8284271,2.8284271 0 1 1 18.031223,48.701332 z"
+       d="m 18.031223,48.701332 c 0,1.562097 -1.26633,2.828427 -2.828427,2.828427 -1.562097,0 -2.828427,-1.26633 -2.828427,-2.828427 0,-1.562097 1.26633,-2.828427 2.828427,-2.828427 1.562097,0 2.828427,1.26633 2.828427,2.828427 z"
        sodipodi:ry="2.8284271"
        sodipodi:rx="2.8284271"
        sodipodi:cy="48.701332"
@@ -15708,7 +15410,7 @@
        sodipodi:type="arc" />
     <path
        transform="matrix(0.7619197,0,0,0.7619197,626.86472,280.89049)"
-       d="M 18.031223,48.701332 A 2.8284271,2.8284271 0 1 1 12.374369,48.701332 A 2.8284271,2.8284271 0 1 1 18.031223,48.701332 z"
+       d="m 18.031223,48.701332 c 0,1.562097 -1.26633,2.828427 -2.828427,2.828427 -1.562097,0 -2.828427,-1.26633 -2.828427,-2.828427 0,-1.562097 1.26633,-2.828427 2.828427,-2.828427 1.562097,0 2.828427,1.26633 2.828427,2.828427 z"
        sodipodi:ry="2.8284271"
        sodipodi:rx="2.8284271"
        sodipodi:cy="48.701332"
@@ -15718,7 +15420,7 @@
        sodipodi:type="arc" />
     <path
        transform="matrix(0.7619197,0,0,0.7619197,626.86472,280.89049)"
-       d="M 18.031223,48.701332 A 2.8284271,2.8284271 0 1 1 12.374369,48.701332 A 2.8284271,2.8284271 0 1 1 18.031223,48.701332 z"
+       d="m 18.031223,48.701332 c 0,1.562097 -1.26633,2.828427 -2.828427,2.828427 -1.562097,0 -2.828427,-1.26633 -2.828427,-2.828427 0,-1.562097 1.26633,-2.828427 2.828427,-2.828427 1.562097,0 2.828427,1.26633 2.828427,2.828427 z"
        sodipodi:ry="2.8284271"
        sodipodi:rx="2.8284271"
        sodipodi:cy="48.701332"
@@ -15728,7 +15430,7 @@
        sodipodi:type="arc" />
     <path
        transform="matrix(0.7619197,0,0,0.7619197,626.86472,292.6925)"
-       d="M 18.031223,48.701332 A 2.8284271,2.8284271 0 1 1 12.374369,48.701332 A 2.8284271,2.8284271 0 1 1 18.031223,48.701332 z"
+       d="m 18.031223,48.701332 c 0,1.562097 -1.26633,2.828427 -2.828427,2.828427 -1.562097,0 -2.828427,-1.26633 -2.828427,-2.828427 0,-1.562097 1.26633,-2.828427 2.828427,-2.828427 1.562097,0 2.828427,1.26633 2.828427,2.828427 z"
        sodipodi:ry="2.8284271"
        sodipodi:rx="2.8284271"
        sodipodi:cy="48.701332"
@@ -15738,7 +15440,7 @@
        sodipodi:type="arc" />
     <path
        transform="matrix(0.7619197,0,0,0.7619197,626.86472,292.6925)"
-       d="M 18.031223,48.701332 A 2.8284271,2.8284271 0 1 1 12.374369,48.701332 A 2.8284271,2.8284271 0 1 1 18.031223,48.701332 z"
+       d="m 18.031223,48.701332 c 0,1.562097 -1.26633,2.828427 -2.828427,2.828427 -1.562097,0 -2.828427,-1.26633 -2.828427,-2.828427 0,-1.562097 1.26633,-2.828427 2.828427,-2.828427 1.562097,0 2.828427,1.26633 2.828427,2.828427 z"
        sodipodi:ry="2.8284271"
        sodipodi:rx="2.8284271"
        sodipodi:cy="48.701332"
@@ -15748,7 +15450,7 @@
        sodipodi:type="arc" />
     <path
        transform="matrix(0.7619197,0,0,0.7619197,626.86472,304.0675)"
-       d="M 18.031223,48.701332 A 2.8284271,2.8284271 0 1 1 12.374369,48.701332 A 2.8284271,2.8284271 0 1 1 18.031223,48.701332 z"
+       d="m 18.031223,48.701332 c 0,1.562097 -1.26633,2.828427 -2.828427,2.828427 -1.562097,0 -2.828427,-1.26633 -2.828427,-2.828427 0,-1.562097 1.26633,-2.828427 2.828427,-2.828427 1.562097,0 2.828427,1.26633 2.828427,2.828427 z"
        sodipodi:ry="2.8284271"
        sodipodi:rx="2.8284271"
        sodipodi:cy="48.701332"
@@ -15758,7 +15460,7 @@
        sodipodi:type="arc" />
     <path
        transform="matrix(0.7619197,0,0,0.7619197,626.86472,304.0675)"
-       d="M 18.031223,48.701332 A 2.8284271,2.8284271 0 1 1 12.374369,48.701332 A 2.8284271,2.8284271 0 1 1 18.031223,48.701332 z"
+       d="m 18.031223,48.701332 c 0,1.562097 -1.26633,2.828427 -2.828427,2.828427 -1.562097,0 -2.828427,-1.26633 -2.828427,-2.828427 0,-1.562097 1.26633,-2.828427 2.828427,-2.828427 1.562097,0 2.828427,1.26633 2.828427,2.828427 z"
        sodipodi:ry="2.8284271"
        sodipodi:rx="2.8284271"
        sodipodi:cy="48.701332"
@@ -17168,7 +16870,7 @@
        id="flowPara9014">สามารถติดตั้ง OpenOffice.org ร่วมกับ Microsoft Office ได้อย่างไม่มีปัญหา</flowPara></flowRoot>  <path
      sodipodi:type="inkscape:offset"
      inkscape:radius="-0.875"
-     inkscape:original="M 1083.9688 460.5625 C 1082.1323 460.5625 1080.5938 462.22619 1080.5938 464 L 1080.5938 490.5625 C 1080.6097 492.08714 1081.4456 492.53371 1082.625 492.5625 L 1123.5938 492.59375 C 1125.1001 492.59375 1125.6251 492.06706 1125.625 490.375 L 1125.5938 464.1875 C 1125.5938 461.98901 1124.1188 460.56251 1122.0938 460.5625 L 1083.9688 460.5625 z "
+     inkscape:original="M 1083.9688 460.5625 C 1082.1323 460.5625 1080.5938 462.22618 1080.5938 464 L 1080.5938 490.5625 C 1080.6096 492.08714 1081.4457 492.53371 1082.625 492.5625 L 1123.5938 492.59375 C 1125.1001 492.59375 1125.625 492.06706 1125.625 490.375 L 1125.5938 464.1875 C 1125.5938 461.98901 1124.1189 460.5625 1122.0938 460.5625 L 1083.9688 460.5625 z "
      xlink:href="#rect5040"
      style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
      id="path5145"
@@ -17181,7 +16883,7 @@
      transform="matrix(4.1956521,0,0,4.1956521,2489.9926,735.86406)">
     <path
        transform="matrix(0.9794558,0,0,0.3529652,13.30308,20.613054)"
-       d="M 32.872257,31.563871 A 16.335602,16.335602 0 1 1 0.20105362,31.563871 A 16.335602,16.335602 0 1 1 32.872257,31.563871 z"
+       d="m 32.872257,31.563871 c 0,9.021904 -7.313698,16.335602 -16.335602,16.335602 -9.0219033,0 -16.33560138,-7.313698 -16.33560138,-16.335602 0,-9.021903 7.31369808,-16.335601 16.33560138,-16.335601 9.021904,0 16.335602,7.313698 16.335602,16.335601 z"
        sodipodi:ry="16.335602"
        sodipodi:rx="16.335602"
        sodipodi:cy="31.563871"
@@ -17194,7 +16896,7 @@
        transform="translate(0,40)">
       <path
          transform="matrix(0.9794558,0,0,0.9794558,13.303077,-52.415417)"
-         d="M 32.872257,31.563871 A 16.335602,16.335602 0 1 1 0.20105362,31.563871 A 16.335602,16.335602 0 1 1 32.872257,31.563871 z"
+         d="m 32.872257,31.563871 c 0,9.021904 -7.313698,16.335602 -16.335602,16.335602 -9.0219033,0 -16.33560138,-7.313698 -16.33560138,-16.335602 0,-9.021903 7.31369808,-16.335601 16.33560138,-16.335601 9.021904,0 16.335602,7.313698 16.335602,16.335601 z"
          sodipodi:ry="16.335602"
          sodipodi:rx="16.335602"
          sodipodi:cy="31.563871"
@@ -17210,7 +16912,7 @@
          sodipodi:cy="31.563871"
          sodipodi:rx="16.335602"
          sodipodi:ry="16.335602"
-         d="M 32.872257,31.563871 A 16.335602,16.335602 0 1 1 0.20105362,31.563871 A 16.335602,16.335602 0 1 1 32.872257,31.563871 z"
+         d="m 32.872257,31.563871 c 0,9.021904 -7.313698,16.335602 -16.335602,16.335602 -9.0219033,0 -16.33560138,-7.313698 -16.33560138,-16.335602 0,-9.021903 7.31369808,-16.335601 16.33560138,-16.335601 9.021904,0 16.335602,7.313698 16.335602,16.335601 z"
          transform="matrix(0.9182398,0,0,0.9182398,14.315385,-50.483203)" />
       <g
          transform="translate(0,-40)"
@@ -17545,7 +17247,7 @@
        style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        transform="matrix(0.968245,0,0,0.863797,1080.5341,463.16752)"
-       d="M 47.69706,42.6875 A 23.75956,5.8835783 0 1 1 0.17794037,42.6875 A 23.75956,5.8835783 0 1 1 47.69706,42.6875 z"
+       d="m 47.69706,42.6875 c 0,3.249411 -10.637518,5.883578 -23.75956,5.883578 -13.122042,0 -23.75955963,-2.634167 -23.75955963,-5.883578 0,-3.249411 10.63751763,-5.883578 23.75955963,-5.883578 13.122042,0 23.75956,2.634167 23.75956,5.883578 z"
        sodipodi:ry="5.8835783"
        sodipodi:rx="23.75956"
        sodipodi:cy="42.6875"
@@ -17642,23 +17344,23 @@
     </g>
   </g>
   <image
-     y="1167.2554"
-     x="1991.5184"
+     sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
+     xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
+     style="fill:#ffffff;fill-opacity:1;filter:url(#filter6460)"
+     width="28.750004"
+     height="28.750004"
      id="image4532"
-     height="28.750004"
-     width="28.750004"
-     sodipodi:absref="/home/gumara/SIPAwork/oo-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
-     xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
-     style="fill:#ffffff;fill-opacity:1;filter:url(#filter6460)" />
-  <image
-     y="1167.2554"
      x="1991.5184"
-     id="image4534"
-     height="28.750004"
-     width="28.750004"
-     sodipodi:absref="/home/gumara/SIPAwork/oo-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
+     y="1167.2554" />
+  <image
+     sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
      xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
-     style="fill:#ffffff;fill-opacity:1" />
+     style="fill:#ffffff;fill-opacity:1"
+     width="28.750004"
+     height="28.750004"
+     id="image4534"
+     x="1991.5184"
+     y="1167.2554" />
   <flowRoot
      xml:space="preserve"
      id="flowRoot4536"
@@ -17706,7 +17408,7 @@
          sodipodi:cy="42.6875"
          sodipodi:rx="23.75956"
          sodipodi:ry="5.8835783"
-         d="M 47.69706,42.6875 A 23.75956,5.8835783 0 1 1 0.17794037,42.6875 A 23.75956,5.8835783 0 1 1 47.69706,42.6875 z"
+         d="m 47.69706,42.6875 c 0,3.249411 -10.637518,5.883578 -23.75956,5.883578 -13.122042,0 -23.75955963,-2.634167 -23.75955963,-5.883578 0,-3.249411 10.63751763,-5.883578 23.75955963,-5.883578 13.122042,0 23.75956,2.634167 23.75956,5.883578 z"
          transform="matrix(0.968245,0,0,0.863797,1080.5341,463.16752)" />
       <path
          style="fill:url(#linearGradient4619);fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
@@ -17781,73 +17483,73 @@
       </g>
     </g>
     <image
+       sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
-       sodipodi:absref="/home/gumara/SIPAwork/oo-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
-       width="17.818172"
-       height="17.818172"
+       y="261.00479"
+       x="1011.0925"
        id="image4588"
-       x="1011.0925"
-       y="261.00479" />
-    <image
-       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
-       sodipodi:absref="/home/gumara/SIPAwork/oo-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
-       width="17.818172"
        height="17.818172"
+       width="17.818172" />
+    <image
+       sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
+       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
+       y="261.00479"
+       x="971.45801"
        id="image4590"
-       x="971.45801"
-       y="261.00479" />
-    <image
-       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
-       sodipodi:absref="/home/gumara/SIPAwork/oo-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
-       width="17.818172"
        height="17.818172"
+       width="17.818172" />
+    <image
+       sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
+       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
+       y="261.00479"
+       x="991.27521"
        id="image4592"
-       x="991.27521"
-       y="261.00479" />
+       height="17.818172"
+       width="17.818172" />
     <image
-       style="filter:url(#filter6622)"
+       sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
-       sodipodi:absref="/home/gumara/SIPAwork/oo-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
-       width="17.818172"
-       height="17.818172"
-       id="image4594"
+       y="261.00479"
        x="1011.0925"
-       y="261.00479" />
-    <image
-       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
-       sodipodi:absref="/home/gumara/SIPAwork/oo-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
-       width="17.818172"
+       id="image4594"
        height="17.818172"
+       width="17.818172"
+       style="filter:url(#filter6622)" />
+    <image
+       sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
+       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
+       y="261.00479"
+       x="951.64069"
        id="image4596"
-       x="951.64069"
-       y="261.00479" />
+       height="17.818172"
+       width="17.818172" />
     <image
-       style="filter:url(#filter6626)"
+       sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
-       sodipodi:absref="/home/gumara/SIPAwork/oo-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
-       width="17.818172"
-       height="17.818172"
-       id="image4598"
+       y="261.00479"
        x="971.45801"
-       y="261.00479" />
+       id="image4598"
+       height="17.818172"
+       width="17.818172"
+       style="filter:url(#filter6626)" />
     <image
-       style="filter:url(#filter6630)"
+       sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
-       sodipodi:absref="/home/gumara/SIPAwork/oo-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
-       width="17.818172"
-       height="17.818172"
-       id="image4600"
+       y="261.00479"
        x="991.27521"
-       y="261.00479" />
-    <image
-       style="filter:url(#filter6634)"
-       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
-       sodipodi:absref="/home/gumara/SIPAwork/oo-cover/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
-       width="17.818172"
+       id="image4600"
        height="17.818172"
-       id="image4602"
+       width="17.818172"
+       style="filter:url(#filter6630)" />
+    <image
+       sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
+       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
+       y="261.00479"
        x="951.64069"
-       y="261.00479" />
+       id="image4602"
+       height="17.818172"
+       width="17.818172"
+       style="filter:url(#filter6634)" />
   </g>
   <g
      id="g7473"
@@ -19618,7 +19320,7 @@
            style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <path
            transform="matrix(0.968245,0,0,0.863797,1080.5341,463.16752)"
-           d="M 47.69706,42.6875 A 23.75956,5.8835783 0 1 1 0.17794037,42.6875 A 23.75956,5.8835783 0 1 1 47.69706,42.6875 z"
+           d="m 47.69706,42.6875 c 0,3.249411 -10.637518,5.883578 -23.75956,5.883578 -13.122042,0 -23.75955963,-2.634167 -23.75955963,-5.883578 0,-3.249411 10.63751763,-5.883578 23.75955963,-5.883578 13.122042,0 23.75956,2.634167 23.75956,5.883578 z"
            sodipodi:ry="5.8835783"
            sodipodi:rx="23.75956"
            sodipodi:cy="42.6875"
@@ -19672,14 +19374,14 @@
            d="M 116.10322,122.75581 L 120.16908,130.04785 L 124.50011,122.71162 L 129.98019,122.8 L 122.86493,134.29049 L 129.75922,146.13453 L 124.76528,146.17872 L 120.12489,138.35635 L 115.66128,146.17872 L 110.44637,146.22292 L 117.29646,134.42307 L 110.31378,122.8442 L 116.10322,122.75581 z"
            style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter11954)" />
         <image
-           style="fill:#000000;fill-opacity:1"
+           sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/osx-leopard.png"
            xlink:href="osx-leopard.png"
-           sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra4-cover/osx-leopard.png"
-           width="19.576561"
-           height="23.40901"
-           id="image11826"
+           y="122.76277"
            x="110.35871"
-           y="122.76277" />
+           id="image11826"
+           height="23.40901"
+           width="19.576561"
+           style="fill:#000000;fill-opacity:1" />
       </g>
       <g
          id="g14397"
@@ -29298,7 +29000,7 @@
            style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <path
            transform="matrix(0.968245,0,0,0.863797,1080.5341,463.16752)"
-           d="M 47.69706,42.6875 A 23.75956,5.8835783 0 1 1 0.17794037,42.6875 A 23.75956,5.8835783 0 1 1 47.69706,42.6875 z"
+           d="m 47.69706,42.6875 c 0,3.249411 -10.637518,5.883578 -23.75956,5.883578 -13.122042,0 -23.75955963,-2.634167 -23.75955963,-5.883578 0,-3.249411 10.63751763,-5.883578 23.75955963,-5.883578 13.122042,0 23.75956,2.634167 23.75956,5.883578 z"
            sodipodi:ry="5.8835783"
            sodipodi:rx="23.75956"
            sodipodi:cy="42.6875"
@@ -29345,25 +29047,25 @@
            style="opacity:0.65;fill:url(#linearGradient11563);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
       <image
-         transform="matrix(0.643578,0,0,0.643578,-888.82112,244.45262)"
-         style="display:inline"
-         y="21.268778"
-         x="1535.1897"
-         id="image30682"
-         height="41.123989"
+         sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Internet_Explorer_7_Logo.png"
+         xlink:href="Internet_Explorer_7_Logo.png"
          width="41.123989"
-         sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra4-cover/Internet_Explorer_7_Logo.png"
-         xlink:href="Internet_Explorer_7_Logo.png" />
-      <image
-         transform="matrix(0.643578,0,0,0.643578,-888.82112,244.45262)"
+         height="41.123989"
+         id="image30682"
+         x="1535.1897"
+         y="21.268778"
          style="display:inline"
-         y="-14.077701"
-         x="1538.7045"
-         id="image12662"
-         height="34.094509"
+         transform="matrix(0.643578,0,0,0.643578,-888.82112,244.45262)" />
+      <image
+         sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Photoshop_CS4.png"
+         xlink:href="Photoshop_CS4.png"
          width="34.094509"
-         sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra4-cover/Photoshop_CS4.png"
-         xlink:href="Photoshop_CS4.png" />
+         height="34.094509"
+         id="image12662"
+         x="1538.7045"
+         y="-14.077701"
+         style="display:inline"
+         transform="matrix(0.643578,0,0,0.643578,-888.82112,244.45262)" />
       <g
          id="g26851"
          transform="matrix(0.6442215,0,0,0.6442215,58.610847,230.03632)">
@@ -29468,13 +29170,13 @@
            d="M 23.003067,31.736544 C 24.500439,31.879636 25.852696,31.464331 26.41496,31.262497 C 26.513185,30.707111 26.951512,29.64124 28.461048,29.571029 L 27.930718,28.642952 C 27.930718,28.642952 25.964077,29.990873 23.864854,30.388621 L 23.003067,31.736544 z" />
       </g>
       <image
-         y="258.48578"
-         x="60.375584"
-         id="image12639"
-         height="25.776388"
+         sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Firefox_logo.png"
+         xlink:href="Firefox_logo.png"
          width="26.870668"
-         sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra4-cover/Firefox_logo.png"
-         xlink:href="Firefox_logo.png" />
+         height="25.776388"
+         id="image12639"
+         x="60.375584"
+         y="258.48578" />
     </g>
   </g>
   <g
