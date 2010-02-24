@@ -85,6 +85,7 @@ _nodata_
  * PDFCreator 0.9.9
  * PDFSam 2.0
  * Pidgin 2.6.5
+ * Putty 0.6
  * Secret Maryo Chronicles 1.9
  * Simple Machine Forum 1.1.11
  * TortoiseSVN (Subversion) 1.6.6.17493
