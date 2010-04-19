@@ -19,11 +19,14 @@ _nodata_
 
 = Beta 3 : Feature Testing/Review/Artwork =
 
-_nodata_
+ * update new program
+ * firefox
+ * openoffice.org
+ * thunderbird
 
 = Beta 2 : Feature Testing/Review =
 
-_nodata_
+ * fix screen layout and color
 
 = Beta 1 : Feature Testing/Review =
 
