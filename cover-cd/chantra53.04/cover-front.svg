@@ -26,8 +26,8 @@
   <metadata
      id="metadata63" />
   <sodipodi:namedview
-     inkscape:window-height="839"
-     inkscape:window-width="1600"
+     inkscape:window-height="724"
+     inkscape:window-width="1115"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -39,21 +39,29 @@
      id="base"
      showgrid="false"
      inkscape:zoom="0.96352336"
-     inkscape:cx="528.72707"
-     inkscape:cy="168.76212"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="301.17294"
+     inkscape:cy="175.95871"
+     inkscape:window-x="346"
+     inkscape:window-y="27"
      inkscape:current-layer="svg2"
      units="cm"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      borderlayer="true"
      inkscape:showpageshadow="false">
     <sodipodi:guide
        orientation="1,0"
        position="442.91016,297.0625"
        id="guide3251" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="763.50637,363.68148"
+       id="guide8878" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="773.64303,420.96969"
+       id="guide8880" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -14122,7 +14130,7 @@
          y="-2201.5203"
          style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
        style="font-size:10px;fill:#ffffff;fill-opacity:1"
-       id="flowPara24141">Chantra เป็นซีดีรวมซอฟต์แวร์โอเพนซอร์สที่น่าใช้ สำหรับ Windows โดย SIPA ได้คัดเลือกซอฟต์แวร์โอเพนซอร์สที่มีการใช้งานแพร่หลายและได้รับการยอมรับจากนานาชาติ รวบรวมไว้ในซีดีเพื่อให้เกิดความสะดวกในการเลือกใช้</flowPara></flowRoot>  <rect
+       id="flowPara24141">Chantra เป็นซีดีรวมซอฟต์แวร์โอเพนซอร์สสำหรับ Windows ที่น่าใช้ โดย SIPA ได้คัดเลือกซอฟต์แวร์โอเพนซอร์สที่มีการใช้งานแพร่หลายและได้รับการยอมรับจากนานาชาติ รวบรวมไว้ในซีดีเพื่อให้เกิดความสะดวกในการเลือกใช้</flowPara></flowRoot>  <rect
      style="opacity:0.81404951999999997;color:#000000;fill:#000000;fill-opacity:0.46666667;fill-rule:nonzero;stroke:none;stroke-width:2.20000004999999987;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="rect6322-6"
      width="254.2751"
@@ -14164,7 +14172,7 @@
          y="312.29556"
          style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
        style="font-size:10px;fill:#ffffff;fill-opacity:1"
-       id="flowPara24004">ซอฟต์แวร์ที่คัดสรรมารวมไว้ในชุด Chantra โดยส่วนมาก จะเป็นซอฟต์แวร์ที่สามารถใช้งานได้บนระบบปฏิบัติการอื่นๆ ด้วย นอกจาก Windows เพียงอย่างเดียว เพื่อให้การใช้งานคอมพิวเตอร์ จะไม่ถูกยึดติดอยู่กับระบบใดระบบหนึ่ง และเป็นการง่ายในการปรับไปใช้ระบบปฏิบัติการ Linux ในอนาคต เพื่อเป็นใช้งานซอฟต์แวร์โอเพนซอร์สอย่างเต็มตัว</flowPara></flowRoot>  <g
+       id="flowPara24004">ซอฟต์แวร์ที่คัดสรรมารวมไว้ในชุด Chantra โดยส่วนมาก จะเป็นซอฟต์แวร์ที่สามารถใช้งานได้บนระบบปฏิบัติการอื่นๆ ด้วย นอกจาก Windows เพียงอย่างเดียว เพื่อให้การใช้งานคอมพิวเตอร์ จะไม่ถูกยึดติดอยู่กับระบบใดระบบหนึ่ง และเป็นการง่ายในการปรับไปใช้ระบบปฏิบัติการ Linux ในอนาคต เพื่อเป็นการใช้งานซอฟต์แวร์โอเพนซอร์สอย่างเต็มตัว</flowPara></flowRoot>  <g
      style="display:none"
      inkscape:label="Extras"
      id="g14242"
@@ -16870,7 +16878,7 @@
        id="flowPara9014">สามารถติดตั้ง OpenOffice.org ร่วมกับ Microsoft Office ได้อย่างไม่มีปัญหา</flowPara></flowRoot>  <path
      sodipodi:type="inkscape:offset"
      inkscape:radius="-0.875"
-     inkscape:original="M 1083.9688 460.5625 C 1082.1323 460.5625 1080.5938 462.22618 1080.5938 464 L 1080.5938 490.5625 C 1080.6096 492.08714 1081.4457 492.53371 1082.625 492.5625 L 1123.5938 492.59375 C 1125.1001 492.59375 1125.625 492.06706 1125.625 490.375 L 1125.5938 464.1875 C 1125.5938 461.98901 1124.1189 460.5625 1122.0938 460.5625 L 1083.9688 460.5625 z "
+     inkscape:original="M 1083.9688 460.5625 C 1082.1324 460.5625 1080.5938 462.22618 1080.5938 464 L 1080.5938 490.5625 C 1080.6097 492.08714 1081.4457 492.53371 1082.625 492.5625 L 1123.5938 492.59375 C 1125.1001 492.59375 1125.625 492.06706 1125.625 490.375 L 1125.5938 464.1875 C 1125.5938 461.98901 1124.1189 460.5625 1122.0938 460.5625 L 1083.9688 460.5625 z "
      xlink:href="#rect5040"
      style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
      id="path5145"
@@ -17344,23 +17352,23 @@
     </g>
   </g>
   <image
-     sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
+     sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
      xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
-     style="fill:#ffffff;fill-opacity:1;filter:url(#filter6460)"
-     width="28.750004"
-     height="28.750004"
+     y="1167.2554"
+     x="1991.5184"
      id="image4532"
-     x="1991.5184"
-     y="1167.2554" />
-  <image
-     sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
-     xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
-     style="fill:#ffffff;fill-opacity:1"
-     width="28.750004"
      height="28.750004"
-     id="image4534"
+     width="28.750004"
+     style="fill:#ffffff;fill-opacity:1;filter:url(#filter6460)" />
+  <image
+     sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
+     xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
+     y="1167.2554"
      x="1991.5184"
-     y="1167.2554" />
+     id="image4534"
+     height="28.750004"
+     width="28.750004"
+     style="fill:#ffffff;fill-opacity:1" />
   <flowRoot
      xml:space="preserve"
      id="flowRoot4536"
@@ -17483,73 +17491,73 @@
       </g>
     </g>
     <image
-       sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
+       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
-       y="261.00479"
-       x="1011.0925"
+       width="17.818172"
+       height="17.818172"
        id="image4588"
-       height="17.818172"
-       width="17.818172" />
-    <image
-       sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
-       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
-       y="261.00479"
-       x="971.45801"
-       id="image4590"
-       height="17.818172"
-       width="17.818172" />
-    <image
-       sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
-       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
-       y="261.00479"
-       x="991.27521"
-       id="image4592"
-       height="17.818172"
-       width="17.818172" />
-    <image
-       sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
-       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
-       y="261.00479"
        x="1011.0925"
-       id="image4594"
-       height="17.818172"
-       width="17.818172"
-       style="filter:url(#filter6622)" />
+       y="261.00479" />
     <image
-       sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
-       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
-       y="261.00479"
-       x="951.64069"
-       id="image4596"
-       height="17.818172"
-       width="17.818172" />
-    <image
-       sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
+       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
-       y="261.00479"
+       width="17.818172"
+       height="17.818172"
+       id="image4590"
        x="971.45801"
-       id="image4598"
-       height="17.818172"
-       width="17.818172"
-       style="filter:url(#filter6626)" />
+       y="261.00479" />
     <image
-       sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
+       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
-       y="261.00479"
+       width="17.818172"
+       height="17.818172"
+       id="image4592"
        x="991.27521"
-       id="image4600"
-       height="17.818172"
-       width="17.818172"
-       style="filter:url(#filter6630)" />
+       y="261.00479" />
     <image
-       sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
-       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
-       y="261.00479"
-       x="951.64069"
-       id="image4602"
-       height="17.818172"
+       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
+       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
+       style="filter:url(#filter6622)"
        width="17.818172"
-       style="filter:url(#filter6634)" />
+       height="17.818172"
+       id="image4594"
+       x="1011.0925"
+       y="261.00479" />
+    <image
+       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
+       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
+       width="17.818172"
+       height="17.818172"
+       id="image4596"
+       x="951.64069"
+       y="261.00479" />
+    <image
+       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
+       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
+       style="filter:url(#filter6626)"
+       width="17.818172"
+       height="17.818172"
+       id="image4598"
+       x="971.45801"
+       y="261.00479" />
+    <image
+       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
+       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
+       style="filter:url(#filter6630)"
+       width="17.818172"
+       height="17.818172"
+       id="image4600"
+       x="991.27521"
+       y="261.00479" />
+    <image
+       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
+       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
+       style="filter:url(#filter6634)"
+       width="17.818172"
+       height="17.818172"
+       id="image4602"
+       x="951.64069"
+       y="261.00479" />
   </g>
   <g
      id="g7473"
@@ -19374,14 +19382,14 @@
            d="M 116.10322,122.75581 L 120.16908,130.04785 L 124.50011,122.71162 L 129.98019,122.8 L 122.86493,134.29049 L 129.75922,146.13453 L 124.76528,146.17872 L 120.12489,138.35635 L 115.66128,146.17872 L 110.44637,146.22292 L 117.29646,134.42307 L 110.31378,122.8442 L 116.10322,122.75581 z"
            style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter11954)" />
         <image
-           sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/osx-leopard.png"
+           sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/osx-leopard.png"
            xlink:href="osx-leopard.png"
-           y="122.76277"
-           x="110.35871"
-           id="image11826"
-           height="23.40901"
+           style="fill:#000000;fill-opacity:1"
            width="19.576561"
-           style="fill:#000000;fill-opacity:1" />
+           height="23.40901"
+           id="image11826"
+           x="110.35871"
+           y="122.76277" />
       </g>
       <g
          id="g14397"
@@ -29047,25 +29055,25 @@
            style="opacity:0.65;fill:url(#linearGradient11563);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
       <image
-         sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Internet_Explorer_7_Logo.png"
+         sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Internet_Explorer_7_Logo.png"
          xlink:href="Internet_Explorer_7_Logo.png"
-         width="41.123989"
-         height="41.123989"
-         id="image30682"
-         x="1535.1897"
+         transform="matrix(0.643578,0,0,0.643578,-888.82112,244.45262)"
+         style="display:inline"
          y="21.268778"
-         style="display:inline"
-         transform="matrix(0.643578,0,0,0.643578,-888.82112,244.45262)" />
+         x="1535.1897"
+         id="image30682"
+         height="41.123989"
+         width="41.123989" />
       <image
-         sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Photoshop_CS4.png"
+         sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Photoshop_CS4.png"
          xlink:href="Photoshop_CS4.png"
-         width="34.094509"
-         height="34.094509"
-         id="image12662"
-         x="1538.7045"
-         y="-14.077701"
+         transform="matrix(0.643578,0,0,0.643578,-888.82112,244.45262)"
          style="display:inline"
-         transform="matrix(0.643578,0,0,0.643578,-888.82112,244.45262)" />
+         y="-14.077701"
+         x="1538.7045"
+         id="image12662"
+         height="34.094509"
+         width="34.094509" />
       <g
          id="g26851"
          transform="matrix(0.6442215,0,0,0.6442215,58.610847,230.03632)">
@@ -29170,13 +29178,13 @@
            d="M 23.003067,31.736544 C 24.500439,31.879636 25.852696,31.464331 26.41496,31.262497 C 26.513185,30.707111 26.951512,29.64124 28.461048,29.571029 L 27.930718,28.642952 C 27.930718,28.642952 25.964077,29.990873 23.864854,30.388621 L 23.003067,31.736544 z" />
       </g>
       <image
-         sodipodi:absref="/home/gumara/svn/chantra-artwork/cover-cd/chantra53.04/Firefox_logo.png"
+         sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Firefox_logo.png"
          xlink:href="Firefox_logo.png"
-         width="26.870668"
-         height="25.776388"
-         id="image12639"
+         y="258.48578"
          x="60.375584"
-         y="258.48578" />
+         id="image12639"
+         height="25.776388"
+         width="26.870668" />
     </g>
   </g>
   <g
@@ -31484,4 +31492,14 @@
      x="335.07437"
      y="826.91229"
      transform="matrix(0,1,-1,0,0,0)" />
+  <text
+     xml:space="preserve"
+     style="font-size:30.4838829px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="771.38062"
+     y="79.143364"
+     id="text8874"><tspan
+       sodipodi:role="line"
+       id="tspan8876"
+       x="771.38062"
+       y="79.143364">53.05</tspan></text>
 </svg>
