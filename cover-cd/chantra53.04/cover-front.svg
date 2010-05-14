@@ -20,7 +20,7 @@
    inkscape:version="0.47 r22583"
    sodipodi:docname="cover-front.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/gumara/pub/artwork/gimp-cd/cover-front-rc4.png"
+   inkscape:export-filename="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/cover-front-53.05-rc2.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -38,12 +38,12 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.96352336"
-     inkscape:cx="301.17294"
-     inkscape:cy="175.95871"
-     inkscape:window-x="346"
-     inkscape:window-y="27"
-     inkscape:current-layer="svg2"
+     inkscape:zoom="1.3626278"
+     inkscape:cx="383.20377"
+     inkscape:cy="227.68794"
+     inkscape:window-x="483"
+     inkscape:window-y="73"
+     inkscape:current-layer="g7199"
      units="cm"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -14088,21 +14088,24 @@
      id="g7199"
      transform="translate(0,2)">
     <image
-       xlink:href="file:///home/gumara/pub/artwork/gimp-cd/gimp-screenshot-1.png"
+       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/chantra-53.05-3.png"
+       xlink:href="chantra-53.05-3.png"
        width="150"
        height="110.20409"
        id="image7164"
        x="17.736357"
        y="293.19702" />
     <image
-       xlink:href="file:///home/gumara/pub/artwork/gimp-cd/gimp-screenshot-2.png"
+       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/chantra-53.05-2.png"
+       xlink:href="chantra-53.05-2.png"
        width="150"
        height="100.06258"
        id="image7178"
        x="17.736357"
        y="169.60661" />
     <image
-       xlink:href="file:///home/gumara/pub/artwork/gimp-cd/gimp-screenshot-3.png"
+       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/chantra-53.05-1.png"
+       xlink:href="chantra-53.05-1.png"
        width="150"
        height="112.5"
        id="image7192"

@@ -20,7 +20,7 @@
    inkscape:version="0.47 r22583"
    sodipodi:docname="cover-back.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/gumara/pub/artwork/gimp-cd/cover-back-rc3.png"
+   inkscape:export-filename="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/cover-back-53.05-rc2.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -38,9 +38,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="2"
-     inkscape:cx="468.09282"
-     inkscape:cy="150.68136"
+     inkscape:zoom="1"
+     inkscape:cx="726.21977"
+     inkscape:cy="195.25372"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:current-layer="svg2"
@@ -29928,6 +29928,20 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12195"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12243"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <switch
      style="opacity:0.12589931;fill:#ffffff;fill-opacity:1"
@@ -49163,7 +49177,7 @@
      id="rect24038"
      style="fill:#20552a;fill-opacity:1;stroke:none" />
   <flowRoot
-     transform="matrix(1.1750088,0,0,1.1750088,1900.5081,143.40543)"
+     transform="matrix(1.1750088,0,0,1.1750088,1084.5081,137.40543)"
      style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
      id="flowRoot24042"
      xml:space="preserve"><flowRegion
@@ -49182,8 +49196,8 @@
        id="flowPara24052">ส่วนคุณภาพของซอฟต์แวร์โอเพนซอร์ซนั้นได้รับการยอมรับมาแล้วทั่วโลก หลายตัวพิสูจน์ให้เห็นแล้วว่ามีความสามารถมากกว่าซอฟต์แวร์เชิงพาณิชย์ อย่างเว็บเซิร์ฟเวอร์ชื่อ Apache ที่มีการใช้งานในเซิร์ฟเวอร์ทั้งหมดมากกว่า 70 เปอร์เซ็นต์ นอกจากนี้ซอฟต์แวร์โอเพนซอร์สยังได้รับความร่วมมือจากนักพัฒนาทั่วทุกมุมโลกทำให้มั่นใจได้ว่าซอฟต์แวร์จะมีการพัฒนาอย่างต่อเนื่อง</flowPara><flowPara
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
        id="flowPara24054" /></flowRoot>  <flowRoot
-     transform="matrix(1.1750088,0,0,1.1750088,1880.5081,143.40543)"
-     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     transform="matrix(1.1750088,0,0,1.1750088,1064.5081,137.40543)"
+     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
      id="flowRoot24056"
      xml:space="preserve"><flowRegion
        id="flowRegion24058"><rect
@@ -49198,8 +49212,8 @@
        id="flowPara24064"
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /></flowRoot>  <rect
      transform="matrix(0,1,-1,0,0,0)"
-     y="-1848.0768"
-     x="463.27783"
+     y="-1032.0768"
+     x="457.27783"
      height="1.743932"
      width="94.716705"
      id="rect24066"
@@ -49537,7 +49551,7 @@
   </g>
   <g
      style="fill:#ffffff;fill-opacity:1"
-     transform="translate(-1114.2497,-22.79531)"
+     transform="translate(-1114.2497,-18.340237)"
      id="g36189">
     <flowRoot
        xml:space="preserve"
@@ -50180,7 +50194,7 @@
     <path
        sodipodi:nodetypes="cccccccccccc"
        id="rect9505-3-0-91-9"
-       d="m 32.328579,232.34375 c -3.1655,0 -5.6875,2.55325 -5.6875,5.71875 l 0,88.84375 c 0,4.02882 3.22118,7.28125 7.25,7.28125 l 173.250001,0 c 4.02882,0 7.28125,-3.25243 7.28125,-7.28125 l 0,-69.125 c 0,-4.02882 -3.25243,-7.25 -7.28125,-7.25 l -100.1875,0 0,-12.46875 c 0,-3.1655 -2.55325,-5.71875 -5.71875,-5.71875 l -68.906251,0 z"
+       d="m 32.328579,232.34375 c -3.1655,0 -5.6875,2.55325 -5.6875,5.71875 l 0,78.84375 c 0,4.02882 3.22118,7.28125 7.25,7.28125 l 173.250001,0 c 4.02882,0 7.28125,-3.25243 7.28125,-7.28125 l 0,-59.125 c 0,-4.02882 -3.25243,-7.25 -7.28125,-7.25 l -100.1875,0 0,-12.46875 c 0,-3.1655 -2.55325,-5.71875 -5.71875,-5.71875 l -68.906251,0 z"
        style="color:#000000;fill:#000000;fill-opacity:0.46666667;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <g
        transform="translate(-434.98392,2)"
@@ -50202,10 +50216,8 @@
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold">Utilities</flowPara><flowPara
            id="flowPara36393"
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /><flowPara
-           id="flowPara36395"
-           style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">    7-Zip</flowPara><flowPara
            id="flowPara36397"
-           style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">    Clamwin</flowPara><flowPara
+           style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">    7-Zip</flowPara><flowPara
            id="flowPara36399"
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">    Infrarecorder</flowPara><flowPara
            id="flowPara36401"
@@ -50231,10 +50243,8 @@
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /><flowPara
            id="flowPara36415"
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /><flowPara
-           id="flowPara36417"
-           style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">WinZip</flowPara><flowPara
            id="flowPara36419"
-           style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">AVG Antivirus</flowPara><flowPara
+           style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">WinZip</flowPara><flowPara
            id="flowPara36421"
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Nero Burning ROM</flowPara><flowPara
            id="flowPara36423"
@@ -50248,7 +50258,7 @@
   </g>
   <g
      id="g13896"
-     transform="translate(-10,4)">
+     transform="translate(-10,-6)">
     <path
        sodipodi:nodetypes="cccccccccccc"
        id="rect9505-3-0-91-9-3"
@@ -50380,7 +50390,7 @@
   </g>
   <path
      style="color:#000000;fill:#000000;fill-opacity:0.46666667;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 232.32858,74.343751 c -3.1655,0 -5.6875,2.553251 -5.6875,5.71875 l 0,74.843749 c 0,4.02882 3.22118,7.28125 7.25,7.28125 l 173.25,0 c 4.02882,0 7.28125,-3.25243 7.28125,-7.28125 l 0,-55.124999 c 0,-4.028817 -3.25243,-7.25 -7.28125,-7.25 l -100.1875,0 0,-12.46875 c 0,-3.165499 -2.55325,-5.71875 -5.71875,-5.71875 l -68.90625,0 z"
+     d="m 232.32858,74.343751 c -3.1655,0 -5.6875,2.553251 -5.6875,5.71875 l 0,86.843749 c 0,4.02882 3.22118,7.28125 7.25,7.28125 l 173.25,0 c 4.02882,0 7.28125,-3.25243 7.28125,-7.28125 l 0,-67.124999 c 0,-4.028817 -3.25243,-7.25 -7.28125,-7.25 l -100.1875,0 0,-12.46875 c 0,-3.165499 -2.55325,-5.71875 -5.71875,-5.71875 l -68.90625,0 z"
      id="rect9505-3-0-91-4"
      sodipodi:nodetypes="cccccccccccc" />
   <g
@@ -50414,7 +50424,9 @@
          style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
          id="flowPara36277">    SMF</flowPara><flowPara
          style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-         id="flowPara36279">    XAMPP</flowPara></flowRoot>    <flowRoot
+         id="flowPara36279">    Wordpress</flowPara><flowPara
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+         id="flowPara12189">    XAMPP</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot36281"
        style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -50441,14 +50453,16 @@
          style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
          id="flowPara36299">Invision Power Board</flowPara><flowPara
          style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+         id="flowPara12191">Blogger</flowPara><flowPara
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
          id="flowPara36301">Internet Information Server</flowPara></flowRoot>  </g>
   <g
      id="g13994"
-     transform="translate(-10,-0.50954793)">
+     transform="translate(-10,11.490452)">
     <path
        sodipodi:nodetypes="cccccccccccc"
        id="rect9505-3-0-91-2-4"
-       d="m 242.32858,168.34375 c -3.1655,0 -5.6875,2.55325 -5.6875,5.71875 l 0,38.84375 c 0,4.02882 3.22118,7.28125 7.25,7.28125 l 173.25,0 c 4.02882,0 7.28125,-3.25243 7.28125,-7.28125 l 0,-19.125 c 0,-4.02882 -3.25243,-7.25 -7.28125,-7.25 l -100.1875,0 0,-12.46875 c 0,-3.1655 -2.55325,-5.71875 -5.71875,-5.71875 l -68.90625,0 z"
+       d="m 242.32858,168.34375 c -3.1655,0 -5.6875,2.55325 -5.6875,5.71875 l 0,46.84375 c 0,4.02882 3.22118,7.28125 7.25,7.28125 l 173.25,0 c 4.02882,0 7.28125,-3.25243 7.28125,-7.28125 l 0,-27.125 c 0,-4.02882 -3.25243,-7.25 -7.28125,-7.25 l -100.1875,0 0,-12.46875 c 0,-3.1655 -2.55325,-5.71875 -5.71875,-5.71875 l -68.90625,0 z"
        style="color:#000000;fill:#000000;fill-opacity:0.46666667;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <g
        transform="translate(-434.98392,0)"
@@ -50472,6 +50486,8 @@
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /><flowPara
            id="flowPara36359"
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">    Audacity</flowPara><flowPara
+           style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+           id="flowPara12193">    Avidemux</flowPara><flowPara
            id="flowPara36361"
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">    VLC</flowPara></flowRoot>      <flowRoot
          transform="matrix(1.1750088,0,0,1.1750088,801.2974,-135.48617)"
@@ -50491,12 +50507,14 @@
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /><flowPara
            id="flowPara36373"
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Adobe Audition</flowPara><flowPara
+           style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+           id="flowPara12195">Adobe Premiere</flowPara><flowPara
            id="flowPara36375"
            style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Microsoft Media Player</flowPara></flowRoot>    </g>
   </g>
   <g
      id="g14012"
-     transform="translate(-10,-7.7133671)">
+     transform="translate(-10,12.286633)">
     <path
        sodipodi:nodetypes="cccccccccccc"
        id="rect9505-3-0-91-9-5"
@@ -50556,7 +50574,7 @@
   </g>
   <g
      id="g14034"
-     transform="translate(-10,-6.2844895)">
+     transform="translate(-10,13.71551)">
     <path
        sodipodi:nodetypes="cccccccccccc"
        id="rect9505-3-0-91-9-3-5"
@@ -50651,7 +50669,7 @@
      inkscape:export-ydpi="72"
      inkscape:export-xdpi="72"
      inkscape:export-filename="C:\Documents and Settings\staff\Desktop\OSDEV_WORK\08-2007\template-cd-chantra\path3759.png"
-     transform="matrix(0.90679074,0,0,0.90679074,534.7685,30.83588)"
+     transform="matrix(0.53016879,0,0,0.53016879,549.76851,16.835921)"
      id="switch4054-1-2">
     <foreignObject
        id="foreignObject4056-2-6"
@@ -51572,38 +51590,84 @@
       </g>
     </g>
   </switch>
-  <flowRoot
-     transform="matrix(1.1750088,0,0,1.1750088,559.95332,25.807334)"
-     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-     id="flowRoot24082-9-2"
-     xml:space="preserve"><flowRegion
-       id="flowRegion24084-6-9"><rect
-         style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1"
-         y="261.91336"
-         x="-37"
-         height="80.553139"
-         width="263.00998"
-         id="rect24086-7-8" /></flowRegion><flowPara
-       id="flowPara24088-2-1"
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold" /><flowPara
-       id="flowPara24090-3-4"
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Chantra เป็นซีดีรวมซอฟต์แวร์โอเพนซอร์สสำหรับ Windows ที่น่าใช้ โดย SIPA เห็นว่าปัจจุบันมีซอฟต์แวร์โอเพนซอร์สจำนวนมาก ซึ่งทำให้ผู้ที่สนใจจะนำซอฟต์แวร์ดังกล่าวไปใช้งานเกิดความสับสนในการเลือกใช้ ทาง SIPA จึงทำการคัดเลือกซอฟต์แวร์โอเพนซอร์สที่มีการใช้งานแพร่หลายและได้รับการยอมรับจากนานาชาติ รวบรวมไว้ในซีดีเพื่อให้เกิดความสะดวกในการเลือกใช้ โดยซอฟต์แวร์ทุกตัวในชุดนี้จะทำงานบนระบบปฏิบัติการ Windows เพื่อให้ผู้ใช้เกิดความคุ้นเคยกับการใช้งานซอฟต์แวร์โอเพนซอร์ส เพื่อให้ง่ายต่อการปรับตัวไปใช้ระบบที่เป็นโอเพนซอร์สโดยสมบูรณ์ในอนาคต</flowPara><flowPara
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-       id="flowPara24092-2-1" /></flowRoot>  <flowRoot
-     transform="matrix(1.4834854,0,0,1.4834854,570.37184,-58.862916)"
-     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-     id="flowRoot24070-5-2"
-     xml:space="preserve"><flowRegion
-       id="flowRegion24072-3-5"><rect
-         style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1"
-         y="261.91336"
-         x="-37"
-         height="126.98941"
-         width="190.74388"
-         id="rect24074-0-1" /></flowRegion><flowPara
-       id="flowPara24076-9-5"
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold">Chantra คืออะไร</flowPara><flowPara
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
-       id="flowPara24078-2-2" /><flowPara
-       id="flowPara24080-9-2"
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /></flowRoot></svg>
+  <g
+     id="g12301"
+     transform="translate(33.770531,-4)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot24082-9-2"
+       style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.1750088,0,0,1.1750088,559.95332,25.807334)"><flowRegion
+         id="flowRegion24084-6-9"><rect
+           id="rect24086-7-8"
+           width="245.98882"
+           height="75.4468"
+           x="-37"
+           y="261.91336"
+           style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
+         id="flowPara24088-2-1" /><flowPara
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+         id="flowPara24090-3-4">Chantra เป็นซีดีรวมซอฟต์แวร์โอเพนซอร์สสำหรับ Windows ที่น่าใช้ โดย SIPA เห็นว่าปัจจุบันมีซอฟต์แวร์โอเพนซอร์สจำนวนมาก ซึ่งทำให้ผู้ที่สนใจจะนำซอฟต์แวร์ดังกล่าวไปใช้งานเกิดความสับสนในการเลือกใช้ ทาง SIPA จึงทำการคัดเลือกซอฟต์แวร์โอเพนซอร์สที่มีการใช้งานแพร่หลายและได้รับการยอมรับจากนานาชาติ รวบรวมไว้ในซีดีเพื่อให้เกิดความสะดวกในการเลือกใช้ โดยซอฟต์แวร์ทุกตัวในชุดนี้จะทำงานบนระบบปฏิบัติการ Windows เพื่อให้ผู้ใช้เกิดความคุ้นเคยกับการใช้งานซอฟต์แวร์โอเพนซอร์ส เพื่อให้ง่ายต่อการปรับตัวไปใช้ระบบที่เป็นโอเพนซอร์สโดยสมบูรณ์ในอนาคต</flowPara><flowPara
+         id="flowPara24092-2-1"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot24070-5-2"
+       style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.4834854,0,0,1.4834854,570.37184,-58.862916)"><flowRegion
+         id="flowRegion24072-3-5"><rect
+           id="rect24074-0-1"
+           width="190.74388"
+           height="126.98941"
+           x="-37"
+           y="261.91336"
+           style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
+         id="flowPara24076-9-5">Chantra คืออะไร</flowPara><flowPara
+         id="flowPara24078-2-2"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold" /><flowPara
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+         id="flowPara24080-9-2" /></flowRoot>  </g>
+  <g
+     id="g12317"
+     transform="translate(11.677185,6.15283)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot24082-9-2-6"
+       style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.1750088,0,0,1.1750088,582.23857,-110.43455)"><flowRegion
+         id="flowRegion24084-6-9-9"><rect
+           id="rect24086-7-8-2"
+           width="246.8399"
+           height="96.723236"
+           x="-37"
+           y="261.91336"
+           style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara24092-2-1-7"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"></flowPara><flowPara
+         id="flowPara12295"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">ซอฟต์แวร์โอเพนซอร์ซคือ ซอฟต์แวร์ที่ให้อิสระกับผู้ใช้งานโดยไม่มีข้อจำกัดในการใช้งานใดๆ ทำให้ผู้ใช้งานไม่ต้องกังวลเกี่ยวกับการละเมิดลิขสิทธิ์ซอฟต์แวร์ นอกจากนี้ยังเปิดโอกาสให้นักพัฒนาสามารถทำการปรับปรุงซอฟต์แวร์ให้เกิดความเหมาะสมและหลากหลายได้อีกด้วย</flowPara><flowPara
+         id="flowPara12297"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"></flowPara><flowPara
+         id="flowPara12315"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">คุณภาพของซอฟต์แวร์โอเพนซอร์ซนั้นได้รับการยอมรับมาแล้วทั่วโลก หลายตัวพิสูจน์ให้เห็นแล้วว่ามีความสามารถมากกว่าซอฟต์แวร์เชิงพาณิชย์ อย่างเว็บเซิร์ฟเวอร์ชื่อ Apache ที่มีการใช้งานในเซิร์ฟเวอร์กันอย่างแพร่หลาย นอกจากนี้ซอฟต์แวร์โอเพนซอร์สยังได้รับความร่วมมือจากนักพัฒนาทั่วทุกมุมโลกทำให้มั่นใจได้ว่าซอฟต์แวร์จะมีการพัฒนาอย่างต่อเนื่อง</flowPara><flowPara
+         id="flowPara12299"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot24070-5-2-7"
+       style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.4834854,0,0,1.4834854,592.65709,-195.1048)"><flowRegion
+         id="flowRegion24072-3-5-5"><rect
+           id="rect24074-0-1-4"
+           width="190.74388"
+           height="126.98941"
+           x="-37"
+           y="261.91336"
+           style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
+         id="flowPara24076-9-5-8">Open Source Software คืออะไร</flowPara><flowPara
+         id="flowPara24078-2-2-1"
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold" /><flowPara
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+         id="flowPara24080-9-2-2" /></flowRoot>  </g>
+</svg>
