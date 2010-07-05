@@ -4,6 +4,13 @@
 
 ??
 
+== Schedule ==
+
+|| Date || Description || Remark ||
+|| 12 Jul 2010 || Application Freeze ||  ||
+
+
+
 == Applications ==
 
 This release contains this applications.
