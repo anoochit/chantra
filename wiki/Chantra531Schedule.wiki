@@ -8,7 +8,7 @@
 
 This release contains this applications.
 
-|| Applications || Version || Current || Remark ||
+|| *Applications* || *Version* || *Current* || *Remark* ||
 || 7 zip || 4.65 || || ||
 || Audacity || 1.2.6 || || ||
 || Avidemux || 2.5.1 || || ||
