@@ -2,4 +2,4 @@
 
 = List Applications =
 
-|Name|Version|
+||Name||Version||
