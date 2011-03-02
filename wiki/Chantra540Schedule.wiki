@@ -5,7 +5,7 @@
 Add your content here.
 
 
-= Details =
+= Application List =
 
 || *No* || *Applications* || *Version* || *Current* || *Update* ||
 || 1 || 7 zip || 4.65 || 9.20 || + ||
