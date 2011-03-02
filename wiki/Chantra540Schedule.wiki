@@ -8,9 +8,9 @@ Add your content here.
 = Details =
 
 || *No* || *Applications* || *Version* || *Current* || *Update* ||
-|| 1 || 7 zip || 4.65 || 9.20 || * ||
+|| 1 || 7 zip || 4.65 || 9.20 || ** ||
 || 2 || Audacity || 1.2.6 || 1.2.6 || ||
-|| 3 || Avidemux || 2.5.1 || 2.5.4 || * ||
+|| 3 || Avidemux || 2.5.1 || 2.5.4 || ** ||
 || 4 || Blender || 2.49b || 2.49b || ||
 || 5 || Celestia || 1.6.0 || 1.6.0 || ||
 || 6 || Dia || 0.97 || || ||
