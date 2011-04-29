@@ -50,4 +50,9 @@
   * problem is about the size of chantra is over ( more than 700MB )
 
 =Solve=
-  * use .7z replace with .zip to reduce file size
+  * use .7z replace with .zip to reduce file size. Below is reduced size file-lists.
+     # drupal
+     # Joomla
+     # moodle
+     # smf
+     # wordpress
