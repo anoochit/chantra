@@ -45,4 +45,4 @@
 ^[1]^ Change OpenOffice.org to LibreOffice
 
 =Problem=
-* problem is about the size of chantra is over ( more than 700MB ).Now the size of chantra.iso is 705.6 MB.
+  * problem is about the size of chantra is over ( more than 700MB ).Now the size of chantra.iso is 705.6 MB.
